@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mac the Tech — AI Training Accreditation Plan</title>
+<style>
+  :root{
+    --navy:#1C2B4A; --navy-2:#25406e; --gold:#C9A441; --gold-deep:#a8862c;
+    --ground:#FDFBF7; --surface:#ffffff; --surface-2:#f6f2e9;
+    --ink:#20242c; --ink-soft:#565c6e; --line:#e6ddc9;
+    --good:#2f7d55; --good-bg:#e7f2eb; --warn:#9a6a12; --warn-bg:#f7edd6;
+    --bad:#a23b3b; --bad-bg:#f6e6e3;
+    --shadow:0 1px 2px rgba(28,43,74,.06),0 6px 22px rgba(28,43,74,.08);
+    --serif:Georgia,'Iowan Old Style','Times New Roman',serif;
+    --sans:system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{
+      --navy:#c7d4ee; --navy-2:#9fb4e0; --gold:#e0bd5c; --gold-deep:#c9a441;
+      --ground:#0E1626; --surface:#151f33; --surface-2:#1b2740;
+      --ink:#e8ecf4; --ink-soft:#9aa4bd; --line:#28344f;
+      --good:#6fce9b; --good-bg:#16301f; --warn:#e0bd5c; --warn-bg:#2c2410;
+      --bad:#e79a95; --bad-bg:#32191a;
+      --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 26px rgba(0,0,0,.35);
+    }
+  }
+  :root[data-theme="light"]{
+    --navy:#1C2B4A; --navy-2:#25406e; --gold:#C9A441; --gold-deep:#a8862c;
+    --ground:#FDFBF7; --surface:#ffffff; --surface-2:#f6f2e9;
+    --ink:#20242c; --ink-soft:#565c6e; --line:#e6ddc9;
+    --good:#2f7d55; --good-bg:#e7f2eb; --warn:#9a6a12; --warn-bg:#f7edd6;
+    --bad:#a23b3b; --bad-bg:#f6e6e3;
+    --shadow:0 1px 2px rgba(28,43,74,.06),0 6px 22px rgba(28,43,74,.08);
+  }
+  :root[data-theme="dark"]{
+    --navy:#c7d4ee; --navy-2:#9fb4e0; --gold:#e0bd5c; --gold-deep:#c9a441;
+    --ground:#0E1626; --surface:#151f33; --surface-2:#1b2740;
+    --ink:#e8ecf4; --ink-soft:#9aa4bd; --line:#28344f;
+    --good:#6fce9b; --good-bg:#16301f; --warn:#e0bd5c; --warn-bg:#2c2410;
+    --bad:#e79a95; --bad-bg:#32191a;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 26px rgba(0,0,0,.35);
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);
+    line-height:1.62;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:860px;margin:0 auto;padding:0 22px 90px}
+  a{color:var(--gold-deep)}
+
+  /* Masthead */
+  .mast{text-align:center;padding:52px 0 30px;border-bottom:2px solid var(--line);margin-bottom:14px}
+  .brand{font-size:.74rem;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-deep);
+    font-weight:700;margin:0 0 14px}
+  .mast h1{font-family:var(--serif);font-weight:700;font-size:2.3rem;line-height:1.1;
+    color:var(--navy);margin:0 0 12px;text-wrap:balance}
+  .mast p{color:var(--ink-soft);max-width:56ch;margin:0 auto;font-size:1rem}
+  .mast .date{font-size:.82rem;color:var(--ink-soft);margin-top:14px;font-style:italic}
+
+  /* Theme toggle */
+  .toggle{position:fixed;top:16px;right:16px;z-index:30;font-family:var(--sans);
+    font-size:.76rem;font-weight:600;cursor:pointer;background:var(--surface);color:var(--navy);
+    border:1px solid var(--line);padding:7px 14px;border-radius:50px;box-shadow:var(--shadow)}
+  .toggle:hover{border-color:var(--gold)}
+  .toggle:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+
+  /* Table of contents */
+  nav.toc{background:var(--surface);border:1px solid var(--line);border-radius:14px;
+    box-shadow:var(--shadow);padding:20px 24px;margin:30px 0}
+  nav.toc h2{font-family:var(--serif);font-size:.95rem;color:var(--navy);margin:0 0 12px;
+    letter-spacing:.02em}
+  nav.toc ol{margin:0;padding-left:1.2em;columns:2;column-gap:32px}
+  @media (max-width:560px){nav.toc ol{columns:1}}
+  nav.toc li{margin-bottom:7px;break-inside:avoid}
+  nav.toc a{text-decoration:none;font-size:.9rem;font-weight:600}
+  nav.toc a:hover{text-decoration:underline}
+
+  section{margin:44px 0}
+  h2.sec{font-family:var(--serif);font-size:1.5rem;color:var(--navy);margin:0 0 6px;
+    padding-bottom:10px;border-bottom:1px solid var(--line);display:flex;align-items:baseline;gap:12px}
+  h2.sec .num{font-size:.9rem;color:var(--gold-deep);font-weight:700;
+    font-variant-numeric:tabular-nums}
+  .lead{color:var(--ink-soft);font-size:.98rem;margin:12px 0 20px;max-width:64ch}
+  h3{font-family:var(--serif);font-size:1.12rem;color:var(--navy);margin:24px 0 8px}
+  p{margin:0 0 14px}
+
+  /* Callout */
+  .callout{border-radius:12px;padding:16px 18px;margin:18px 0;font-size:.94rem;
+    border:1px solid var(--line);background:var(--surface-2)}
+  .callout.key{background:var(--warn-bg);border-color:color-mix(in srgb,var(--warn) 34%,transparent)}
+  .callout.key strong{color:var(--warn)}
+  .callout .ct{font-weight:700;display:block;margin-bottom:4px}
+
+  /* Tables */
+  .tbl-scroll{overflow-x:auto;margin:18px 0;border-radius:12px;border:1px solid var(--line);
+    box-shadow:var(--shadow)}
+  table{border-collapse:collapse;width:100%;min-width:520px;background:var(--surface)}
+  th,td{text-align:left;padding:12px 15px;border-bottom:1px solid var(--line);
+    font-size:.9rem;vertical-align:top}
+  th{background:var(--navy);color:#fff;font-weight:600;font-size:.82rem;
+    letter-spacing:.02em;position:sticky;top:0}
+  @media (prefers-color-scheme:dark){th{color:var(--ground)}}
+  :root[data-theme="dark"] th{color:var(--ground)}
+  :root[data-theme="light"] th{color:#fff}
+  tr:last-child td{border-bottom:none}
+  tbody tr:nth-child(even) td{background:var(--surface-2)}
+  td.num,th.num{font-variant-numeric:tabular-nums;white-space:nowrap}
+  .yes{color:var(--good);font-weight:700}
+  .no{color:var(--bad);font-weight:700}
+
+  /* Track cards */
+  .track{background:var(--surface);border:1px solid var(--line);border-radius:14px;
+    box-shadow:var(--shadow);padding:22px 24px;margin:18px 0;border-left:4px solid var(--gold)}
+  .track h3{margin-top:0}
+  .track ul{margin:8px 0 0;padding-left:1.15em}
+  .track li{margin-bottom:7px}
+  .badge{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.06em;
+    text-transform:uppercase;padding:3px 10px;border-radius:50px;margin-bottom:8px}
+  .badge.fast{background:var(--good-bg);color:var(--good)}
+  .badge.mid{background:var(--surface-2);color:var(--gold-deep)}
+  .badge.slow{background:var(--warn-bg);color:var(--warn)}
+  .wording{background:var(--good-bg);border-radius:8px;padding:10px 14px;margin-top:12px;
+    font-size:.86rem;color:var(--ink)}
+  .wording b{color:var(--good)}
+
+  /* Link list */
+  .links{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:8px}
+  @media (max-width:560px){.links{grid-template-columns:1fr}}
+  .links a{display:block;background:var(--surface);border:1px solid var(--line);
+    border-radius:10px;padding:12px 15px;text-decoration:none;box-shadow:var(--shadow);
+    transition:border-color .15s,transform .15s}
+  .links a:hover{border-color:var(--gold);transform:translateY(-1px)}
+  .links .lt{display:block;font-weight:700;color:var(--navy);font-size:.9rem;margin-bottom:2px}
+  .links .lu{display:block;font-size:.76rem;color:var(--ink-soft);word-break:break-all}
+
+  footer{margin-top:56px;padding-top:22px;border-top:2px solid var(--line);
+    font-size:.82rem;color:var(--ink-soft);text-align:center;line-height:1.7}
+
+  @media print{.toggle{display:none}body{background:#fff}.track,table,nav.toc{box-shadow:none}}
+  @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+</style>
+</head>
+<body>
+<button class="toggle" id="themeBtn" type="button">◐ Theme</button>
+
+<div class="wrap">
+  <div class="mast">
+    <p class="brand">Mac the Tech · AI Training</p>
+    <h1>Accreditation Plan for AI&nbsp;Training Programs</h1>
+    <p>A practical route to putting recognized accreditation on your certificates —
+       what's real, what's fastest, and exactly who to contact.</p>
+    <p class="date">Prepared July 2026</p>
+  </div>
+
+  <nav class="toc">
+    <h2>Contents</h2>
+    <ol>
+      <li><a href="#reality">The reality check</a></li>
+      <li><a href="#track-a">Track A — CPD / CEU (fastest)</a></li>
+      <li><a href="#track-b">Track B — Anthropic &amp; Microsoft</a></li>
+      <li><a href="#track-c">Track C — Institutional</a></li>
+      <li><a href="#roadmap">12-month roadmap</a></li>
+      <li><a href="#compliance">Certificate compliance</a></li>
+      <li><a href="#links">All accreditation links</a></li>
+    </ol>
+  </nav>
+
+  <section id="reality">
+    <h2 class="sec"><span class="num">01</span> The reality check</h2>
+    <p class="lead">"Accredited" means three different things, each with a very different path.
+      Getting this straight first saves months.</p>
+    <div class="tbl-scroll">
+      <table>
+        <thead><tr><th>What you want on the certificate</th><th>Who grants it</th><th class="num">Realistic?</th></tr></thead>
+        <tbody>
+          <tr><td>"CPD Accredited" / CEU credits</td><td>CPD bodies (UK), IACET (US/global)</td><td class="yes">Yes — fastest</td></tr>
+          <tr><td>Microsoft training partner / prepares for Microsoft certs</td><td>Microsoft AI Cloud Partner Program</td><td class="yes">Yes</td></tr>
+          <tr><td>Built on Anthropic's AI Fluency framework / Claude Partner</td><td>Anthropic Claude Partner Network</td><td class="yes">Yes — free</td></tr>
+          <tr><td>Google Cloud training partner / prepares for Google AI certs</td><td>Google Cloud Partner Network</td><td class="yes">Yes</td></tr>
+          <tr><td>"Accredited <em>by</em> Anthropic", "<em>by</em> Microsoft" or "<em>by</em> Google"</td><td>—</td><td class="no">No</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="callout key">
+      <span class="ct">The one thing to understand</span>
+      Anthropic and Microsoft do <strong>not "accredit"</strong> third-party training the way an
+      accreditation body does. They offer <strong>partnership, licensed content, and their own
+      certifications your students can earn</strong>. Your certificate can truthfully say
+      "Delivered by a Microsoft Training Services Partner" or "Curriculum based on Anthropic's
+      AI Fluency framework" — but never "Accredited by Microsoft/Anthropic" unless a partner
+      agreement grants that exact wording.
+    </div>
+  </section>
+
+  <section id="track-a">
+    <h2 class="sec"><span class="num">02</span> Track A — CPD / CEU accreditation</h2>
+    <p class="lead">The quickest way to a recognized accreditation mark on your certificates.
+      Start here.</p>
+
+    <div class="track">
+      <span class="badge fast">1–3 months · recommended first</span>
+      <h3>Option A1 · CPD accreditation (UK-based, globally recognized)</h3>
+      <ul>
+        <li><b>Bodies:</b> The CPD Certification Service, CPD Standards Office, The CPD Group.</li>
+        <li><b>Process:</b> free consultation → register as a CPD provider → submit course materials
+          → assessed in ~30 days → certified status + trustmark.</li>
+        <li><b>Cost:</b> roughly <span style="font-variant-numeric:tabular-nums">£200–£1,000</span>
+          per course (package deals for multiples).</li>
+        <li><b>You get:</b> "CPD Accredited" logo, directory listing, CPD hours printed on each certificate.</li>
+      </ul>
+    </div>
+
+    <div class="track">
+      <span class="badge mid">US / international · issues CEUs</span>
+      <h3>Option A2 · IACET accreditation</h3>
+      <ul>
+        <li><b>Standard:</b> ANSI/IACET 1-2018 for Continuing Education and Training.</li>
+        <li><b>Eligibility:</b> legally registered business, <b>at least 1 year in operation</b>,
+          running the training as described for 3+ months.</li>
+        <li><b>Cost:</b> <span style="font-variant-numeric:tabular-nums">$495</span> to start
+          (Standard + application); full accreditation costs more. Reaccredit every 5 years.</li>
+        <li><b>You get:</b> authority to award <b>CEUs</b> — accepted by US employers, government,
+          and licensing boards.</li>
+      </ul>
+    </div>
+
+    <div class="callout">
+      <span class="ct">Recommendation</span>
+      Start with <b>CPD (A1)</b> — cheaper, faster, internationally recognizable. Add IACET later
+      only if you target US corporate or government clients.
+    </div>
+  </section>
+
+  <section id="track-b">
+    <h2 class="sec"><span class="num">03</span> Track B — Anthropic &amp; Microsoft</h2>
+    <p class="lead">Vendor alignment. Not "accreditation" — but powerful, credible wording your
+      certificate can carry, plus real credentials your students earn.</p>
+
+    <div class="track">
+      <span class="badge fast">Free to join</span>
+      <h3>B1 · Anthropic — Claude Partner Network + AI Fluency</h3>
+      <ul>
+        <li><b>Join the Claude Partner Network</b> (free; open to any org bringing Claude to market).
+          Backed by a $100M 2026 commitment to partner training and co-marketing.</li>
+        <li><b>Use the AI Fluency curriculum legally.</b> Framework &amp; Foundations and the
+          Teaching AI Fluency (train-the-trainer) course are released under a <b>Creative Commons
+          license</b> — adapt and deliver them with attribution.</li>
+        <li><b>Certify your trainers</b> via Anthropic's Pearson VUE program (Practitioner /
+          Architect / Developer tracks rolling out through 2026).</li>
+        <li><b>Pursue the Services Track</b> once established — the closest thing to an Anthropic
+          "stamp" for a training firm.</li>
+      </ul>
+      <div class="wording">Certificate wording you can earn: <b>"Member of the Claude Partner
+        Network"</b> · <b>"Curriculum adapted from Anthropic's AI Fluency framework"</b> ·
+        <b>"Taught by Claude Certified instructors."</b></div>
+    </div>
+
+    <div class="track">
+      <span class="badge slow">2–9 months</span>
+      <h3>B2 · Microsoft — Training Services Partner + MCT</h3>
+      <ul>
+        <li><b>Join the Microsoft AI Cloud Partner Program</b> (free base membership via Partner Center).</li>
+        <li><b>Certify a trainer as MCT:</b> hold the AI/Copilot foundational cert (AB-730/731),
+          complete the ~3-day MCT onboarding, deliver ≥1 Microsoft course/year, renew annually.</li>
+        <li><b>Enroll for the Training Services Partner designation:</b> use official Microsoft
+          courseware via Microsoft Learn, deliver with MCTs, issue achievement codes + quality survey.</li>
+        <li><b>Deliver official courses</b> (AI-900, AI-102, Copilot skills) so students earn
+          Microsoft-issued credentials alongside your certificate.</li>
+      </ul>
+      <div class="wording">Certificate wording you can earn: <b>"Delivered by a Microsoft Training
+        Services Partner"</b> · <b>"Prepares for Microsoft Certified: Azure AI Fundamentals (AI-900)."</b></div>
+    </div>
+
+    <div class="track">
+      <span class="badge slow">Partner: 2–9 months · Trainer: faster</span>
+      <h3>B3 · Google — Cloud Partner Network + Authorized Trainer</h3>
+      <ul>
+        <li><b>Join the Google Cloud Partner Network</b> (relaunching from Partner Advantage in
+          Q1 2026, with a ~6-month transition window). Most orgs start as a Member with access to
+          the Partner Hub and training materials.</li>
+        <li><b>Get a trainer certified as a Google Cloud Authorized Trainer:</b> hold the Google
+          Cloud certification for the course taught, affiliate with an Authorized Training Partner
+          (or apply as <b>Freelance</b>), and pass a trainer evaluation (a simulated session with a
+          Googler). Official courseware and labs are delivered via Google Cloud Skills Boost / Qwiklabs.</li>
+        <li><b>Authorized Training Partner (ATP)</b> is the org-level route to deliver official
+          instructor-led Google Cloud courses — a higher bar (active authorization under the
+          Services Engagement model), best pursued once established.</li>
+        <li><b>Have students earn Google-issued AI credentials</b> — the <b>Generative AI Leader</b>
+          certification is the most relevant (business-focused, no-code; free learning path on
+          Google Cloud Skills Boost). Add the Google AI Professional Certificate (Coursera) for a
+          consumer-level option.</li>
+      </ul>
+      <div class="wording">Certificate wording you can earn: <b>"Delivered by a Google Cloud
+        Authorized Trainer"</b> · <b>"Prepares for the Google Cloud Generative AI Leader certification."</b></div>
+    </div>
+  </section>
+
+  <section id="track-c">
+    <h2 class="sec"><span class="num">04</span> Track C — Institutional (optional)</h2>
+    <p class="lead">Slower, heavier, for long-term B2B / government positioning — 6–18 months.</p>
+    <div class="track">
+      <ul>
+        <li><b>ISO 21001</b> (Educational Organizations Management System) — international,
+          certifiable by any accredited body; strong B2B/government signal.</li>
+        <li><b>National regulated-qualification routes</b> — e.g. an Ofqual-regulated awarding
+          organization (NCFE, TQUK, Highfield) in the UK, state/provincial private-provider
+          licensing in the US/Canada, or your national training authority (KHDA in Dubai,
+          HRD Corp in Malaysia).</li>
+        <li><b>University partnership</b> — co-certify with a university's continuing-education
+          arm; slow but academically weighty.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="roadmap">
+    <h2 class="sec"><span class="num">05</span> Recommended 12-month roadmap</h2>
+    <div class="tbl-scroll">
+      <table>
+        <thead><tr><th>Phase</th><th class="num">When</th><th>Actions</th><th class="num">Cost (est.)</th></tr></thead>
+        <tbody>
+          <tr><td>1 · Foundations</td><td class="num">Month 1</td><td>Document each course: outcomes, syllabus, assessment, trainer CVs, feedback. Required by every body below.</td><td class="num">Time only</td></tr>
+          <tr><td>2 · CPD accreditation</td><td class="num">Months 1–3</td><td>Apply to The CPD Certification Service; submit flagship course first.</td><td class="num">£200–£1,000/course</td></tr>
+          <tr><td>3 · Anthropic alignment</td><td class="num">Months 1–3</td><td>Join Claude Partner Network (free); adapt AI Fluency CC content; book Pearson VUE certification for lead trainer.</td><td class="num">Exam fees</td></tr>
+          <tr><td>4 · Digital credentials</td><td class="num">Months 2–4</td><td>Issue certificates as verifiable badges (Credly/Accredible) showing CPD hours + partner logos.</td><td class="num">~$1–3k/yr</td></tr>
+          <tr><td>5 · Microsoft partner</td><td class="num">Months 3–9</td><td>Join AI Cloud Partner Program; trainer earns MCT; enroll as Training Services Partner; add AI-900.</td><td class="num">Exams + MCT fee</td></tr>
+          <tr><td>6 · Scale up</td><td class="num">Months 9–18</td><td>Evaluate IACET (US-focused) or ISO 21001 / national accreditation (institutional clients).</td><td class="num">$5k–$20k</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="compliance">
+    <h2 class="sec"><span class="num">06</span> Certificate compliance notes</h2>
+    <div class="track">
+      <ul>
+        <li>Never print "Accredited by Anthropic" or "Accredited by Microsoft" — use only the
+          partner wording each brand's guidelines permit.</li>
+        <li>CPD / IACET marks may appear <b>only</b> on the specific courses that were assessed.</li>
+        <li>Anthropic's CC-licensed AI Fluency content requires attribution — check the exact CC
+          variant (BY / BY-NC / BY-SA) before charging for derived courses.</li>
+        <li>Keep attendance and assessment records — every accreditor audits these at renewal.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="links">
+    <h2 class="sec"><span class="num">07</span> All accreditation links</h2>
+    <div class="links">
+      <a href="https://www.anthropic.com/news/claude-partner-network" target="_blank" rel="noopener">
+        <span class="lt">Anthropic · Claude Partner Network</span><span class="lu">anthropic.com/news/claude-partner-network</span></a>
+      <a href="https://www.pearsonvue.com/us/en/anthropic.html" target="_blank" rel="noopener">
+        <span class="lt">Anthropic · Certifications (Pearson VUE)</span><span class="lu">pearsonvue.com/us/en/anthropic.html</span></a>
+      <a href="https://anthropic.skilljar.com/teaching-ai-fluency" target="_blank" rel="noopener">
+        <span class="lt">Anthropic · Teaching AI Fluency</span><span class="lu">anthropic.skilljar.com/teaching-ai-fluency</span></a>
+      <a href="https://www.anthropic.com/learn/claude-for-you" target="_blank" rel="noopener">
+        <span class="lt">Anthropic · AI Fluency framework</span><span class="lu">anthropic.com/learn/claude-for-you</span></a>
+      <a href="https://learn.microsoft.com/en-us/partner-center/membership/mpn-benefits-map-competency-learning-option-enroll" target="_blank" rel="noopener">
+        <span class="lt">Microsoft · Training Services Partner enrollment</span><span class="lu">learn.microsoft.com · partner-center</span></a>
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/mct-certification" target="_blank" rel="noopener">
+        <span class="lt">Microsoft · Certified Trainer (MCT)</span><span class="lu">learn.microsoft.com · mct-certification</span></a>
+      <a href="https://learn.microsoft.com/en-us/partner-center/membership/qualification-dashboard-training-service-partner" target="_blank" rel="noopener">
+        <span class="lt">Microsoft · Training Services Partner designation</span><span class="lu">learn.microsoft.com · qualification-dashboard</span></a>
+      <a href="https://www.cpduk.co.uk/how-much-does-accreditation-cost-to-become-a-cpd-provider" target="_blank" rel="noopener">
+        <span class="lt">CPD Certification Service · costs</span><span class="lu">cpduk.co.uk</span></a>
+      <a href="https://www.cpdstandards.com/become-accredited/how-the-process-works/" target="_blank" rel="noopener">
+        <span class="lt">CPD Standards Office · 30-day process</span><span class="lu">cpdstandards.com</span></a>
+      <a href="https://www.iacet.org/ce-t-accreditation/eligibility/" target="_blank" rel="noopener">
+        <span class="lt">IACET · eligibility</span><span class="lu">iacet.org · eligibility</span></a>
+      <a href="https://www.iacet.org/ce-t-accreditation/application-process/" target="_blank" rel="noopener">
+        <span class="lt">IACET · application process</span><span class="lu">iacet.org · application-process</span></a>
+      <a href="https://cloud.google.com/partners" target="_blank" rel="noopener">
+        <span class="lt">Google Cloud · Partner Network</span><span class="lu">cloud.google.com/partners</span></a>
+      <a href="https://sites.google.com/view/gcptrainer" target="_blank" rel="noopener">
+        <span class="lt">Google Cloud · Authorized Trainer info</span><span class="lu">sites.google.com/view/gcptrainer</span></a>
+      <a href="https://www.skills.google/paths/1951" target="_blank" rel="noopener">
+        <span class="lt">Google · Generative AI Leader certification</span><span class="lu">skills.google/paths/1951</span></a>
+      <a href="https://grow.google/ai-professional/" target="_blank" rel="noopener">
+        <span class="lt">Google · AI Professional Certificate</span><span class="lu">grow.google/ai-professional</span></a>
+      <a href="https://www.iso.org/standard/66266.html" target="_blank" rel="noopener">
+        <span class="lt">ISO 21001 · education management standard</span><span class="lu">iso.org · standard/66266</span></a>
+    </div>
+  </section>
+
+  <footer>
+    Mac the Tech — AI Training Accreditation Plan · Prepared July 2026<br>
+    A companion interactive fast-track checklist is available as a shareable page.
+  </footer>
+</div>
+
+<script>
+  document.getElementById("themeBtn").addEventListener("click",function(){
+    var cur=document.documentElement.getAttribute("data-theme");
+    var next=cur==="dark"?"light":cur==="light"?"dark":
+      (matchMedia("(prefers-color-scheme:dark)").matches?"light":"dark");
+    document.documentElement.setAttribute("data-theme",next);
+  });
+</script>
+</body>
+</html>
