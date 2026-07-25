@@ -107,27 +107,31 @@ The athlete reports **constant fatigue and tiredness** across recent weeks. Curr
 | 4 | Afternoon | Karisheh cheesecake bowl: 200 g karisheh, 2 dates, 1 stevia sachet, cinnamon, banana (honey unavailable, substituted) | 26 | 63 | 4.5 | ~400 |
 | | **Subtotal consumed** | | **158.5** | **157** | **58** | **~1800** |
 
-### Planned for the remainder of the day
+### Evening meals as actually eaten
 
 | # | Meal | Detail | P | C | F | kcal |
 |---|---|---|---|---|---|---|
-| 5 | Dinner | "Lazy man'oushe": 1 tannour bread (Lakkis Farm, ~100 g), 150 g karisheh, za'atar, tomato, cucumber, mint. **No olive oil drizzle** (lunch sauce already pushed fat high). | 31 | 70 | 4.5 | ~470 |
-| 6 | Pre-bed | 100 g cold leftover shish tawook strips + cucumber | 30 | 2 | 3.5 | ~160 |
-| 7 | Top-up | 1 apple or orange, plus 1 to 2 extra dates if appetite allows | 1 | 25 | 0 | ~100 |
+| 5 | Dinner (21:00) | Sweet man'oushe: 1 tannour bread (Lakkis Farm, ~100 g), 150 g karisheh, 1 tbsp honey. No za'atar, no vegetables, no olive oil. | 29 | 81 | 3 | ~490 |
+| 6 | Final item | 1 protein cookie | 7 | 9 | 4 | ~100 |
+| | *Not eaten* | *Pre-bed tawook strips declined by choice. Fruit top-up skipped, the honey covered that carb slot.* | | | | |
 
-### Projected day close
+### Day close (actual)
 
 | | Protein | Carbs | Fat | Calories |
 |---|---|---|---|---|
-| **Total** | **~220 g** | **~254 g** | **~66 g** | **~2490** |
+| **Total** | **~194 g** | **~247 g** | **~65 g** | **~2350** |
 | Target | 190 to 215 g | 250 g cap | ~60 g (43 g floor) | 2565 to 2735 (diet break) |
-| Verdict | Excellent | On cap | Slightly over, acceptable | ~100 kcal under, acceptable |
+| Verdict | On floor | Under cap | Slightly over, acceptable | ~200 kcal under the diet-break band |
 
 ### Coaching notes on today's intake
 - **Fat came in high from one source: the spicy sauce on the lunch wrap.** Likely mayo or garlic based, roughly 100 to 150 kcal. Recommendation going forward: request the sauce on the side or light. That is ~100 kcal recovered daily with no loss of enjoyment.
 - **The fattoush was built correctly** (half spoon olive oil, no fried khubz), landing at ~125 kcal rather than the ~340 kcal a standard restaurant bowl carries.
-- **Appetite was the limiting factor, not willpower.** If meals 5 to 7 are not fully completed, the pre-bed protein (meal 6) is the priority item to protect. The tannour man'oushe is the flexible one.
+- **Appetite was the limiting factor, not willpower.** From mid-afternoon the athlete reported being full and struggling to eat. Meals were spaced out rather than forced, which is the correct handling.
 - **Fluid protein is the workaround for low appetite.** The karisheh bowl blends into a cold smoothie with identical macros and goes down far more easily.
+- **Honey was unavailable at the afternoon bowl, so stevia was substituted.** Honey was located later and used on the evening man'oushe instead. Net effect neutral.
+- **Evening pivot:** the athlete declined the pre-bed chicken and closed the day with a sweet karisheh and honey man'oushe plus a protein cookie. Protein still landed on the 190 g floor. Karisheh is a slow-digesting dairy protein, so it covers the overnight role the chicken would have played.
+- **Calories closed ~200 kcal under the diet-break maintenance band**, making today a gentle deficit rather than a true maintenance day. Acceptable once. Should not repeat on tomorrow's rest day while fatigue is still being managed.
+- **Vegetables were dropped from dinner** (no tomato, cucumber or mint). Acceptable today only because lunch carried a large fattoush. Not a default to adopt.
 
 ---
 
