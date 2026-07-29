@@ -158,28 +158,32 @@ No pain resulted. Do not repeat it.
 | 4 | Evening | Grill: fattoush, half taouk skewer, 1 kafta skewer, 1 lahm meshwi skewer (6 small cubes), half tannour, muttabal, 1 Pepsi Zero | 62.5 | 55 | 47.5 | ~880 |
 | | | **Subtotal consumed** | **~190** | **~152** | **~92** | **~2190** |
 
-### Prescribed to close the day (not yet confirmed eaten)
+### Final meal, as eaten (confirmed)
 
 | # | Meal | P | C | F | kcal |
 |---|---|---|---|---|---|
-| 5 | 150 g karisheh + half tannour + 1 banana + 1 tbsp honey | 25 | 78 | 3 | ~459 |
+| 5 | 200 g karisheh + 1 banana + 1 tbsp honey | 25 | 49 | 4.5 | ~365 |
 
-### Projected day close
+Prescribed was 150 g karisheh + **half tannour** + banana + honey (25 P, 78 C, 3 F, ~459 kcal). Two changes: karisheh went up 50 g, and **the half tannour was dropped**. The extra karisheh replaced the tannour's protein exactly, so protein was unaffected, but the swap cost **29 g of carbs, ~94 kcal and ~1.5 g of fibre**.
+
+### Day close, actual
 
 | | Protein | Carbs | Fat | Calories |
 |---|---|---|---|---|
-| **Projected total** | **~215 g** | **~230 g** | **~95 g** | **~2635** |
+| **Actual total** | **~215 g** | **~201 g** | **~96 g** | **~2555** |
 | Target | 190 to 215 g | 250 g cap | 85 to 95 g | 2565 to 2735 |
-| Verdict | **Top of band** | **20 g under cap** | **At target** | **Mid-band** |
+| Verdict | **Top of band, exact** | **49 g under cap** | **~1 g over** | **~10 kcal under floor** |
 
-**If the evening meal is eaten as prescribed this is the first day all four targets land simultaneously.**
+**Protein landed exactly on the ceiling and carbs stayed well inside the cap.** Fat at ~96 g and calories at ~2555 are both within estimation error of the band — the grill portions alone carry more uncertainty than either gap — so this is a good day, not a missed one.
+
+**The one real note is direction, not size.** The day was built to close mid-band at ~2635 and it closed at the floor instead. Dropping the tannour is what moved it. This is the fourth day this week the close ran lighter than prescribed; the previous three ran ~190 kcal below the band. **On a diet break the point is to eat at maintenance, so landing at the floor repeatedly defeats the purpose.** The tannour was in the plan for that reason and should not be the piece that gets dropped.
 
 ### Coaching notes on today's intake
 
 - **Breakfast front-loading was executed on the first morning it was asked for.** Yesterday's first food was ~100 kcal. Today's was ~587 kcal with 49.5 g protein before mid-morning. This was the single structural fix identified yesterday and he did it immediately.
 - **The Protein Sandwich is the best protein-per-calorie item logged all week**: 67.7 g protein in 560 kcal, 48% of calories from protein, and only 21 g carbs because it uses a low-carb wrap.
 - **Portion estimates for Lebanese grill ran high three times** before settling. Going forward the athlete should report grill orders the way the restaurant counts them: number and type of skewers.
-- **Fibre landed at roughly 24 to 25 g without figs or walnuts**, carried by two bananas, the fattoush, the muttabal, the maamoul and two half tannours. Inside the 25 to 30 g zone. Compare Sunday's 14 g.
+- **Fibre landed at roughly 23 g without figs or walnuts**, carried by two bananas, the fattoush, the muttabal, the maamoul and the one half tannour at the grill. Just under the 25 to 30 g zone, and it would have been inside it had the second half tannour been eaten as prescribed. Compare Sunday's 14 g.
 - **Fat composition ran the wrong way for the day the LDL result arrived.** Kafta and grilled beef contributed roughly 24 g of largely saturated fat. Tahini in the muttabal and olive oil in the fattoush were the only unsaturated contributors. Total fat is on target; the mix is not.
 - **Caffeine load is roughly 650 to 720 mg/day**, against a 400 mg guideline. Sources: one Starbucks Pike Place (~310 mg), two to three capsules (~140-210 mg), and three Pepsi Zero (~200 mg). **The Pepsi Zero is the invisible contributor**, carrying nearly double the caffeine of regular Pepsi. This directly feeds the sleep problem in section 3.
 
@@ -313,6 +317,7 @@ Chronic sinus problems with headaches triggered by travel between Beirut (sea le
 - [ ] **Hold 2 RIR on the lateral raise next Wednesday**, even when it feels easy. That single lift is where this session went off-plan.
 - [ ] **Confirm whether red meat is back in permanently.** Section 6.
 - [ ] **Confirm whether figs and walnuts are out of stock or off the menu.** If off the menu, fibre moves to lentils (8 g per cup) and unsaturated fat to olive oil, tahini or almonds.
+- [ ] **Eat the closing carb portion as written for the rest of the break.** Four days running the close has come in lighter than prescribed, and the piece dropped is always the starch. Section 5.
 - [ ] **Introduce lentils.** Still the largest single gap: fixes monotony, budget and fibre together.
 - [ ] **Weigh tomorrow morning** after the toilet, before food or water. Today's 86 kg was a guess and was not logged.
 - [ ] Get the **gym carrot cake** calorie figure from the menu.
