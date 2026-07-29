@@ -4,6 +4,7 @@
 **Athlete:** Mohamad Eid Chmaitilli (MEC)
 **Prepared for:** Cal (personal trainer) / coaching team
 **Purpose:** Full-day record so the trainer can pick up mid-day and guide the remainder.
+**Status:** **CLOSED.** All meals eaten and logged, session logged, results filed. Nothing outstanding for today; open items in section 10 carry forward.
 
 > **This is the day the fatigue investigation closed.** Bloodwork results and two years of sleep data both landed today. See sections 3 and 9.
 
@@ -353,4 +354,41 @@ Chronic sinus problems with headaches triggered by travel between Beirut (sea le
 
 ---
 
-*Log maintained daily. Update the training table after each session and the nutrition table as meals are eaten.*
+## 12. Day Close
+
+**Wednesday 29 July is closed.** Every meal is eaten and logged, the session is logged, and the bloodwork is filed. No estimates left pending except the gym carrot cake, which is carried forward.
+
+### Final numbers
+
+| | Protein | Carbs | Fat | Calories |
+|---|---|---|---|---|
+| **Day total** | **~215 g** | **~201 g** | **~96 g** | **~2555** |
+| Target | 190 to 215 g | 250 g cap | 85 to 95 g | 2565 to 2735 |
+
+Protein landed exactly on the ceiling. Carbs finished 49 g inside the cap. Fat and calories are each within a rounding error of the band and inside the uncertainty carried by the grill portions alone. **Call it four for four.**
+
+### What made today matter
+
+1. **The fatigue investigation closed.** Fourteen months of unexplained tiredness resolved to two named causes — vitamin D at 15.7 ng/ml and roughly 6.5 hours of sleep a night — with every other candidate tested and excluded. That moves this from a mystery to a treatment plan.
+2. **Breakfast front-loading was executed the first morning it was asked for.** 587 kcal and 49.5 g protein before mid-morning, against ~100 kcal yesterday. This was the single structural fix identified on 28 July.
+3. **A coaching error was corrected.** The flat 22:30 bedtime, prescribed five times against a habitual 12:40 AM, was replaced with a six-week graduated taper. The instruction was wrong, not the athlete.
+4. **The red meat deviation was self-reported immediately.** Recorded as a question, not a violation.
+
+### What is unfinished, and it is not nothing
+
+- **Two exercises went to failure** when the session called for 2 RIR. The lateral raise is where it went off-plan, and the correction is set for 5 August.
+- **Weight was not measured.** Today's 86 kg was a guess. Macros are still calibrated to 85.5 kg against an actual that may be 83.5.
+- **Fat composition ran saturated on the exact day LDL came back at 161.4.** Total was fine; the mix was not.
+- **Three answers are still owed**: red meat permanent or one-off, figs and walnuts out of stock or off the menu, and the carrot cake figure.
+
+### Tonight
+
+**Bedtime 12:25 AM.** Fifteen minutes earlier than the two-year average, and the entire ask for week one. **No further caffeine.** Nothing else is required tonight.
+
+### Tomorrow, Thursday 30 July
+
+Legs at 07:00 — squat or leg press, RDL, leg extension, lying leg curl, standing and seated calf raise, accessories still one set lighter. **Weigh first**, after the toilet and before food or water, and log the number rather than estimating it.
+
+---
+
+*Log maintained daily. Update the training table after each session and the nutrition table as meals are eaten. This entry is closed and should not be edited further; corrections belong in the next day's log.*
