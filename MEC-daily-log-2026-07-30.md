@@ -487,6 +487,45 @@ That is a better answer than the alternatives, and it sharpens the diagnosis in 
 
 Figs and walnuts carry only 5.5 g of protein, so the meal has to do that work. **Four eggs instead of two** is the cheapest fix and needs no extra shopping:
 
+#### Constraints tightened again: no karisheh, physio 18:00 to 19:00, driving 19:00 to 20:00
+
+**The window is now roughly 30 minutes, before 18:00.** After physio he is collecting the children and going straight to the film, so there is no second opportunity.
+
+**Losing karisheh costs 24 g of protein and removes the only quick non-egg protein in the plan.** Eggs, tannour and banana cannot carry 190 g of protein between them.
+
+**The solution is already in the kitchen: NitroTech.** It was used on 29 July in meal 1, so it is in stock despite whey having been dropped for budget on 25 July. One scoop is ~30 g protein for ~150 kcal and 1.5 g fat, it takes two minutes, and it is the only realistic way to protect protein inside a 30-minute window.
+
+| Item | P | C | F | kcal | Prep |
+|---|---|---|---|---|---|
+| **1 scoop NitroTech** | **30** | 3 | 1.5 | ~150 | 2 min |
+| 5 eggs | 30 | 2.5 | 25 | ~388 | ~10 min |
+| Tannour, 1.5 | 16.5 | 90 | 0 | ~420 | none |
+| Olive oil, 1 tbsp | 0 | 0 | 14 | ~125 | none |
+| 1 banana | 1.3 | 27 | 0.4 | ~105 | none |
+| 1 tbsp honey | 0 | 17 | 0 | ~64 | none |
+| **Meal total** | **~78** | **~140** | **~41** | **~1252** | **~15 min** |
+
+#### Projected close, revised
+
+| | Projected | Target | Verdict |
+|---|---|---|---|
+| Protein | ~181 g | 190 to 215 g | **9 under floor** |
+| Carbs | ~226 g | 250 g cap | 24 g inside |
+| Fat | **~89 g** | 85 to 95 g | **In band** |
+| Calories | ~2442 | 2565 to 2735 | **~123 under** |
+| Fibre | ~18 g | 25 to 30 g | Six times this afternoon's 3 g |
+
+**~123 under the floor with protein 9 short and fat in band is a good day**, and it is being assembled around a physio appointment, a school run and a cinema start time. Two hours ago this day was heading for 1720 under.
+
+**If the full meal will not fit before 18:00, the shake is the non-negotiable part.** It carries 30 g of protein in two minutes. Eggs are the next priority; the tannour, banana and honey need no preparation at all and can be eaten standing up.
+
+**One practical note:** a large meal immediately before lying on a physio table, while already bloated, may be uncomfortable. If it is, take the shake, banana and honey now and the eggs and tannour at 19:00 before collecting the children.
+
+#### Two things to confirm later
+
+- [ ] **Why is karisheh out?** Unavailable, or deliberately avoiding dairy? If it is a decision rather than a supply problem it matters, because dairy volume was named as a contributor to the original GI episode and the one-serving cap exists for that reason. **A deliberate cut would be a useful data point, not a problem.**
+- [ ] **What is the physio for, and does it change tomorrow's arms session?** Physio has not appeared in the record before. If it is rotator cuff work, the Friday session may need adjusting.
+
 **The larger walnut portion changes the meal, and it is a straight improvement.** 30 g of walnuts brings 19.6 g of fat rather than 16.3, which would push the day's fat to ~100 g against an 85 to 95 target. **The fix is to trade olive oil for starch** — cut the oil to 1 tbsp and add half a tannour. Fat lands in band, and the calories move into carbohydrate where there is 160 g of headroom.
 
 | Item | P | C | F | kcal |
