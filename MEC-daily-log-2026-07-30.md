@@ -434,6 +434,30 @@ Sequential elimination is no longer available because the sequence was broken. T
 
 **This costs no extra days** and gives a firmer answer than the original design would have.
 
+### Meal 5, at the cinema — two handfuls of cheese popcorn + Diet 7Up
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Cheese popcorn, ~25 g est (two handfuls) | ~2 | ~13 | ~8 | ~1.8 g | ~130 |
+| Diet 7Up | 0 | 0 | 0 | 0 | 0 |
+| **Total** | **~2** | **~13** | **~8** | **~1.8 g** | **~130** |
+
+**Portion is an estimate.** A handful of coated popcorn runs 10 to 15 g; two handfuls taken at ~25 g. Cheese popcorn is calorie-dense at roughly 520 kcal per 100 g, so the figure moves quickly with portion size.
+
+#### The Diet 7Up was the right drink, and it is worth crediting
+
+**Diet 7Up is caffeine-free.** Pepsi Zero is not — it carries roughly 67 mg per can and was named on 29 July as the invisible contributor pushing daily caffeine to 650 to 720 mg.
+
+This was drunk well after 20:00. **A Pepsi Zero at that hour would have breached the no-caffeine-after-14:00 rule outright and sat directly on top of tonight's sleep target.** The lemon-lime swap avoided that completely. Whether deliberate or not, it was the correct choice at the correct time.
+
+It also carries no polyols — diet sodas use aspartame and acesulfame-K, not sugar alcohols — so it adds nothing to today's 16 g maltitol load.
+
+#### One note: cheese powder is a third lactose exposure
+
+Cheese seasoning on popcorn is built on milk solids and whey powder. **That makes three lactose-bearing items today** — two whey bars and the popcorn — on the day karisheh was eliminated specifically to remove lactose.
+
+The dose here is small and not worth worrying about in isolation. **It matters only because it further confirms that today cannot be used to read the elimination**, which is already the conclusion above. Dairy derivatives are far more widely distributed through processed food than whole dairy is, and that is the thing to watch going forward rather than this particular bag of popcorn.
+
 ### Where the day stands, after two meals
 
 | | Consumed | Target | Remaining |
