@@ -275,7 +275,7 @@ The film puts him home around 23:15. **Tonight's target is 12:25 AM and that is 
 - [ ] **Confirm whether magnesium citrate is actually being taken nightly.**
 - [ ] Vegetables at two meals. Walk after each.
 - [ ] **Check the sweetener line on the Dates Maamoul, Beast Brownie, Protein Cookie Sandwich and the "sugar free" gym carrot cake.** If several carry polyols the daily sugar-alcohol load is well above the 8 g in today's bar. Section 9.
-- [ ] **Cut sugar alcohols to near zero for 3 to 4 days**, keeping the rest of the plan running, then judge bloating and stool separately. Cheapest available test of whether these are two problems or one.
+- [ ] **Hold the sugar-alcohol elimination for now.** Karisheh stopped today, so let that report first — running both at once would make a resolution uninterpretable. Section 9.
 - [ ] **Fibre is at ~3 g today across two meals.** Everything from here needs to carry it.
 - [ ] **Fat is at 28 g against 85 to 95.** Close it with olive oil, tahini, walnuts or almonds, not dairy fat.
 
@@ -427,6 +427,8 @@ This costs nothing, requires no appointment, and would resolve a question the re
 
 #### Before leaving, ten minutes, no cooking beyond eggs
 
+> **SUPERSEDED.** This was the first of three versions of the evening plan, written before the fig and walnut portions were confirmed and before the physio appointment and karisheh elimination were known. **The final version is at the end of this section.** Kept for the reasoning, not the numbers.
+
 | Item | P | C | F | kcal |
 |---|---|---|---|---|
 | Karisheh 200 g | 24 | 5 | 4 | ~196 |
@@ -521,10 +523,62 @@ Figs and walnuts carry only 5.5 g of protein, so the meal has to do that work. *
 
 **One practical note:** a large meal immediately before lying on a physio table, while already bloated, may be uncomfortable. If it is, take the shake, banana and honey now and the eggs and tannour at 19:00 before collecting the children.
 
-#### Two things to confirm later
+#### Answered: karisheh is being deliberately eliminated, and the reason matters
 
-- [ ] **Why is karisheh out?** Unavailable, or deliberately avoiding dairy? If it is a decision rather than a supply problem it matters, because dairy volume was named as a contributor to the original GI episode and the one-serving cap exists for that reason. **A deliberate cut would be a useful data point, not a problem.**
+**MEC reports that karisheh makes him feel full and bloated "every single time," and is stopping it deliberately. It is also no longer in the house.**
+
+**This is the most useful observation of the day.** A symptom that reproduces on every single exposure is not a coincidence, and it converges with something the record concluded independently: **the 26 July corrective plan already named "very high dairy volume, 400 to 500 g of karisheh per day" as cause number two of the constipation and bloating, and capped karisheh at one serving per day for exactly that reason.** The plan hypothesised dairy from the outside; he has now confirmed it from the inside, without being prompted. Two independent routes to the same answer.
+
+##### The likely mechanism: lactose
+
+**Karisheh is a fresh whey cheese, and fresh cheeses retain far more lactose than aged ones.** Hard and aged cheeses lose almost all of it during production and ripening; fresh cheeses do not. So karisheh delivers a substantially larger lactose dose per gram than most other cheeses he might eat.
+
+Three things make this fit well:
+
+1. **Lactose malabsorption is the norm, not the exception, in adults of Levantine descent.** Prevalence across Middle Eastern and Mediterranean populations runs very high, and lactase activity declines further with age. He is 49.
+2. **The symptom profile matches.** Bloating and fullness without diarrhoea is the classic presentation of moderate lactose malabsorption — undigested lactose ferments in the colon and produces gas.
+3. **The dose was very large.** 400 to 500 g per day at points, and 200 g as recently as the 29 July close, the night before he reported waking still bloated.
+
+##### This does not need a test
+
+A hydrogen breath test would confirm it, but **a food that reliably produces the symptom on every exposure, removed cleanly, with symptoms then resolving, is diagnostic enough for practical purposes and costs nothing.** Worth mentioning to Dr Chalhoub in passing at the vitamin D appointment, but not worth its own visit.
+
+##### The sequencing gives a clean read, and it is worth protecting
+
+Two candidate causes of the bloating are now on the table: **lactose from karisheh** and **polyols from bars and sugar-free products.** If both were eliminated at once, a resolution would not say which was responsible.
+
+**They are not being eliminated at once, and that is lucky.** Karisheh stopped today. The bars have not. So:
+
+- **If bloating clears over the next two to three days with karisheh out and bars still in — lactose is the answer** and the polyol question becomes academic.
+- **If bloating persists without karisheh — polyols become the prime suspect** and the test proposed earlier today should run.
+
+**Do not start the polyol elimination yet.** Let the karisheh removal report first. One variable at a time is worth more than three days saved.
+
+##### What removing karisheh costs, and it is not trivial
+
+Karisheh is described in the database as **"best protein value in the kitchen"** — 12 g of protein per 100 g at roughly a third the cost of the gym sandwiches. Removing it takes out **the cheapest protein source in the plan**, on a budget that already forced whey to be dropped on 25 July.
+
+**Lentils are now not optional.** They have been the standing recommendation for four consecutive days and this converts them from a good idea into the structural replacement:
+
+| | Karisheh, 200 g | Lentils, 1 cup cooked |
+|---|---|---|
+| Protein | 24 g | ~18 g |
+| Fibre | 0 g | **~8 g** |
+| Lactose | **Yes** | None |
+| Cost | Cheap | **Cheapest available** |
+
+**One food replaces karisheh on protein and cost, adds the fibre that is currently the biggest gap, and carries no lactose.** Nothing else in the rotation does all four.
+
+##### One consequence to watch: calcium
+
+Karisheh was the main dietary calcium source. Removing it drops calcium intake meaningfully **at the same time as a high-dose vitamin D protocol is about to start** — and serum calcium has never been measured, which is already an open item.
+
+This is a reason to make sure that calcium test happens, not a reason to keep eating karisheh. **Tahini is an excellent replacement** — sesame is among the richest plant calcium sources, it is already in the diet through muttabal, it carries unsaturated fat that the LDL result wants, and it contains no lactose.
+
+- [ ] **Update the seven-source protein rotation to remove karisheh** and promote lentils to the anchor position alongside chicken.
 - [ ] **What is the physio for, and does it change tomorrow's arms session?** Physio has not appeared in the record before. If it is rotator cuff work, the Friday session may need adjusting.
+
+> **ALSO SUPERSEDED.** Second version, written before karisheh was ruled out. Final version is above, under the physio constraint.
 
 **The larger walnut portion changes the meal, and it is a straight improvement.** 30 g of walnuts brings 19.6 g of fat rather than 16.3, which would push the day's fat to ~100 g against an 85 to 95 target. **The fix is to trade olive oil for starch** — cut the oil to 1 tbsp and add half a tannour. Fat lands in band, and the calories move into carbohydrate where there is 160 g of headroom.
 
