@@ -234,7 +234,7 @@ This is not a cause for concern today and there are no red flags — colour is n
 - [ ] Hold 2 RIR on the lateral raise on 5 August.
 - [ ] Eat the closing carb portion as written for the rest of the break.
 - [ ] **Confirm whether red meat is back in permanently.** Asked 29 July, still unanswered.
-- [ ] **Confirm whether figs and walnuts are out of stock or off the menu.** Now materially more urgent — figs are the intervention that was working.
+- [x] ~~**Confirm whether figs and walnuts are out of stock or off the menu.**~~ **Resolved 30 July: neither.** Both were available the whole time and simply were not eaten on 29 July. The fibre plan lapsed rather than failed, which means it is fixable without a shopping trip. Section 9.
 - [ ] Introduce lentils.
 - [ ] Get the gym carrot cake calorie figure from the menu.
 
@@ -398,6 +398,59 @@ It also answers a standing open question, since **walnuts were flagged as absent
 **This does not hit the band and it is not meant to.** Today will be the lightest day of the week regardless. The point is the difference between **444 kcal under and 1720 under** — the first is a normal miss, the second is a 1700 kcal hole dug during a maintenance phase.
 
 If he wants to close further, karisheh at 300 g rather than 200 g adds 12 g protein and 98 kcal for no extra effort.
+
+#### Update: still home, and figs and walnuts are going in
+
+**This resolves a standing open question.** Figs and walnuts were flagged as absent on 29 July with the reason unknown — out of stock, or off the menu. **Neither. They were available the whole time and simply were not eaten.**
+
+That is a better answer than the alternatives, and it sharpens the diagnosis in section 3: **the fibre plan did not fail for lack of supply. It lapsed.** Which means it is fixable tonight rather than requiring a shopping trip.
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Dried figs, 50 g | 1.7 | 32 | 0.5 | **5 g** | ~125 |
+| Walnuts, 25 g | 3.8 | 3.4 | 16.3 | 1.7 g | ~164 |
+| **Total** | **~5.5** | **~35** | **~17** | **~6.7 g** | **~289** |
+
+**This is a better pairing than the almonds suggested above.** Figs carry more fibre per calorie than any other item in the database, and **walnuts are the single best nut for the LDL problem** — they are the only common nut rich in alpha-linolenic acid, the plant omega-3. On the day the fat mix needs to move unsaturated, 25 g of walnuts is the most useful 164 kcal available.
+
+**But 289 kcal does not close a 1720 kcal gap.** Figs and walnuts are the fibre and fat fix, not the calorie fix. **The pre-cinema meal is still the main event.**
+
+#### Revised plan, with protein as the weak point
+
+Figs and walnuts carry only 5.5 g of protein, so the meal has to do that work. **Four eggs instead of two** is the cheapest fix and needs no extra shopping:
+
+| Item | P | C | F | kcal |
+|---|---|---|---|---|
+| Karisheh 200 g (holds the one-serving cap) | 24 | 5 | 4 | ~196 |
+| Tannour, 1 whole | 11 | 60 | 0 | ~280 |
+| Olive oil, 2 tbsp | 0 | 0 | 28 | ~250 |
+| **4 eggs** | **24** | 2 | 20 | ~310 |
+| 1 banana | 1.3 | 27 | 0.4 | ~105 |
+| **Meal total** | **~60** | **~94** | **~52** | **~1141** |
+
+Karisheh stays at 200 g rather than being pushed higher, because **the one-serving-per-day cap exists for the bloating** and tonight is the wrong night to breach it. Eggs carry the protein instead.
+
+#### Projected close
+
+| | Projected | Target | Verdict |
+|---|---|---|---|
+| Protein | ~162 g | 190 to 215 g | 28 under floor |
+| Carbs | ~173 g | 250 g cap | Well inside |
+| Fat | ~97 g | 85 to 95 g | 2 over, **and overwhelmingly unsaturated** |
+| Calories | ~2275 | 2565 to 2735 | **~290 under** |
+| Fibre | **~16 g** | 25 to 30 g | Five times this afternoon's 3 g |
+
+**~290 under is a normal miss**, comparable to 25 and 27 July, and a completely different outcome from the 1720 kcal hole that was in prospect an hour ago.
+
+**On the fat sitting 2 g over target: take it.** Total is marginally above the band, but the composition is olive oil and walnuts rather than kafta and dairy. That is precisely the trade the 28 July lipid panel asked for, and 2 g is inside estimation error anyway.
+
+#### One honest caveat: figs confound the polyol test
+
+Figs contain **sorbitol**, a sugar alcohol. This matters because of the hypothesis raised earlier today about maltitol and bloating.
+
+**It does not change tonight's recommendation.** Figs' sorbitol arrives with 5 g of fibre and is a substantial part of *why* figs relieve constipation — the effect is therapeutic here, not incidental. Maltitol in a manufactured bar arrives with 1 g of fibre and no comparable benefit.
+
+**But it does mean the test proposed above needs stating more precisely.** Cut **added sugar alcohols in manufactured products** — bars, sugar-free baked goods — while keeping figs. If bloating improves on that basis, the engineered polyols are implicated. If it does not, figs remain a possible confounder and the test is suggestive rather than conclusive. Worth knowing the limit of the answer before running it.
 
 #### The cinema does not threaten the sleep plan
 
