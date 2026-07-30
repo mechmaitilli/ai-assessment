@@ -159,7 +159,12 @@ Clear yellow. pH 5. Nitrite, protein, glucose, ketones, bilirubin, urobilinogen 
 | Occult blood, 1st specimen | **Negative** | |
 | FIT test, 1st specimen | **<50** | 0 to 50 negative |
 
-**No gastrointestinal bleeding.** This closes the open item; the sample was returned and processed. Combined with the resolution of the constipation and bloating after the fibre correction, the GI episode can be considered closed.
+**No gastrointestinal bleeding.** This closes the bleeding question; the sample was returned and processed.
+
+> **CORRECTION, 30 July.** This section originally read that the GI episode "can be considered closed." **That was wrong and has been retracted.** A negative FIT test rules out bleeding and nothing else — it says nothing about constipation. The stated premise, resolution of the symptoms after the fibre correction, was never confirmed; it rested on a single good fibre day. The athlete reports continued bloating and constipation on the morning of 30 July. **Open Health Issue B is reopened.** See `MEC-daily-log-2026-07-30.md` section 3.
+
+**What is closed:** GI bleeding, on a negative FIT and negative occult blood.
+**What is not closed:** the constipation and bloating themselves.
 
 ---
 
@@ -193,6 +198,8 @@ Karisheh stays for its protein value, but cheese-based bakery items should becom
 ## 9. Open Items
 
 - [ ] **Vitamin D correction protocol from Dr Chalhoub**, plus a recheck at ~3 months. Highest priority.
+- [ ] **Add serum calcium, albumin and magnesium to the next draw — before the vitamin D protocol starts.** This panel measured sodium and potassium but **not calcium**. Two reasons it matters: constipation plus fatigue with a normal thyroid makes calcium the next reasonable metabolic check, and vitamin D correction increases calcium absorption, so a baseline taken before high-dose supplementation is ordinary good practice. Magnesium because it is being supplemented nightly. Added 30 July.
+- [ ] **Raise the ongoing constipation and bloating**, which are still present on 30 July despite the negative stool results. See the correction in section 7.
 - [ ] **Disclose creatine use** before the creatinine result is interpreted.
 - [ ] **Discuss LDL 161.4 and the HDL fall from 76 to 46.** Ask for a plan, not a deferral.
 - [ ] Query the implausible previous testosterone value of 4.9 from 03/07/25.
