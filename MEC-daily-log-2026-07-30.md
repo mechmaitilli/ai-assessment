@@ -469,11 +469,15 @@ If he wants to close further, karisheh at 300 g rather than 200 g adds 12 g prot
 
 That is a better answer than the alternatives, and it sharpens the diagnosis in section 3: **the fibre plan did not fail for lack of supply. It lapsed.** Which means it is fixable tonight rather than requiring a shopping trip.
 
+**Eaten, confirmed portions: 60 g figs and 30 g walnuts** — more than the 50 g and 25 g proposed.
+
 | Item | P | C | F | Fibre | kcal |
 |---|---|---|---|---|---|
-| Dried figs, 50 g | 1.7 | 32 | 0.5 | **5 g** | ~125 |
-| Walnuts, 25 g | 3.8 | 3.4 | 16.3 | 1.7 g | ~164 |
-| **Total** | **~5.5** | **~35** | **~17** | **~6.7 g** | **~289** |
+| Dried figs, **60 g** | 2.0 | 38.3 | 0.6 | **5.9 g** | ~149 |
+| Walnuts, **30 g** | 4.6 | 4.1 | 19.6 | 2.0 g | ~196 |
+| **Total** | **~6.6** | **~42** | **~20** | **~7.9 g** | **~345** |
+
+**Fibre for the day moves from ~3 g to ~11 g on this alone**, which is more than the entire day had managed across two meals.
 
 **This is a better pairing than the almonds suggested above.** Figs carry more fibre per calorie than any other item in the database, and **walnuts are the single best nut for the LDL problem** — they are the only common nut rich in alpha-linolenic acid, the plant omega-3. On the day the fat mix needs to move unsaturated, 25 g of walnuts is the most useful 164 kcal available.
 
@@ -483,30 +487,32 @@ That is a better answer than the alternatives, and it sharpens the diagnosis in 
 
 Figs and walnuts carry only 5.5 g of protein, so the meal has to do that work. **Four eggs instead of two** is the cheapest fix and needs no extra shopping:
 
+**The larger walnut portion changes the meal, and it is a straight improvement.** 30 g of walnuts brings 19.6 g of fat rather than 16.3, which would push the day's fat to ~100 g against an 85 to 95 target. **The fix is to trade olive oil for starch** — cut the oil to 1 tbsp and add half a tannour. Fat lands in band, and the calories move into carbohydrate where there is 160 g of headroom.
+
 | Item | P | C | F | kcal |
 |---|---|---|---|---|
 | Karisheh 200 g (holds the one-serving cap) | 24 | 5 | 4 | ~196 |
-| Tannour, 1 whole | 11 | 60 | 0 | ~280 |
-| Olive oil, 2 tbsp | 0 | 0 | 28 | ~250 |
-| **4 eggs** | **24** | 2 | 20 | ~310 |
+| Tannour, **1.5** | 16.5 | 90 | 0 | ~420 |
+| Olive oil, **1 tbsp** (was 2) | 0 | 0 | 14 | ~125 |
+| **5 eggs** | **30** | 2.5 | 25 | ~388 |
 | 1 banana | 1.3 | 27 | 0.4 | ~105 |
-| **Meal total** | **~60** | **~94** | **~52** | **~1141** |
+| **Meal total** | **~72** | **~125** | **~43** | **~1234** |
 
-Karisheh stays at 200 g rather than being pushed higher, because **the one-serving-per-day cap exists for the bloating** and tonight is the wrong night to breach it. Eggs carry the protein instead.
+Karisheh stays at 200 g rather than being pushed higher, because **the one-serving-per-day cap exists for the bloating** and tonight is the wrong night to breach it. Eggs carry the protein instead, and they are already endorsed as a preferred fat source in the 28 July bloodwork guidance.
 
 #### Projected close
 
 | | Projected | Target | Verdict |
 |---|---|---|---|
-| Protein | ~162 g | 190 to 215 g | 28 under floor |
-| Carbs | ~173 g | 250 g cap | Well inside |
-| Fat | ~97 g | 85 to 95 g | 2 over, **and overwhelmingly unsaturated** |
-| Calories | ~2275 | 2565 to 2735 | **~290 under** |
-| Fibre | **~16 g** | 25 to 30 g | Five times this afternoon's 3 g |
+| Protein | ~175 g | 190 to 215 g | 15 under floor |
+| Carbs | ~211 g | 250 g cap | 39 g inside |
+| Fat | **~92 g** | 85 to 95 g | **In band** |
+| Calories | ~2424 | 2565 to 2735 | **~141 under** |
+| Fibre | **~18 g** | 25 to 30 g | Six times this afternoon's 3 g |
 
-**~290 under is a normal miss**, comparable to 25 and 27 July, and a completely different outcome from the 1720 kcal hole that was in prospect an hour ago.
+**~141 under the floor would be the second-best calorie day of the week**, behind only yesterday's ~10 under — and it comes on the day that was heading for a 1720 kcal hole two hours ago. Fat lands in band with a composition of olive oil, walnuts and eggs, which is exactly what the lipid panel asked for.
 
-**On the fat sitting 2 g over target: take it.** Total is marginally above the band, but the composition is olive oil and walnuts rather than kafta and dairy. That is precisely the trade the 28 July lipid panel asked for, and 2 g is inside estimation error anyway.
+**Protein at ~175 g is the one target that will miss.** A sixth egg or 100 g more karisheh would close it, but the karisheh cap and the bloating both argue against the second, and 175 g is comfortably above the level where muscle protein balance is at risk. **Let this one go rather than forcing food in before a film.**
 
 #### One honest caveat: figs confound the polyol test
 
