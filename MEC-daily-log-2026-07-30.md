@@ -224,4 +224,60 @@ Unchanged and still applicable: severe pain, blood, vomiting, or genuinely black
 
 ---
 
+## 9. Nutrition Log: Thursday 30 July
+
+### Meal 1, ~12:36
+
+| Item | P | C | F | kcal |
+|---|---|---|---|---|
+| **Protein Chicken** wrap, $11.00 — wheat and soy protein dough, roasted chicken, tomato, lettuce, pickles, light garlic mayo. **50 g protein stated on the menu** | 50 | ~22 | ~20 | ~490 |
+| **Extra chicken portion**, est. ~90 g cooked | ~27 | 0 | ~4 | ~145 |
+| Pepsi Zero | 0 | 0 | 0 | 0 |
+| **Meal total** | **~77** | **~22** | **~24** | **~635** |
+
+**Only the protein figure is label-confirmed.** The menu's "View Nutrition Facts" panel was collapsed in the screenshot, so carbs, fat and calories are estimated. They are anchored against the large Protein Sandwich already in the database (560 kcal, 67.7 P, 21 C, 23 F), which is the same food category, so the shape should be close — but **the expanded nutrition panel would replace all three estimates with real numbers.** Worth one screenshot.
+
+**The extra chicken portion is the weakest number here.** ~90 g cooked is an assumption. If the shop serves 60 g the meal is ~18 g protein and ~90 kcal lighter; if 120 g, ~9 g and ~50 kcal heavier.
+
+### What this meal did well
+
+- **77 g of protein in a single sitting**, which is the largest single-meal protein figure logged all week.
+- **Caffeine timing was compliant.** 12:36 is comfortably inside the no-caffeine-after-14:00 rule. That rule was set yesterday and it held on the first day it applied.
+
+### What it did not do, and today of all days it matters
+
+1. **It advanced none of today's five non-negotiables.** Section 4 asked for 3 litres of tracked water, figs or prunes or kiwi, vegetables at two meals, magnesium tonight, and walking after meals. Lettuce, tomato and pickles are garnish quantities — call it **2 g of fibre**. The fibre target is 25 to 30 g.
+2. **A Pepsi Zero in place of water is the wrong swap on a constipated day.** It is zero calories and inside the caffeine window, so it breaks no rule. But water is the single highest-yield item on today's list and this was a chance to take 500 ml of it. Caffeine is also a mild diuretic, pulling the wrong way.
+3. **Carbs sit at ~22 g with the day past its midpoint**, against a 250 g cap and a diet break that needs calories landed mid-band. **The starch has been the missing piece four days running.** A fifth is currently forming.
+
+### Where the day stands
+
+| | Consumed | Target | Remaining |
+|---|---|---|---|
+| Protein | ~77 g | 190 to 215 g | 113 g to the floor |
+| Carbs | ~22 g | 250 g cap | 228 g of room |
+| Fat | ~24 g | 85 to 95 g | 61 g |
+| Calories | ~635 | 2565 to 2735 | **~1930 to the floor** |
+
+**~1930 kcal left to eat is the exact situation that produced four sub-band days.** The documented root cause is front-loading too little and trying to close the gap after 20:00 when appetite is gone. The fix is not a large dinner; it is a substantial mid-afternoon meal that carries starch and fibre together.
+
+**Suggested next meal, which closes the nutrition and the GI items in one move:** lentils (mujadara or adas bi hamod), one to one and a half cups. That is ~18 to 27 g protein, ~60 to 90 g carbs, **8 to 12 g fibre**, and it is the cheapest protein available. Lentils have been the standing recommendation for four days and remain the single most useful thing he could add.
+
+### Value note
+
+**$11.00 for 50 g of protein is 4.5 g per dollar.** The large Protein Sandwich already in the database gives 67.7 g for $9.50, which is **7.1 g per dollar** — meaningfully better on both counts, more protein and less money. Karisheh is better still. Given whey was dropped for budget reasons on 25 July, the $11.00 item is the wrong default if the cheaper sandwich is on the same menu.
+
+### Verified food database addition
+
+| Food | Serving | Calories | Protein | Carbs | Fat | Note |
+|---|---|---|---|---|---|---|
+| **Protein Chicken** wrap (delivery app) | 1 wrap | ~490 est | **50 g (menu-stated)** | ~22 g est | ~20 g est | $11.00. **Only protein is confirmed.** Nutrition panel not yet captured. Worse value than the $9.50 large Protein Sandwich |
+
+### Two questions
+
+- [ ] **Was anything eaten between the 07:00 leg session and 12:36?** If not, this is a regression on breakfast front-loading, which was the one structural fix that worked yesterday. If something was eaten, it needs logging.
+- [ ] **Did the leg session happen, and with which substitutions?** The training table below still shows it as planned, not completed.
+
+---
+
 *Log maintained daily. Update the training table after the session and the nutrition table as meals are eaten.*
