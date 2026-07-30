@@ -123,9 +123,9 @@ Two modifications while bloated:
 
 ---
 
-## 5. Escalation: Criterion Not Met. Bowel Movement Occurred 30 July
+## 5. Escalation: Criterion Not Met. Two Bowel Movements on 30 July
 
-**A movement occurred this morning and was photographed.** The three-day criterion is **not** met and this does not escalate today.
+**Two movements occurred and both were photographed.** The three-day criterion is **not** met and this does not escalate today. The morning specimen is assessed first; the second follows below.
 
 ### Assessment of the 30 July specimen
 
@@ -158,6 +158,39 @@ The three-day rule is satisfied for now. The new trigger is a quality one, not a
 **If stool is still Bristol Type 1 to 3 after 48 to 72 hours of actually running the plan — 3 litres of water tracked, figs or prunes daily, magnesium citrate nightly — then the plan is not working and it goes to Dr Chalhoub regardless of frequency.**
 
 Unchanged and still applicable: severe pain, blood, vomiting, or genuinely black tarry stool all warrant prompt attention regardless of timing.
+
+### SECOND MOVEMENT, same day, shortly after the 12:36 meal
+
+**A second movement occurred and was photographed.** This is the first time two movements have been recorded in one day since logging began.
+
+| Field | Finding |
+|---|---|
+| **Bristol type** | **Approximately Type 5.** A soft mass with irregular, poorly defined edges. Distinctly **softer and less formed** than this morning's Type 2 to 3 |
+| **Volume** | **Small again.** Comparable to the morning specimen |
+| **Colour** | **Normal mid-brown.** No black, no tarry appearance, no red, no visible mucus |
+| **Bowl water** | **Noticeably yellow-tinged.** Consistent with concentrated urine, matching the 1030 urine density at the 28 July draw. Another hydration signal |
+
+#### What changed, and it is important not to credit the wrong thing
+
+Consistency moved from Type 2-3 to roughly Type 5 within a single day, and frequency doubled. **But almost nothing in the corrective plan was actually executed today.** Meal 1 delivered ~2 g of fibre, no figs or prunes were eaten, and water has still not been tracked. The plausible drivers are therefore:
+
+1. **The gastrocolic reflex** after a ~635 kcal meal at 12:36. A substantial meal after a long gap is a strong motility trigger.
+2. **The leg session**, if it happened. Training increases gut motility for hours afterwards.
+3. **Magnesium citrate**, if it was taken last night. Compliance is still unconfirmed, and this would be the first evidence in favour of it — worth answering for that reason alone.
+4. **The backlog simply clearing** mechanically after three days of retention.
+
+**None of these is the fibre-and-water fix.** This is the backlog moving, not the plan working. **That distinction is the whole point**, because the audit in section 3 shows what happens when improvement gets misread as resolution: the plan gets dropped and the symptoms return. Two soft movements are not a reason to stop tracking water.
+
+#### One pattern worth naming, without alarm
+
+Three days of retention, then two small movements on one day with the second looser than the first, is a pattern that can also occur when softer stool passes **around** a firmer retained mass. He reported bloating persisting after the morning movement, and both volumes were small, which fits.
+
+This is not a cause for concern today and there are no red flags — colour is normal, no blood, nothing black or tarry, no severe pain reported. **It is the reason to keep observing rather than declare this resolved.** If distension worsens while only small loose amounts continue to pass, that changes the picture and goes to Dr Chalhoub.
+
+#### Where this leaves the two triggers
+
+- **Escalation trigger: still not met.** Today produced Type 2-3 and then Type 5 — landing on opposite sides of the Type 4 target rather than on it. Consistency is now *variable* rather than uniformly hard. That is a different problem, and it is still not normal.
+- **Weigh-in: still on hold.** More retained mass has now moved, which means **more of the 88.0 kg reading was stool than this morning's assessment assumed.** It reinforces holding macros at the 85.5 kg calibration rather than changing anything. The three-morning re-weigh waits for consistent Type 4.
 
 ---
 
