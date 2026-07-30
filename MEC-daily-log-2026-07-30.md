@@ -194,6 +194,67 @@ This is not a cause for concern today and there are no red flags — colour is n
 
 ---
 
+## 5b. Sleep, night of 29 to 30 July: The Ask Was Beaten by an Hour
+
+Apple Health data captured for 30 July.
+
+| Metric | Value |
+|---|---|
+| **Time asleep** | **6 h 31 m** |
+| **Bedtime** | **~11:27 PM**, reported by Apple as **1 h 9 m earlier than the 12:36 AM average** |
+| Week 1 target | 12:25 AM |
+| Week 6 target | 11:15 PM |
+| Awakenings visible | **4 distinct spikes** |
+| Previous night (29 Jul) | 6 h 07 m asleep, 8 m awake, bedtime ~12:20 AM |
+
+### He did not hit week one. He hit week six, on night one.
+
+The ask last night was **12:25 AM**, fifteen minutes earlier than habit. **He went to bed at roughly 11:27 PM — about 58 minutes earlier than asked, and within 12 minutes of the target set for six weeks out.**
+
+That is a real and unusual piece of compliance, and it should be said plainly before anything else: **the single behavioural item with a six-week schedule attached was executed harder than prescribed on the first night.**
+
+### But the sleep gained was half the bedtime moved, and that is the finding
+
+| | Night of 28-29 Jul | Night of 29-30 Jul | Change |
+|---|---|---|---|
+| Bedtime | ~12:20 AM | ~11:27 PM | **~53 min earlier** |
+| Time asleep | 6 h 07 m | 6 h 31 m | **+24 min** |
+
+**A 53-minute earlier bedtime produced 24 minutes more sleep. Roughly half the gain leaked away.**
+
+Against the two-year average of ~6 h 27 m, 6 h 31 m is essentially unchanged. The improvement is real but it is against last night, not against the baseline.
+
+#### Where the missing half went, and this is an inference to check
+
+The plan assumed **wake time was fixed at ~06:35 by the 07:00 session.** Working backwards from 6 h 31 m asleep plus visible awake time, **wake looks closer to ~06:15.** If that is right, roughly 20 minutes of the earlier bedtime was cancelled by waking earlier.
+
+**This is arithmetic, not a reading.** Tapping **"Show More Sleep Data"** gives the actual time in bed and wake time and would confirm or kill it in one screenshot. Worth doing, because it decides the next instruction.
+
+#### The second candidate: four awakenings, against eight minutes the night before
+
+The 29 July architecture was notably clean — 8 minutes awake across the night. **Last night's chart shows four distinct awake spikes.** Continuity got worse on the night the bedtime moved furthest.
+
+**That may be caused by the overshoot itself.** Going to bed roughly an hour before habitual sleep onset means the circadian system has not yet released melatonin, which produces lighter, more fragmented early sleep. **The graduated 15-minute-per-week plan exists precisely so that circadian timing can follow the bedtime rather than fight it.**
+
+**Data caveat:** the first ~1.5 to 2 hours of the chart show no stage detail — a single pale block rather than Deep, Core and REM bands. Deep and REM totals for the night are therefore incomplete and cannot be compared cleanly against 29 July's Deep 55 m and REM 1 h 34 m.
+
+### What to do, which is not "push further"
+
+1. **Do not move the bedtime earlier again.** He is already at the week-six figure. There is nothing left to gain from that lever and there is something to lose.
+2. **Anchor the wake time instead.** It was assumed fixed and it was not. **Holding wake at 06:35 is now the higher-value lever than any further bedtime change**, and it costs nothing.
+3. **Let the duration catch up before judging.** If ~11:30 PM holds for several nights, circadian timing shifts and the awakenings should settle. Two nights is not enough to call it.
+4. **Confirm the wake time** from Show More Sleep Data before the next instruction is issued.
+
+### Tonight, given the cinema
+
+The film puts him home around 23:15. **Tonight's target is 12:25 AM and that is comfortably achievable** — the cinema does not threaten it.
+
+**Last night was exceptional and tonight does not have to match it.** A 12:25 AM bedtime tonight is full compliance with week one, and treating anything later than 11:27 PM as a failure would be inventing a standard that was never set.
+
+**Minor correction to the record:** Apple reports the average bedtime as **12:36 AM**, not the 12:40 AM used in the 29 July sleep plan. The four-minute difference changes nothing in the schedule but the figure should be right.
+
+---
+
 ## 6. New Medical Item: Serum Calcium Was Never Tested
 
 **The 28 July panel measured sodium and potassium. It did not measure calcium.** That is a gap worth closing, for two independent reasons:
@@ -239,7 +300,10 @@ This is not a cause for concern today and there are no red flags — colour is n
 - [ ] Get the gym carrot cake calorie figure from the menu.
 
 ### Behavioural
-- [ ] **Bedtime 12:10 AM from next week**; 12:25 AM remains this week's target. Report last night's actual.
+- [x] ~~**Report last night's actual bedtime.**~~ **Done. ~11:27 PM, beating the 12:25 AM ask by ~58 minutes and landing within 12 minutes of the week-six target. Section 5b.**
+- [ ] **Confirm the actual wake time** via Show More Sleep Data. Half the earlier bedtime did not convert into sleep, and an earlier wake is the leading explanation. **This decides the next sleep instruction.**
+- [ ] **Do not move bedtime earlier again.** He is already at the week-six figure. **Anchor wake at 06:35 instead** — that is now the higher-value lever.
+- [ ] **Tonight: 12:25 AM is full compliance.** Home ~23:15 from the cinema, so it is comfortably achievable. Last night was exceptional and tonight does not have to match it.
 - [ ] No caffeine after 14:00, including Pepsi Zero. Now doubly relevant as a diuretic.
 - [ ] Fix the Health Auto Export automation.
 - [ ] Capture an HRV baseline before starting the vitamin D protocol.
