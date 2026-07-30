@@ -401,6 +401,39 @@ This costs nothing, requires no appointment, and would resolve a question the re
 2. **A Pepsi Zero in place of water is the wrong swap on a constipated day.** It is zero calories and inside the caffeine window, so it breaks no rule. But water is the single highest-yield item on today's list and this was a chance to take 500 ml of it. Caffeine is also a mild diuretic, pulling the wrong way.
 3. **Carbs sit at ~22 g with the day past its midpoint**, against a 250 g cap and a diet break that needs calories landed mid-band. **The starch has been the missing piece four days running.** A fifth is currently forming.
 
+### Meal 4, before the cinema — a second Whey Protein Crisp Bar
+
+**Reported late and not captured at the time. Logging omission on my side, not his.**
+
+Assumed identical to meal 2: 20 P, 22 C, 4 F, ~210 kcal, 1 g fibre, **8 g sugar alcohol**. **Confirm if it was a different bar** — the Beast Brownie (270 kcal, 11 g fat) and the Chocolate Protein Cookie Sandwich (275 kcal, 15 g fat) carry very different macros.
+
+**The instinct was right.** He knew he was short and ate before a three-hour block with no food access. The problem is what the bar contains, not that he ate it.
+
+#### This breaks the elimination test I designed this afternoon, and that needs saying plainly
+
+Earlier today I wrote that the sequencing was lucky: karisheh stopped, bars continued, so if bloating cleared over 2 to 3 days it would implicate lactose. **That reasoning no longer holds.**
+
+**Both whey bars list whey protein concentrate and milk powder.** Both are lactose-bearing. So today's lactose intake was not eliminated with karisheh — it was **replaced from a different source**, and the "karisheh out" arm of the test never actually ran.
+
+**Two exposures, both doubled:**
+
+| Compound | Today's load | Significance |
+|---|---|---|
+| **Maltitol** | **16 g** across two bars | Doubles the 8 g figure. **16 g is well inside the range that causes gas and distension in most people**, not only the sensitive |
+| **Lactose** | Two servings of whey concentrate + milk powder | The exact compound karisheh was removed to avoid |
+
+**Tomorrow morning's symptoms will therefore be uninterpretable.** Both leading suspects were fed today, one of them heavily.
+
+#### The revised approach: eliminate both, then challenge one at a time
+
+Sequential elimination is no longer available because the sequence was broken. The standard fallback is cleaner anyway:
+
+1. **Cut karisheh and all protein bars together for 3 days.** Symptom relief is the priority and this is the fastest route to it.
+2. **If bloating clears, reintroduce one at a time** — a bar first, since it is the easier variable to control — and watch for 48 hours. **The reintroduction is what identifies the culprit**, not the elimination.
+3. If bloating does not clear on both removed, neither is the driver and the cause is elsewhere.
+
+**This costs no extra days** and gives a firmer answer than the original design would have.
+
 ### Where the day stands, after two meals
 
 | | Consumed | Target | Remaining |
