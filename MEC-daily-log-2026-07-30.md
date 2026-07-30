@@ -213,6 +213,10 @@ This is not a cause for concern today and there are no red flags — colour is n
 - [ ] **Figs, prunes or 2 kiwi today.**
 - [ ] **Confirm whether magnesium citrate is actually being taken nightly.**
 - [ ] Vegetables at two meals. Walk after each.
+- [ ] **Check the sweetener line on the Dates Maamoul, Beast Brownie, Protein Cookie Sandwich and the "sugar free" gym carrot cake.** If several carry polyols the daily sugar-alcohol load is well above the 8 g in today's bar. Section 9.
+- [ ] **Cut sugar alcohols to near zero for 3 to 4 days**, keeping the rest of the plan running, then judge bloating and stool separately. Cheapest available test of whether these are two problems or one.
+- [ ] **Fibre is at ~3 g today across two meals.** Everything from here needs to carry it.
+- [ ] **Fat is at 28 g against 85 to 95.** Close it with olive oil, tahini, walnuts or almonds, not dairy fat.
 
 ### Medical
 - [ ] **Add serum calcium, albumin and magnesium to the next draw, before the vitamin D protocol starts.** Section 6.
@@ -272,7 +276,57 @@ This is not a cause for concern today and there are no red flags — colour is n
 
 **The extra chicken portion is the weakest number here.** ~90 g cooked is an assumption. If the shop serves 60 g the meal is ~18 g protein and ~90 kcal lighter; if 120 g, ~9 g and ~50 kcal heavier.
 
-### What this meal did well
+### Meal 2, afternoon — Whey Protein Crisp Bar, 70 g
+
+**Full label captured. Every figure below is confirmed, not estimated.**
+
+| | Per bar (70 g) |
+|---|---|
+| Calories | **210** |
+| Protein | **20 g** |
+| Total carbohydrate | **22 g** |
+| — of which dietary fibre | **1 g** |
+| — of which total sugars | **4 g** |
+| — of which **sugar alcohol** | **8 g** |
+| Total fat | **4 g** |
+| — of which saturated | 2 g |
+| Trans fat | 0 g |
+| Sodium | 135 mg |
+| Potassium | 127 mg |
+
+**In isolation this is a well-built bar.** 38% of calories from protein, only 4 g of fat, zero trans fat, and 4 g of actual sugar. On the LDL-driven guidance to move fat away from saturated sources it is a far better choice than the Beast Brownie (11 g fat) or the Chocolate Protein Cookie Sandwich (15 g fat) already in the database.
+
+#### The line that matters today: 8 g of sugar alcohol
+
+The ingredients list **maltitol**. Sugar alcohols are poorly absorbed in the small intestine, draw water into the bowel osmotically, and ferment in the colon. **Gas, distension and bloating are their most common effects**, and they are dose-dependent.
+
+8 g in one bar is a moderate dose — well under the ~20 g that typically causes frank diarrhoea, but comfortably inside the range that produces bloating in sensitive people.
+
+**This raises a hypothesis that has not been considered until now, and it reframes the whole GI picture:**
+
+> **The bloating and the constipation may not be the same problem.**
+>
+> - **Constipation** is well explained by low fibre and untracked water. That case is strong and unchanged.
+> - **Bloating** has been assumed to be a downstream symptom of the constipation. But **he has reported bloating persisting even after bowel movements**, including this morning. That does not fit a simple backlog explanation.
+> - **Polyols fit it better.** If a regular intake of sugar-alcohol-sweetened products is fermenting in the colon, bloating continues regardless of whether stool passes.
+
+**One supporting observation:** the gym carrot cake eaten on 29 July was explicitly labelled **"sugar free."** Sugar-free baked goods are almost always sweetened with polyols. The maamoul is labelled "zero added sugar," which for a date-based product may simply mean the dates provide the sweetness — **but its sweetener list has never been checked.**
+
+#### What to do about it, which is not "stop eating this"
+
+The bar is a genuinely good protein source and should stay available. But the hypothesis is cheap to test and the answer is worth having:
+
+1. **Check the sweetener line on the Dates Maamoul, the Beast Brownie and the Protein Cookie Sandwich**, and get the carrot cake's ingredients. If several carry polyols, the daily load is far higher than 8 g.
+2. **For the next 3 to 4 days, cut sugar alcohols to near zero** while keeping everything else in the plan running.
+3. **Then watch bloating and stool separately.** If bloating improves while stool consistency does not, the two problems are confirmed as separate and each gets its own fix. If neither changes, polyols are exonerated and it is all fibre and water.
+
+This costs nothing, requires no appointment, and would resolve a question the record has been treating as settled.
+
+#### The other note: 1 g of fibre
+
+**Second consecutive meal contributing essentially no fibre.** The day's running total is roughly **3 g against a 25 to 30 g target**, on the day constipation is the active issue and fibre is the named fix.
+
+### What meal 1 did well
 
 - **77 g of protein in a single sitting**, which is the largest single-meal protein figure logged all week.
 - **Caffeine timing was compliant.** 12:36 is comfortably inside the no-caffeine-after-14:00 rule. That rule was set yesterday and it held on the first day it applied.
@@ -283,16 +337,19 @@ This is not a cause for concern today and there are no red flags — colour is n
 2. **A Pepsi Zero in place of water is the wrong swap on a constipated day.** It is zero calories and inside the caffeine window, so it breaks no rule. But water is the single highest-yield item on today's list and this was a chance to take 500 ml of it. Caffeine is also a mild diuretic, pulling the wrong way.
 3. **Carbs sit at ~22 g with the day past its midpoint**, against a 250 g cap and a diet break that needs calories landed mid-band. **The starch has been the missing piece four days running.** A fifth is currently forming.
 
-### Where the day stands
+### Where the day stands, after two meals
 
 | | Consumed | Target | Remaining |
 |---|---|---|---|
-| Protein | ~77 g | 190 to 215 g | 113 g to the floor |
-| Carbs | ~22 g | 250 g cap | 228 g of room |
-| Fat | ~24 g | 85 to 95 g | 61 g |
-| Calories | ~635 | 2565 to 2735 | **~1930 to the floor** |
+| Protein | ~97 g | 190 to 215 g | 93 g to the floor |
+| Carbs | ~44 g | 250 g cap | 206 g of room |
+| Fat | ~28 g | 85 to 95 g | **57 g — the largest proportional gap** |
+| Calories | ~845 | 2565 to 2735 | **~1720 to the floor** |
+| Fibre | **~3 g** | 25 to 30 g | **~22 g, and this is the one that matters today** |
 
-**~1930 kcal left to eat is the exact situation that produced four sub-band days.** The documented root cause is front-loading too little and trying to close the gap after 20:00 when appetite is gone. The fix is not a large dinner; it is a substantial mid-afternoon meal that carries starch and fibre together.
+**Fat is the quietly urgent number.** At 28 g against an 85 to 95 g target, it is the macro furthest from where it needs to be, and fat is the most calorie-dense way to close a 1720 kcal gap without exceeding the carb cap. **Olive oil, tahini, walnuts and almonds** all do this while moving the fat mix in the direction the LDL result demands. Two tablespoons of olive oil alone is ~240 kcal and 28 g of fat.
+
+**~1720 kcal left to eat is the exact situation that produced four sub-band days.** The documented root cause is front-loading too little and trying to close the gap after 20:00 when appetite is gone. The fix is not a large dinner; it is a substantial mid-afternoon meal that carries starch and fibre together.
 
 **Suggested next meal, which closes the nutrition and the GI items in one move:** lentils (mujadara or adas bi hamod), one to one and a half cups. That is ~18 to 27 g protein, ~60 to 90 g carbs, **8 to 12 g fibre**, and it is the cheapest protein available. Lentils have been the standing recommendation for four days and remain the single most useful thing he could add.
 
@@ -305,6 +362,7 @@ This is not a cause for concern today and there are no red flags — colour is n
 | Food | Serving | Calories | Protein | Carbs | Fat | Note |
 |---|---|---|---|---|---|---|
 | **Protein Chicken** wrap (delivery app) | 1 wrap | ~490 est | **50 g (menu-stated)** | ~22 g est | ~20 g est | $11.00. **Only protein is confirmed.** Nutrition panel not yet captured. Worse value than the $9.50 large Protein Sandwich |
+| **Whey Protein Crisp Bar** | 1 bar, 70 g | **210** | **20 g** | **22 g** (1 g fibre, 4 g sugar, **8 g sugar alcohol**) | **4 g** (2 g sat, 0 trans) | **Fully label-confirmed.** Lowest-fat bar in the database and the best fit for the LDL guidance. **But 8 g maltitol** — see the bloating hypothesis above. 135 mg sodium |
 
 ### Two questions
 
