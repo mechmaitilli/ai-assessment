@@ -123,13 +123,39 @@ Two modifications while bloated:
 
 ---
 
-## 5. Escalation: A Criterion May Already Be Met
+## 5. Escalation: Criterion Not Met. Bowel Movement Occurred 30 July
 
-The standing escalation criterion is **no bowel movement for three or more days**.
+**A movement occurred this morning and was photographed.** The three-day criterion is **not** met and this does not escalate today.
 
-The last recorded proper movement was **27 July**, and it was logged as small volume, Bristol Type 2 to 3. If nothing substantial has passed since then, **today is day three and the criterion is met.**
+### Assessment of the 30 July specimen
 
-**Direct question to the athlete: when was the last proper bowel movement?** If it was 27 July or earlier, this goes to Dr Chalhoub with the vitamin D conversation rather than waiting.
+| Field | Finding |
+|---|---|
+| **Bristol type** | **Type 2 to 3.** Discrete firm fragments, several elongated, with visible surface cracking. Not pellets (Type 1), not a smooth soft sausage (Type 4) |
+| **Volume** | **Small to moderate.** Small for three days of accumulation |
+| **Colour** | **Normal mid-brown.** No black, no tarry appearance, no red, no visible mucus |
+| **Transit marker** | **None visible.** The 27 July specimen carried fig seeds confirming sub-12-hour transit. No figs eaten since, so no marker is available |
+
+**The reassuring part is genuine and worth stating plainly: nothing here is alarming.** Colour is normal, there is no blood and nothing black or tarry. That is consistent with the negative FIT and occult blood results and closes the worrying end of the differential.
+
+### But this is not resolution, and one comparison makes that clear
+
+**The 27 July specimen was assessed as Bristol Type 2 to 3, small volume, formed and firm. This is the same finding, three days later.** Zero improvement in stool consistency across the window in which four of six corrective items lapsed. The plan did not fail; it was not run.
+
+Two things follow:
+
+1. **Type 2 to 3 is still constipated stool.** The target is Type 4. Hard, cracked, fragmented stool is above all a **hydration signature**, which points straight at the 3 litre target that has never once been measured.
+2. **Small volume after three days means incomplete evacuation.** There is more still in there, which is exactly consistent with him reporting continued bloating *after* the movement.
+
+### Consequence for the weigh-in
+
+Some retained mass has moved, but not much. **The 88.0 kg reading is still contaminated and the three-morning re-weigh should not start yet.** Wait for consistent Type 4 stools before treating any scale number as a body composition measurement.
+
+### Revised escalation trigger
+
+The three-day rule is satisfied for now. The new trigger is a quality one, not a frequency one:
+
+**If stool is still Bristol Type 1 to 3 after 48 to 72 hours of actually running the plan — 3 litres of water tracked, figs or prunes daily, magnesium citrate nightly — then the plan is not working and it goes to Dr Chalhoub regardless of frequency.**
 
 Unchanged and still applicable: severe pain, blood, vomiting, or genuinely black tarry stool all warrant prompt attention regardless of timing.
 
@@ -149,8 +175,8 @@ Unchanged and still applicable: severe pain, blood, vomiting, or genuinely black
 ## 7. Open Items
 
 ### Immediate, today
-- [ ] **Answer: when was the last proper bowel movement?** Determines whether section 5 escalates today.
-- [ ] **Water 3 litres, tracked and reported as a number.**
+- [x] ~~**Answer: when was the last proper bowel movement?**~~ **Resolved. One occurred 30 July and was assessed: Bristol Type 2 to 3, small volume, no blood or black stool. Criterion not met, does not escalate. Still constipated stool, and still incomplete. Section 5.**
+- [ ] **Water 3 litres, tracked and reported as a number.** Now the single highest-yield item in the file — Type 2 to 3 stool is primarily a hydration signature.
 - [ ] **Figs, prunes or 2 kiwi today.**
 - [ ] **Confirm whether magnesium citrate is actually being taken nightly.**
 - [ ] Vegetables at two meals. Walk after each.
