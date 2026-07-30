@@ -353,6 +353,58 @@ This costs nothing, requires no appointment, and would resolve a question the re
 
 **Suggested next meal, which closes the nutrition and the GI items in one move:** lentils (mujadara or adas bi hamod), one to one and a half cups. That is ~18 to 27 g protein, ~60 to 90 g carbs, **8 to 12 g fibre**, and it is the cheapest protein available. Lentils have been the standing recommendation for four days and remain the single most useful thing he could add.
 
+### Evening constraint: cinema at 20:00
+
+**MEC reports he is at the cinema at 20:00 and does not expect to eat again today.** Taken at face value that closes the day at **~845 kcal against a 2565 floor — 1720 kcal under.**
+
+**That is not another sub-band day. It is a different order of magnitude.** The previous four days ran 10 to 215 kcal under. This would be **eight times the worst of them**, and it would land during a diet break whose entire purpose is eating at maintenance. It would also put protein at **~97 g, the lowest figure since logging began** — below 1.2 g/kg, on a day that may have included a leg session.
+
+**But the premise is worth checking before accepting it.** The film is at 20:00. That leaves roughly three hours, and a substantial meal takes ten minutes to assemble from what is already in the kitchen. **The constraint is real; the conclusion drawn from it is not.**
+
+#### Before leaving, ten minutes, no cooking beyond eggs
+
+| Item | P | C | F | kcal |
+|---|---|---|---|---|
+| Karisheh 200 g | 24 | 5 | 4 | ~196 |
+| Tannour, 1 whole (~100 g) | 11 | 60 | 0 | ~280 |
+| Olive oil, 2 tbsp | 0 | 0 | 28 | ~250 |
+| 2 eggs | 12 | 1 | 10 | ~155 |
+| 1 banana | 1.3 | 27 | 0.4 | ~105 |
+| **Total** | **~48** | **~93** | **~42** | **~986** |
+
+**The olive oil is the highest-leverage item on the list.** Two tablespoons is 250 kcal and 28 g of fat, it needs no preparation, it moves the fat mix toward unsaturated exactly as the LDL result demands, and it costs almost nothing in volume or appetite. Drizzle it over the karisheh.
+
+#### For the film itself: 50 g of almonds or walnuts in a pocket
+
+| | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Almonds, 50 g | 11 | 9 | 25 | **6 g** | ~290 |
+| Walnuts, 50 g | 7.5 | 7 | 33 | 3.5 g | ~327 |
+
+**This solves four problems at once**: calories, unsaturated fat, fibre, and something to eat during a film that is not cinema popcorn. **Popcorn is the wrong choice tonight specifically** — high sodium against active water retention, and negligible protein.
+
+It also answers a standing open question, since **walnuts were flagged as absent on 29 July** and the reason was never established.
+
+#### Projected close if both happen
+
+| | Projected | Target | Verdict |
+|---|---|---|---|
+| Protein | ~156 g | 190 to 215 g | 34 under floor |
+| Carbs | ~146 g | 250 g cap | Well inside |
+| Fat | **~95 g** | 85 to 95 g | **At target, and mostly unsaturated** |
+| Calories | ~2121 | 2565 to 2735 | ~444 under |
+| Fibre | ~15 g | 25 to 30 g | Triple the current 3 g |
+
+**This does not hit the band and it is not meant to.** Today will be the lightest day of the week regardless. The point is the difference between **444 kcal under and 1720 under** — the first is a normal miss, the second is a 1700 kcal hole dug during a maintenance phase.
+
+If he wants to close further, karisheh at 300 g rather than 200 g adds 12 g protein and 98 kcal for no extra effort.
+
+#### The cinema does not threaten the sleep plan
+
+Spider-Man plus trailers runs roughly two and a half hours, putting him out around 22:45 and home by 23:15. **Tonight's bedtime target is 12:25 AM, so there is no conflict** — provided the evening is not extended afterwards. Worth stating plainly because the sleep taper is the one behavioural item with a six-week schedule attached, and week one should not be lost to a film that finishes in good time.
+
+**One GI note:** two and a half hours seated does nothing for motility, and walking after meals is on today's list. Walk before going in, or walk home.
+
 ### Value note
 
 **$11.00 for 50 g of protein is 4.5 g per dollar.** The large Protein Sandwich already in the database gives 67.7 g for $9.50, which is **7.1 g per dollar** — meaningfully better on both counts, more protein and less money. Karisheh is better still. Given whey was dropped for budget reasons on 25 July, the $11.00 item is the wrong default if the cheaper sandwich is on the same menu.
