@@ -458,6 +458,41 @@ Cheese seasoning on popcorn is built on milk solids and whey powder. **That make
 
 The dose here is small and not worth worrying about in isolation. **It matters only because it further confirms that today cannot be used to read the elimination**, which is already the conclusion above. Dairy derivatives are far more widely distributed through processed food than whole dairy is, and that is the thing to watch going forward rather than this particular bag of popcorn.
 
+### Drinks tally — two more Pepsi Zero, reported late
+
+**No maltitol.** Pepsi Zero is sweetened with **aspartame and acesulfame potassium**, both high-intensity sweeteners rather than sugar alcohols. It adds nothing to the polyol load, which stays at **16 g of maltitol, all from the two bars**. Zero calories, zero macros.
+
+Two other things do follow from it.
+
+#### 1. Caffeine — roughly 200 mg today, and the timing is the problem
+
+| Drink | Count | Caffeine |
+|---|---|---|
+| Pepsi Zero, ~12:36 | 1 | ~67 mg |
+| Pepsi Zero, evening | 2 | ~134 mg |
+| Diet 7Up | 1 | **0 mg** |
+| **Total** | | **~200 mg** |
+
+**If the two evening cans were drunk at the cinema, that breaches the no-caffeine-after-14:00 rule on the first day it applied** — and it lands directly on tonight's sleep.
+
+Caffeine's half-life is roughly 5 to 6 hours. **134 mg taken around 21:00 leaves about 67 mg still circulating at 02:00 to 03:00**, which is the middle of the sleep window the taper is trying to protect. Last night's bedtime was executed better than asked; this is the thing most likely to undo it.
+
+**This also revises the credit given to the Diet 7Up above.** That drink was still the right choice on its own terms — caffeine-free, no polyols — but the two Pepsi Zeros alongside it cancel the benefit. **Confirm the timing**: if they were drunk before 14:00 there is no breach at all.
+
+#### 2. Four carbonated drinks on a day defined by bloating
+
+This is the more interesting point and it has not been raised before.
+
+**Carbonated drinks introduce CO2 directly into the gastrointestinal tract.** That is a purely mechanical cause of gastric distension and belching, entirely separate from lactose and polyols. Today's count: three Pepsi Zero and one Diet 7Up, **four carbonated drinks on a day he woke bloated and has stayed bloated**.
+
+**This becomes a third candidate for the bloating**, alongside lactose and polyols — and it is by far the cheapest to test, because switching to still water costs nothing, removes no nutrition, and simultaneously advances the 3 litre water target that has never once been tracked.
+
+**Add it to the three-day elimination:** cut karisheh, all protein bars, **and carbonated drinks** together. If bloating clears, reintroduce one at a time. Carbonation should be the first thing reintroduced, since it is the easiest to control and the least costly if it turns out to be the culprit.
+
+#### 3. It displaced water again
+
+Four zero-calorie drinks were consumed today and **water intake is still unreported and untracked**, on the day it was named the single highest-yield item in the file. The drinks were not the problem; the absence of anything alongside them is.
+
 ### Where the day stands, after two meals
 
 | | Consumed | Target | Remaining |
