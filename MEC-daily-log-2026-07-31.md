@@ -714,4 +714,65 @@ MEC asked to be reminded when the loading month ends. **Target date ~26 to 29 Au
 
 ---
 
-*Log maintained daily. Update the training table after the session and the nutrition table as meals are eaten.*
+## 6. Day Close
+
+**Status: CLOSED.** Evening block eaten as planned — dried figs 60 g and walnuts 30 g. **Magnesium citrate taken before sleep.**
+
+### Final numbers
+
+| | Actual | Target | Verdict |
+|---|---|---|---|
+| Protein | **~220 g** | 190 to 215 g | **In band** (~5 over the ceiling, immaterial) |
+| Carbs | **~215 g** | 250 g cap | **35 g under cap** |
+| Fat | **~95 g** | 85 to 95 g | **At the ceiling, in band** |
+| Calories | **~2585** | 2565 to 2735 | **In band** |
+| Fibre | ~17 g | 25 to 30 g | **Short — the only miss** |
+
+**All four macro targets landed. This is the first complete day since 29 July, and only the second in the file.**
+
+### What produced it
+
+**Not discipline, and not more effort. Two structural changes:**
+
+1. **Food before training**, for the second time this week. Yesterday's first food was at 12:36 and the day never recovered.
+2. **Protein finished by 14:00.** The evening was left with a job it could actually do — ~600 kcal of nuts and dried fruit, no cooking, no protein requirement. Every failed day this week asked the evening to deliver 60 to 130 g of protein at the end of an 18-hour day, and it failed every time.
+
+**The decision quality is the real result.** Two carts were rejected on the arithmetic before the food arrived rather than reconstructed as a shortfall the next morning. That is the first time it has happened in this log.
+
+### Magnesium citrate: day one of the protocol, five days late
+
+**Taken before sleep as instructed.** Prescribed 28 July specifically for the constipation, unstarted until tonight.
+
+**Expect an effect on tomorrow morning's movement, not tonight.** Magnesium citrate works osmotically over roughly 6 to 12 hours, drawing water into the stool — which is precisely the deficit identified by today's reframe. **It is the correct agent for this specific problem**, as distinct from a stimulant laxative, which would be wrong here since the gut is already moving three times a day.
+
+**If stools become loose, the dose is too high.** Halve it rather than stopping.
+
+### The one lever still untouched
+
+**Water has never been recorded once since it was prescribed on 26 July.** After today's finding it is the single highest-priority GI intervention — hard stool at normal frequency is a hydration problem before it is a fibre problem, and it now has three independent supporting observations.
+
+**Magnesium works by pulling water into the stool. If the water is not there to pull, the magnesium has less to work with.** The two interventions are complementary, and only one of them has started.
+
+### On tomorrow's weigh-in
+
+**MEC's position: a weight taken without a proper bowel movement is meaningless.**
+
+**He is substantially right, and the log agrees with him** — the 88.0 kg reading on 30 July was demonstrated not to be fat, using five days of intake arithmetic showing a cumulative deficit of only ~608 kcal against an apparent 2.5 kg gain.
+
+**But "meaningless" overstates it in one specific way: a confounded reading can be annotated, whereas a missing reading cannot be recovered.** The value of daily weighing is not in any single number — it is in the series, and the rolling average that the series makes possible. Gaps break the series permanently.
+
+**Two points that argue for weighing anyway:**
+
+1. **Three movements today means retention is actively clearing.** Tomorrow's reading is likely to be *less* confounded than any other this week, not more.
+2. **Tomorrow is the first day with magnesium citrate on board.** If it works, a weight taken after it is the cleanest reading available in days.
+
+**Recommendation: weigh, log it, note the bowel status beside it, and do not interpret the single number.** Ten seconds, no analysis required. **If it does not happen, it does not matter** — the three-morning averaging is already suspended and nothing in the plan currently depends on bodyweight.
+
+### Tomorrow, 1 August
+
+- **Vitamin D pill day**, the second dose of the loading phase.
+- **Saturday.** Chest is next in the rotation.
+
+---
+
+*Log maintained daily. Interpretation is coaching context only. All diagnosis, dosing and treatment decisions rest with Dr Clarissa Chalhoub.*
