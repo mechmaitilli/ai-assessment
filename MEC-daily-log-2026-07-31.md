@@ -32,17 +32,43 @@
 
 **Caffeine:** ~70 mg from the caffeinated capsule, ~3 mg from the decaf. Morning timing, so **fully compliant with the 14:00 cutoff**.
 
-### Meal 2, post-workout — protein shake + banana
+### Meal 2, post-workout — confirmed composition
 
 | Item | P | C | F | kcal |
 |---|---|---|---|---|
-| Protein shake (brand and mixer not yet confirmed) | ~30 | ~5 | ~2 | ~150 |
-| 1 banana | 1.3 | 27 | 0.4 | ~105 |
-| **Total** | **~31** | **~32** | **~2** | **~255** |
+| Whey protein + banana, blended with **ice and water** | ~31 | ~30 | ~2 | ~255 |
+| Starbucks Pike Place, medium, black | 0 | 0 | 0 | ~5 |
+| Starbucks scone, 1 | ~7 | ~57 | ~19 | ~430 |
+| **Total** | **~38** | **~87** | **~21** | **~690** |
 
-**Estimated pending confirmation of which shake and whether mixed with water or milk.** Water was advised — milk would add a lactose load, which is the leading bloating suspect after the karisheh finding.
+**Mixed with water rather than milk, as advised.** That avoids a lactose load on the day lactose is the leading bloating suspect — a free choice made correctly at the point of purchase.
 
-**Covers about half the post-workout target** of 40 to 50 g protein and 600 to 700 kcal. A reasonable bridge given he was leaving the gym, not a meal.
+**Hits the post-workout target**: 38 g protein against a 40 to 50 g ask, ~690 kcal against 600 to 700. The scone is what got it there — ~430 kcal in a single item with no preparation, which is precisely the calorie density the day needed.
+
+**Scone caveat, for the pattern rather than today:** scones are butter-based, so this likely carried 10 to 13 g of saturated fat. With LDL at 161.4 and standing guidance to move fat toward olive oil, walnuts and tahini, it is the wrong direction. **On a day running 1500 kcal short it was still net positive.** Worth noting only if it becomes routine.
+
+**Whey again** — third whey item in two days. Recorded for completeness only; bars and shakes stay by the athlete's decision of 31 July and the point is not reopened.
+
+### CAFFEINE: the Pike Place is the whole problem, not the Pepsi Zero
+
+| Source | Amount |
+|---|---|
+| Caffeinated coffee capsule, pre-gym | ~70 mg |
+| **Starbucks Pike Place, medium** | **~310 mg** |
+| **Total by mid-morning** | **~380 mg** |
+
+**The daily guideline is 400 mg. He is at ~380 mg before midday, from two drinks.**
+
+**A single medium Pike Place is roughly 4.5 times a can of Pepsi Zero (~67 mg).** The 29 July log flagged Pepsi Zero as "the invisible contributor" to a 650 to 720 mg daily load — that framing was incomplete. **Pepsi Zero is the visible one. The Pike Place is where the caffeine actually is**, and it is a single purchase decision rather than three separate ones.
+
+**Why this matters more than it looks:** sleep is one of the two named causes of the fatigue under investigation, he is averaging ~6 h 30 m, and the sleep taper has just been suspended because his workload makes extending duration impossible. **When duration is fixed, quality is the only remaining lever, and caffeine load is the largest controllable input to it.**
+
+**Not a request to stop drinking coffee.** Two options that cost nothing:
+
+- **A short or tall instead of a medium** removes roughly 100 to 150 mg at no financial or time cost.
+- **No further caffeine today**, which the 14:00 cutoff already implies but which now matters on total as well as timing.
+
+**Timing was compliant** — both drinks were well before 14:00.
 
 ### Cardio: 15 min incline walk
 
