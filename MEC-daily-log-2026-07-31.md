@@ -123,6 +123,35 @@ The failure mode is not bars. It is **relying on bars alone**, since at 20 g pro
 
 **Still unanswered from yesterday: what is the physio for?** It appeared in the record for the first time on 30 July. If it is rotator cuff rehab it changes this session and possibly the whole shoulder plan.
 
+### Training log, as performed
+
+**Warmup:** 5 min walk, band work for the rotator cuff, empty EZ bar × 12.
+
+| Exercise | Set | Load | Reps | RIR |
+|---|---|---|---|---|
+| EZ curl | 1 | 17.5 kg | 13 | Reported 2 — **treat as warmup, see below** |
+| EZ curl | 2 | **27.5 kg** | 10 | 2 |
+| EZ curl | 3 | **27.5 kg** | 10 | 2 |
+| EZ curl | 4 | 27.5 kg | Not reported | — |
+
+**EZ curl load confirmed at 27.5 kg. Next Friday starts at 30 kg.**
+
+**RIR calibration note:** the first set at 17.5 kg was reported as 2 RIR, but a 10 kg jump cost only 3 reps. A 57% load increase producing that small a drop means the reserve at 17.5 was closer to 5 reps than 2. **This is normal on a first calibration set with no reference point**, and it is worth knowing that early-set RIR estimates run optimistic. The two 27.5 kg sets repeating 10 reps exactly, with no drop-off, are the reliable data.
+
+### CONSTRAINT ADDED: incline dumbbell curl is out
+
+**MEC reports the incline DB curl provokes the rotator cuff significantly unless the load is very light.**
+
+**It is removed from the programme rather than lightened, and the reasoning matters:**
+
+The incline curl places the shoulder in **extension** — arms hanging behind the torso — which is a recognised provocative position for the rotator cuff and the long head of the biceps tendon. **That stretched bottom position is the entire reason the exercise exists.** A load light enough to be pain-free removes the stimulus that justified including it. There is no version of this movement worth keeping for him.
+
+**Substituted with cable curl** (low pulley, standing), 3 × 10 to 12 at 2 RIR — constant tension, shoulder neutral, no extension. A preacher curl is an equally good alternative, since it holds the shoulder in flexion, the opposite of the provocative position.
+
+**This joins the standing exclusions**, which now read: no overhead pressing, no upright rows, no heavy loaded external rotation, **no incline dumbbell curls**.
+
+**Report this to the physio.** It is a specific, reproducible, position-dependent provocation, which is considerably more useful diagnostically than a general complaint of shoulder pain. It tells them the direction of loading that still irritates the joint.
+
 ### Carried forward
 
 - **Hold 2 RIR** across working sets. The 29 July shoulder session went to 0 RIR on two exercises against a 2 RIR plan.
