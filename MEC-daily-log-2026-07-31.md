@@ -347,6 +347,54 @@ Given 18 committed hours a day, anything requiring planning will not happen. The
 
 **Water remains the largest untouched lever** and has never once been tracked since 26 July. Rather than a 3 litre target requiring measurement, the low-effort version is a filled bottle kept on the desk and refilled when empty — no counting, no logging.
 
+### Second movement, 31 July — thin, not hard
+
+**Reported by description: not hard, but thin.** No photograph, per the reporting simplification agreed earlier today.
+
+| Field | Finding |
+|---|---|
+| Consistency | **Not hard** — a clear change from the morning's Type 1 to 2 |
+| **Calibre** | **Thin / narrow** |
+| Straining | Not reported |
+
+#### The softening across the day is now a two-day pattern
+
+| Day | First movement | Second movement |
+|---|---|---|
+| 30 July | Type 2 to 3, hard | ~Type 5, distinctly softer |
+| **31 July** | **Type 1 to 2, hardest recorded, straining** | **Not hard, thin** |
+
+**Both days: hard first, softer second.** That is the signature of **a firm retained mass being cleared first, with softer material behind it** — and it fits the incomplete evacuation seen all week, where every single specimen has been small volume.
+
+**The direction within today is good.** Softer is better than the Type 1 to 2 passed this morning.
+
+#### On "thin" — a watch item, not an alarm, and here is the honest reasoning
+
+Narrow or pencil-thin stool gets attention in medical writing because, rarely, it can indicate a **narrowing of the bowel lumen**. It needs stating plainly rather than skirted, and then put in proportion.
+
+**Why this is very unlikely to be that, in his case specifically:**
+
+1. **FIT and occult blood were both negative on 28 July.** A lesion causing genuine luminal narrowing bleeds far more often than not. This is the single most reassuring fact available and it is only three days old.
+2. **No blood at any point**, normal mid-brown colour on every specimen photographed this week.
+3. **No weight loss.** Weight is stable to rising, which is the opposite of the pattern that would accompany a structural cause.
+4. **No severe or progressive pain.**
+5. **A complete and clean workup** — CBC, CRP, ESR, ferritin, liver, renal, glucose all normal.
+6. **Thin stool is common and benign in exactly this setting.** Incomplete evacuation, straining and small-volume passage through a rectum that has been working against hard stool all week will produce narrow output on their own.
+
+**The far likelier explanation is mechanical**: small volume squeezed past a retained firmer mass, which is precisely what the two-day hard-then-soft pattern already suggests.
+
+#### What would change the assessment
+
+**One thin stool means nothing. A persistent pattern would.**
+
+**Threshold: if stool calibre remains consistently narrow for two or more weeks after fibre and water are genuinely corrected** — meaning the plan actually run, not merely agreed — **it goes to Dr Chalhoub.** Given a recheck is already scheduled at ~3 months, this can simply be added to that conversation rather than prompting a separate appointment.
+
+**Immediate red flags remain unchanged and none are present**: blood, black or tarry stool, severe pain, vomiting, unexplained weight loss.
+
+#### A note on photographs
+
+The reporting was simplified earlier today to reduce effort, and that stands. **But calibre is the one attribute a word conveys poorly** — "thin" spans a wide range. **For consistency and colour a word is genuinely enough; for calibre a photograph carries more information.** Entirely his call, and not worth the effort on a normal day.
+
 ### Reporting can be simplified
 
 **Photographs are no longer necessary.** Given the workload, a single word is enough going forward: **hard, normal, or loose**, plus whether forcing was needed. That carries the clinically useful information at a fraction of the effort.
