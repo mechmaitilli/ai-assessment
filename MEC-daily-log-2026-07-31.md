@@ -32,6 +32,54 @@
 
 **Caffeine:** ~70 mg from the caffeinated capsule, ~3 mg from the decaf. Morning timing, so **fully compliant with the 14:00 cutoff**.
 
+### Meal 2, post-workout — protein shake + banana
+
+| Item | P | C | F | kcal |
+|---|---|---|---|---|
+| Protein shake (brand and mixer not yet confirmed) | ~30 | ~5 | ~2 | ~150 |
+| 1 banana | 1.3 | 27 | 0.4 | ~105 |
+| **Total** | **~31** | **~32** | **~2** | **~255** |
+
+**Estimated pending confirmation of which shake and whether mixed with water or milk.** Water was advised — milk would add a lactose load, which is the leading bloating suspect after the karisheh finding.
+
+**Covers about half the post-workout target** of 40 to 50 g protein and 600 to 700 kcal. A reasonable bridge given he was leaving the gym, not a meal.
+
+### Cardio: 15 min incline walk
+
+Incline 6 to 8%, pace 3, roughly **120 kcal**. Zone 2, appropriate on six hours of sleep. Planned as 25 minutes, completed at 15 — immaterial at this magnitude.
+
+**Also useful for the constipation**, since walking stimulates motility directly, which is the one GI intervention that requires no planning.
+
+### Planned meal 3, ~12:00 — chicken sandwich
+
+### The projection, and it is yesterday's shape again
+
+| | After the 12:00 meal | Target | Remaining |
+|---|---|---|---|
+| Protein | ~100 g | 190 to 215 g | **90 g** |
+| Carbs | ~79 g | 250 g cap | 171 g of room |
+| Fat | ~27 g | 85 to 95 g | **58 g** |
+| Calories | **~1005** | 2565 to 2735 | **~1560 to the floor** |
+
+**Three meals by midday totalling ~1000 kcal, leaving ~1560 for the afternoon and evening. That is precisely the structure that failed on 30 July**, when the same pattern closed the day roughly 1000 kcal short.
+
+**The evening is the weakest part of his day** — 18-hour workload, no appetite by 20:00, and the record shows six consecutive days closing under the band. Loading 1560 kcal into that window has already been tested twice and did not work.
+
+#### The fix is calorie density carried in a pocket, not another meal
+
+The highest-yield change is not adding a fourth sitting. It is **making the existing food denser using items that need no preparation and are already owned**:
+
+| Item | kcal | Fibre | Prep |
+|---|---|---|---|
+| Walnuts or almonds, 50 g | ~300 to 330 | 3 to 6 g | None |
+| Dried figs, 60 g | ~149 | **5.9 g** | None |
+| Olive oil, 2 tbsp | ~250 | 0 | Drizzle |
+| 1 tbsp honey | ~64 | 0 | None |
+
+**A bag of nuts and figs carried into the afternoon is ~450 to 480 kcal and 9 to 12 g of fibre, with no cooking, no shopping and no decision to make.** It closes roughly a third of the remaining gap and simultaneously addresses the fibre deficit that is driving the constipation.
+
+**Upgrade available at the 12:00 meal:** the large Protein Sandwich is 67.7 g protein and 560 kcal against the chicken wrap's ~50 g and ~490 kcal — **more protein, more calories, and $1.50 cheaper.**
+
 ### The win: food before training, for the second time this week
 
 **Yesterday's first food was at 12:36 and the day never recovered**, closing roughly 1000 kcal under the floor. Today food came before the session. **That is the structural fix and it is the single most important behavioural change in the file.**
