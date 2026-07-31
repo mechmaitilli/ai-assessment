@@ -768,6 +768,55 @@ MEC asked to be reminded when the loading month ends. **Target date ~26 to 29 Au
 
 **Recommendation: weigh, log it, note the bowel status beside it, and do not interpret the single number.** Ten seconds, no analysis required. **If it does not happen, it does not matter** — the three-morning averaging is already suspended and nothing in the plan currently depends on bodyweight.
 
+### SLEEP: a two-hour evening nap, and it reopens a plan that was closed as impossible
+
+**Reported: slept 19:00 to 21:00.** Combined with ~6 h 31 m overnight, **total sleep across the 24 hours is ~8 h 30 m.**
+
+| | |
+|---|---|
+| Overnight, 30 to 31 July | ~6 h 31 m |
+| **Evening nap, 19:00 to 21:00** | **~2 h 0 m** |
+| **Total** | **~8 h 30 m** |
+| 2026 average | ~6 h 27 m |
+
+**This is the most sleep recorded in the file, by roughly two hours.**
+
+#### The nap invalidates the reasoning that suspended the sleep plan
+
+**Section 4b suspended the six-week taper on the grounds that 18 committed hours a day leaves ~6, and that no bedtime he can choose yields 7 h 15 m. That arithmetic was correct and the conclusion drawn from it was incomplete.**
+
+**It assumed sleep has to arrive in one block.** It does not. **A nap is the loophole**, and it is the only mechanism available for adding sleep hours to a day whose evening and night are both fully committed. Today demonstrates it: ~8 h 30 m achieved without moving bedtime, without reducing work, and without any change to the schedule.
+
+**This makes napping the single most valuable sleep intervention available before ~10 August**, and it should be treated as a deliberate tool rather than an accident.
+
+#### The nap is also a diagnostic finding
+
+**Falling asleep for two full hours in the early evening is a marker of substantial sleep debt**, not ordinary tiredness. It is consistent with vitamin D at 15.7 ng/ml plus a sustained ~6 h 27 m average, and it converges with the 17:00 appetite cue — both are the body asking for recovery on the first day that supplied enough food to act on it.
+
+#### The cost, stated honestly, and why it still nets positive
+
+**Two hours ending at 21:00 will blunt sleep pressure for the 22:30 to 23:30 window.** Sleep onset tonight is likely to be delayed, possibly substantially.
+
+**Even in the bad case the arithmetic still favours the nap.** If bedtime slips as far as 01:00 against a fixed ~06:35 wake, the night delivers ~5 h 30 m — but the 24-hour total is still **~7 h 30 m, a full hour above his average.** There is no plausible version of tonight in which the nap leaves him worse off.
+
+**So: do not fight tonight's bedtime.** If sleep does not come at 22:30, that is the expected consequence of a good decision, not a failure. **Total sleep across 24 hours is the metric that matters while the debt is this large**, and consolidation is a refinement to pursue once the debt is repaid.
+
+#### The refinement, for when it becomes routine rather than a one-off
+
+**If napping becomes deliberate, 20 to 30 minutes before 15:00 is the version that repays debt without borrowing from the night.** It stays in light sleep, avoids grogginess on waking, and leaves sleep pressure intact for the evening.
+
+**But that is the optimisation, not the priority.** At a ~6 h 27 m average the deficit is large enough that **two hours of recovery sleep beats thirty minutes of well-timed recovery sleep**, even accounting for a later bedtime. Take the hours where they are available.
+
+**Revised sleep position until ~10 August:**
+
+| | |
+|---|---|
+| Extending night sleep | **Still not available.** The 18-hour arithmetic is unchanged |
+| **Napping** | **Now the primary lever.** The only route to additional hours |
+| Caffeine cutoff at 14:00 | Unchanged, and now doubly relevant — it protects nap ability as well as night onset |
+| Wake anchor 06:35 | Unchanged |
+| The six-week taper | Still suspended. Resume after the load eases |
+
 ### Tomorrow, 1 August
 
 - **Vitamin D pill day**, the second dose of the loading phase.
