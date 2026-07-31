@@ -76,7 +76,52 @@ Incline 6 to 8%, pace 3, roughly **120 kcal**. Zone 2, appropriate on six hours 
 
 **Also useful for the constipation**, since walking stimulates motility directly, which is the one GI intervention that requires no planning.
 
-### Planned meal 3, ~12:00 — chicken sandwich
+### Meal 3, ~12:30 — ordered and confirmed
+
+**Ordered from the delivery app at 12:28, both items confirmed by the athlete.**
+
+| Item | P | C | F | kcal |
+|---|---|---|---|---|
+| California Chicken Wrap (GF wrap, grilled chicken, shredded carrot, pickles, white cabbage, vegan honey mustard) — **almond cheese removed** | 36 | 30 | 10 | 355 |
+| Protein Ice Cream Sandwich (vanilla whey protein ice cream, double chocolate keto cookies) | 18 | 7 | 11 | 200 |
+| **Total** | **54** | **37** | **21** | **~555** |
+
+**Running total after lunch: ~112 P / ~146 C / ~46 F / ~1460 kcal.**
+
+#### The ice cream sandwich hides its polyol load behind "net carbs"
+
+**7 g of carbohydrate in a chocolate-cookie ice cream sandwich is not possible with sugar.** The item is labelled **Keto**, which in this category almost always means the printed carbohydrate figure is **net carbs** — total carbohydrate minus fibre **and minus sugar alcohols**. The polyols are therefore not in the 7 g; they are invisible on this label.
+
+**Realistic estimate: 10 to 20 g of sugar alcohols**, most likely erythritol, maltitol or allulose in the cookie and the ice cream.
+
+**This matters because of what happened yesterday.** The 30 July Muscle Engineer cookie carried **22 to 24 g of polyols** in a single item and moved polyols to the front of the GI differential. Today already carries **~8 g of maltitol** from the morning crisp bar. **Adding this puts the day at roughly 18 to 28 g** — around or above the ~20 g threshold commonly associated with osmotic GI symptoms in unselected adults.
+
+**It also carries lactose**, from the whey protein in the ice cream and from the dairy base itself. That is the third whey item today and the fourth in two days.
+
+**Not a veto.** The bars-and-convenience decision of 31 July stands and this falls under it. It is recorded so that if bloating worsens tonight, the cause is already in the file rather than reconstructed afterwards.
+
+#### The almond cheese removal is the wrong item to have removed
+
+**Almond cheese is nut-based. It contains no lactose and no polyols** — it is one of the few components of this order that is definitively not a suspect, and it was carrying fat on a day running ~45 g under the fat band.
+
+**Meanwhile the item kept is the one carrying both suspects.** If the intent was GI-driven, the two choices point in opposite directions. If it was taste-driven, it costs roughly 40 to 60 kcal and 3 to 5 g of fat and is immaterial.
+
+#### The wrap is half a lunch, and this is the third consecutive day of the same shape
+
+| | After lunch | Target | Gap |
+|---|---|---|---|
+| Protein | ~112 g | 190 to 215 g | **78 g short** |
+| Carbs | ~146 g | 250 g cap | 104 g of room |
+| Fat | ~46 g | 85 to 95 g | **39 to 49 g short** |
+| Calories | **~1460** | 2565 to 2735 | **~1105 to 1275 short** |
+
+**355 kcal is a snack-sized lunch.** The large Protein Sandwich flagged on 30 July is **67.7 g protein and 560 kcal** — nearly double the protein of this wrap for ~200 kcal more.
+
+**The structural point:** 29 July was the only day all four targets landed. 30 July closed ~457 under. Today is on the same trajectory — three meals by 13:00 totalling ~1460 kcal, leaving ~1150 to the evening, which is the documented failure window at 18 committed hours a day.
+
+**The fix is one tap while the cart is still open, not a plan for tonight.**
+
+### Planned meal 3 — superseded by the order above
 
 ### The projection, and it is yesterday's shape again
 
