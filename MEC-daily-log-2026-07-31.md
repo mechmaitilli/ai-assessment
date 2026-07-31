@@ -408,6 +408,56 @@ Raised earlier today as a fourth possibility, this now has quantified support: *
 
 ---
 
+## 4c. Three Answers Received at the Office
+
+### 1. Magnesium citrate — NOT being taken
+
+**Confirmed no.** Added to the protocol on 28 July specifically for the constipation, never started. **Four days of a free lever sitting unused**, on an item already bought and sitting in the house.
+
+**It also removes a candidate explanation.** The 30 July afternoon softening was attributed in part to magnesium possibly being taken. It was not, which narrows that event to the polyol dose identified in the 30 July correction.
+
+**Start tonight, 300 to 400 mg, at bedtime.** No preparation, no decision, no time cost.
+
+### 2. Leg session — happened, and is now in the record
+
+Logged in Notion and retrieved. See the 30 July log, section 4c. **200 kg × 8 at 0 RIR against a 2 RIR plan, second consecutive session overshooting to failure; 190 kg × 8 at 2 RIR is the anchor for next legs day.**
+
+### 3. Vitamin D protocol — STARTED
+
+**This is the most important line in the file this week.** It has been the top open item since 29 July and it is the only one of the three fatigue drivers that costs neither time nor willpower.
+
+| | |
+|---|---|
+| **Loading phase** | 2 pills per week for one month |
+| **Started** | ~29 to 30 July, following the Dr Chalhoub appointment after Thursday's training |
+| **Next dose** | Saturday 1 August |
+| **Loading ends** | **~26 to 29 August** |
+| **Maintenance from then** | **1 pill daily at 10,000 IU** |
+
+**The loading phase is standard.** Two high-dose pills weekly for four weeks is a conventional correction protocol for a level of 15.7 ng/ml, and there is nothing to question in it.
+
+#### Two questions to put to Dr Chalhoub, and they are ordinary practice rather than second-guessing
+
+**1. How long does the 10,000 IU daily maintenance continue, and when is the recheck?**
+
+10,000 IU daily is a legitimate dose, but it sits **above the 4,000 IU/day figure commonly cited as the tolerable upper intake for adults**. That is entirely appropriate as a time-limited correction and it is normal to run it for a defined period. **What matters is that the period is defined and a recheck is scheduled** — an open-ended 10,000 IU/day with no follow-up level is the scenario worth avoiding, and a three-month recheck was already the plan of record.
+
+**2. Serum calcium — now materially more important than when it was first raised.**
+
+The 28 July panel measured sodium and potassium but **not calcium**. Vitamin D's mechanism is to increase calcium absorption, so a sustained 10,000 IU/day raises serum calcium by design.
+
+**The specific reason this matters for him: vitamin D excess presents as hypercalcemia, and hypercalcemia presents as constipation and fatigue.** Those are his two active complaints. Without a baseline calcium, a symptom that persisted or worsened during the maintenance phase could not be distinguished from what he already has.
+
+**Request serum calcium with albumin, ideally before maintenance begins in late August.** There is a month of loading in which to obtain it, so there is no urgency — only a deadline.
+
+**None of this is a reason to alter the protocol.** It is a reason to have two specific questions answered at the next contact.
+
+#### Reminder requested
+
+MEC asked to be reminded when the loading month ends. **Target date ~26 to 29 August**, at which point the regimen changes from 2 weekly pills to 1 daily 10,000 IU pill. **The scheduling tool was unavailable at the time of asking, so this is recorded here as the durable record** and should be re-attempted when the tool returns.
+
+---
+
 ## 5. Open Items
 
 - [ ] **Weigh this morning** and report it. Note the three-morning averaging is still on hold until stools normalise.

@@ -123,6 +123,84 @@ Two modifications while bloated:
 
 ---
 
+## 4c. Training Log: Legs — COMPLETED, retrieved from Notion 31 July
+
+**The session did happen and was logged in full.** It had simply never reached this file, which is why earlier entries record it as unconfirmed.
+
+**Warmup:** ~7 minutes general.
+
+| Exercise | Set | Load | Reps | RIR |
+|---|---|---|---|---|
+| Leg press / hack squat | Warmup | 20 kg | 30 | — |
+| Leg press / hack squat | Ramp | 80 kg | 12 | 3 to 4 |
+| Leg press / hack squat | Ramp | 170 kg | 8 | 2 |
+| Leg press / hack squat | Work | **200 kg** | 8 | **0 — failure, against a 2 RIR plan** |
+| Leg press / hack squat | Work | **190 kg** | 8 | **2 ← anchor next week here** |
+| RDL (kept light per plan) | 1 | 20 kg | 30 | — |
+| RDL | 2 | 60 kg | 12 | >2 |
+| RDL | 3 | 100 kg | 8 | 2 |
+| Leg extension | 1 | 50 kg | 12 | >2 |
+| Leg extension | 2 | 65 kg | 12 | 1 |
+| Leg extension | 3 | 65 kg | 12 | 1 |
+| Seated leg curl (**swapped** from lying) | 1 | 50 kg | 13 | 2 |
+| Seated leg curl | 2 | 50 kg | 12 | 2 |
+| Seated leg curl | 3 | 57.5 kg | 12 | 2 |
+| Standing calf raise (**swapped** to DB isometric) | 1 to 3 | 15 kg | 30 sec hold/leg | — |
+| Seated calf raise | 1 | 25 kg | 15 | 2 |
+| Seated calf raise | 2 | 25 kg | 15 | 2 |
+
+**Second consecutive session overshooting to failure.** 200 kg × 8 at 0 RIR repeats the 29 July pattern where two shoulder exercises went to failure against a 2 RIR plan.
+
+**Next legs day anchors on the 190 kg × 8 at 2 RIR set, not the 200 kg failure set.** A failure set locates the ceiling, not the working load.
+
+**Two in-session modifications were sound judgment**: the RDL kept light and the lying leg curl swapped to seated, both appropriate given the abdominal compression concern.
+
+| Exercise | Next legs session | Basis |
+|---|---|---|
+| **Leg press** | **190 to 195 kg × 8** | Anchored on the 2 RIR set |
+| **RDL** | **100 kg × 8 to 10** | Held while GI symptoms persist |
+| **Leg extension** | **65 kg, hold 2 RIR** | Two sets ran at 1 RIR — pull back, don't add |
+| **Seated leg curl** | **57.5 kg × 12 all sets** | Top set already there at 2 RIR |
+| **Seated calf raise** | **27.5 kg × 15** | 25 kg × 15 twice at 2 RIR |
+
+---
+
+## 4d. CORRECTION: the 30 July nutrition log was materially incomplete
+
+**A post-workout meal was eaten and never reached this file.** It was recorded in Notion. Every running total downstream of it — and the verbal assessment that the day closed roughly 1000 kcal short — was calculated without it and was wrong.
+
+| Missing item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Protein shake with banana and water | ~31 | ~30 | ~2 | ~3 | ~255 |
+| **Double Chocolate Cookie**, Muscle Engineer, label-confirmed | **30** | **35** | **5.4** | **10 g** | **323** |
+| **Total** | **~61** | **~65** | **~7.4** | **~13 g** | **~578** |
+
+### Revised 30 July totals
+
+| | Previously logged | **Corrected** | Target |
+|---|---|---|---|
+| Protein | ~126 g | **~187 g** | 190 to 215 g |
+| Carbs | ~121 g | **~186 g** | 250 g cap |
+| Fat | ~60 g | **~67 g** | 85 to 95 g |
+| Calories | ~1530 | **~2108** | 2565 to 2735 |
+| Fibre | ~14 g | **~27 g** | 25 to 30 g |
+
+**The day ran roughly 457 kcal under the floor, not 1035.** Protein landed ~3 g short of the floor rather than 64 short. **Fibre hit ~27 g — inside target, and the best fibre day recorded.** The assessment given on the day understated intake substantially and is superseded.
+
+### The cookie carries 22 to 24 g of polyols, and it reorders the GI differential
+
+**The label states 22 to 24 g of polyols in one item and explicitly warns of a laxative effect at excess intake.**
+
+**This is by far the largest polyol dose in the record.** The two whey bars carried 8 g of maltitol each, so **the true 30 July polyol load was ~38 to 40 g, not the 16 g recorded.** For context, 20 g is the dose commonly associated with frank osmotic diarrhoea in unselected adults.
+
+**It also better explains the second bowel movement that day.** The afternoon specimen was ~Type 5, distinctly softer than the morning's Type 2 to 3, and that softening was attributed to the gastrocolic reflex, the training session, magnesium, or the backlog clearing. **Magnesium has since been confirmed as not taken.** A 22 to 24 g polyol dose eaten that morning is an osmotic laxative behaving exactly as its own label warns, and is now the most likely cause by a distance.
+
+**Polyols move to the front of the differential.** The hypothesis was built on 8 g doses and looked plausible but modest. At 38 to 40 g in a day it is neither, and it accounts for both the persistent bloating and the paradoxically loose second movement in a week otherwise dominated by hard stool.
+
+**The sweetener audit is now the highest-priority GI action**, ahead of the water target. The Dates Maamoul, Beast Brownie, Protein Cookie Sandwich and the "sugar free" carrot cake all need their polyol content read off the label — on this evidence the routine daily load may be far above what anyone assumed.
+
+---
+
 ## 5. Escalation: Criterion Not Met. Two Bowel Movements on 30 July
 
 **Two movements occurred and both were photographed.** The three-day criterion is **not** met and this does not escalate today. The morning specimen is assessed first; the second follows below.
