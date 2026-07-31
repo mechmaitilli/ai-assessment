@@ -76,17 +76,38 @@ Incline 6 to 8%, pace 3, roughly **120 kcal**. Zone 2, appropriate on six hours 
 
 **Also useful for the constipation**, since walking stimulates motility directly, which is the one GI intervention that requires no planning.
 
-### Meal 3, ~12:30 — ordered and confirmed
+### Meal 3, ~12:30 — REVISED AT THE POINT OF ORDER
 
-**Ordered from the delivery app at 12:28, both items confirmed by the athlete.**
+**First cart, 12:28:** California Chicken Wrap (36 P / 30 C / 10 F / 355 kcal, almond cheese removed) plus a Protein Ice Cream Sandwich (18 P / 7 C / 11 F / 200 kcal). **Total 54 P / ~555 kcal.**
+
+**Second proposal:** the same wrap and ice cream plus a protein crisp bar at ~18:00. **Total from that point 74 P / ~770 kcal**, which projected the day to ~132 P and ~1,675 kcal — a ~900 kcal deficit on a diet break, and the lowest-calorie day of the week.
+
+**Ordered, 31 July:** **two large Protein Sandwiches.** Ice cream sandwich dropped.
 
 | Item | P | C | F | kcal |
 |---|---|---|---|---|
-| California Chicken Wrap (GF wrap, grilled chicken, shredded carrot, pickles, white cabbage, vegan honey mustard) — **almond cheese removed** | 36 | 30 | 10 | 355 |
-| Protein Ice Cream Sandwich (vanilla whey protein ice cream, double chocolate keto cookies) | 18 | 7 | 11 | 200 |
-| **Total** | **54** | **37** | **21** | **~555** |
+| Large Protein Sandwich ×2 | 135 | 42 | 46 | ~1120 |
+| **Total** | **135** | **42** | **46** | **~1120** |
 
-**Running total after lunch: ~112 P / ~146 C / ~46 F / ~1460 kcal.**
+**Running total after lunch: ~193 P / ~151 C / ~71 F / ~2025 kcal.**
+
+#### This is the first time protein has landed in band before 14:00
+
+**193 g by lunch against a 190 to 215 floor.** It has not happened once this week. Every prior day has carried a 60 to 130 g protein debt into an evening window that is documented to fail at 18 committed hours a day. **Tonight that window has to deliver no protein at all** — only ~600 kcal and ~20 g of fat, which figs, walnuts, a banana with honey and a drizzle of olive oil cover with nothing cooked.
+
+**Projected close: ~201 P / ~237 C / ~91 F / ~2664 kcal — all four targets inside band**, which would be the first complete day since 29 July.
+
+#### The decision itself is the notable event, not the food
+
+**He was shown the arithmetic mid-order and changed the order.** The first cart would have closed the day ~1,100 kcal short; the second proposal ~900 short. Both were rejected on the numbers before the food arrived, rather than reconstructed as a shortfall the following morning.
+
+**This is the behaviour the log exists to produce**, and it is the first instance of it in the file.
+
+#### Side effect: the 18:00 bar is no longer needed, and that is worth more than it looks
+
+With protein already in band, **the planned evening crisp bar has no nutritional job left.** Dropping it removes ~8 g of maltitol.
+
+**Today's polyol load therefore stays at ~8 g — the morning bar only — instead of the ~26 to 36 g the proposed plan carried.** That is below the threshold at which osmotic symptoms typically appear. **Today still is not a clean elimination day**, because the morning bar already broke it and the clock still starts on the first fully compliant day. But it becomes a *sub-threshold* day, which means tonight's gut carries some diagnostic signal rather than none.
 
 #### The ice cream sandwich hides its polyol load behind "net carbs"
 
