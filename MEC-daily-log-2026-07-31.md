@@ -55,9 +55,14 @@
 |---|---|
 | Caffeinated coffee capsule, pre-gym | ~70 mg |
 | **Starbucks Pike Place, medium** | **~310 mg** |
-| **Total by mid-morning** | **~380 mg** |
+| Pepsi Zero, 1, with lunch | ~67 mg |
+| **Total by ~13:00** | **~447 mg** |
 
-**The daily guideline is 400 mg. He is at ~380 mg before midday, from two drinks.**
+**The daily guideline is 400 mg. The Pepsi Zero at lunch took the day past it — ~447 mg from three drinks, all before 13:00.**
+
+**Timing remains compliant.** Everything was well before the 14:00 cutoff, so sleep onset should be unaffected. **It is the total that is now over**, and the practical consequence is simply that **there is no caffeine budget left for the rest of today.**
+
+**This matters more than the number suggests.** Sleep duration is fixed at ~6 hours by an 18-hour committed day and the taper is suspended, so **quality is the only remaining lever on one of the two named causes of the fatigue under investigation.** Caffeine load is the largest controllable input to it.
 
 **A single medium Pike Place is roughly 4.5 times a can of Pepsi Zero (~67 mg).** The 29 July log flagged Pepsi Zero as "the invisible contributor" to a 650 to 720 mg daily load — that framing was incomplete. **Pepsi Zero is the visible one. The Pike Place is where the caffeine actually is**, and it is a single purchase decision rather than three separate ones.
 
@@ -86,10 +91,32 @@ Incline 6 to 8%, pace 3, roughly **120 kcal**. Zone 2, appropriate on six hours 
 
 | Item | P | C | F | kcal |
 |---|---|---|---|---|
-| Large Protein Sandwich ×2 | 135 | 42 | 46 | ~1120 |
-| **Total** | **135** | **42** | **46** | **~1120** |
+| Protein Sandwich, 175 g ×2 (chicken, pickles, chili sauce) | 135.4 | 42 | 45.6 | ~1120 |
+| Pepsi Zero, 1 | 0 | 0 | 0 | ~0 |
+| **Total** | **~135** | **42** | **~46** | **~1120** |
 
 **Running total after lunch: ~193 P / ~151 C / ~71 F / ~2025 kcal.**
+
+**Menu figures verified from the vendor listing:** 175 g, 559.9 kcal, 67.7 g protein, 21 g carbohydrate per sandwich. **Fat is not displayed by the app and is back-calculated at ~22.8 g** — 67.7 P and 21 C account for ~355 kcal of the 559.9, leaving ~205 kcal, which is 22.8 g of fat. The projected figures used before the order were correct to within a gram.
+
+**Ingredients are chicken, pickles and chili sauce. No dairy, no cheese, no sweetener — this lunch carries zero lactose and zero polyols.**
+
+#### The cost assumption in this log was wrong and should be corrected
+
+| | Price | Protein | kcal |
+|---|---|---|---|
+| Original cart (wrap + ice cream sandwich) | ~$21.11 | 54 g | ~555 |
+| **2 × Protein Sandwich** | **$19.00** | **135 g** | **~1120** |
+
+**Two and a half times the protein, double the calories, and about $2 cheaper.**
+
+The standing assumption since 25 July — when whey was dropped on budget grounds — has been that convenience and density cost money. The zero-cook template earlier in this file was priced at ~$19 and described as "the expensive way to solve it." **On this menu the dense option is simply the better buy**: $9.50 for 67.7 g of protein against $14.44 for the wrap's 36 g.
+
+#### What it costs: fibre
+
+**Chicken and pickles in a wrap is close to zero fibre — roughly 2 g across both sandwiches.** With ~6 g banked by midday, the day lands near **~19 g against a 25 to 30 g target** even with the evening figs and walnuts.
+
+**Tonight's figs and walnuts are therefore the only fibre left on the board**, with the constipation still active and the hardest stool of the week recorded this morning. They stop being optional.
 
 #### This is the first time protein has landed in band before 14:00
 
