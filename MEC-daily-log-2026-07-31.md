@@ -138,6 +138,44 @@ The failure mode is not bars. It is **relying on bars alone**, since at 20 g pro
 
 ---
 
+## 4a. GI Status, 31 July: Movement Occurred, With Straining
+
+**Reported: a bowel movement today, achieved with forcing, producing a small amount.** No photograph this time, so no Bristol assessment.
+
+### The straining is the finding, not a footnote
+
+**Straining is a formal diagnostic criterion for functional constipation**, not merely an unpleasant detail. Straining combined with small output indicates **incomplete evacuation against stool that is still too hard** — the same picture as 27 and 30 July.
+
+**It confirms yesterday's reading.** The two movements on 30 July, the second softer than the first, were interpreted as the backlog clearing rather than the plan working. **Today supports that**: had the underlying problem resolved, today would not have required forcing.
+
+### Why straining is worth stopping, briefly
+
+- **Haemorrhoids and anal fissures** are the common consequences, and both create a feedback loop — pain leads to avoidance, avoidance leads to more retention.
+- **Chronic straining can contribute to pelvic floor dysfunction**, which is considerably harder to treat than simple constipation.
+- The valsalva involved produces a transient blood pressure spike. **At 115/68 this is not a concern for him**, but it is not a habit worth building.
+
+### Three changes that cost no time, which is the operative constraint
+
+Given 18 committed hours a day, anything requiring planning will not happen. These do not:
+
+1. **Use a footstool.** Raising the knees above the hips straightens the anorectal angle and is the single most effective mechanical change available. A small stool, a box, or a stack of books. **Zero time, zero cost, no discipline required** — and it directly addresses the straining rather than the stool consistency.
+2. **Do not force. If nothing comes within about five minutes, get up and return later.** Straining trains the wrong pattern and risks the complications above.
+3. **Go after a meal, ideally breakfast.** The gastrocolic reflex is strongest then, which is precisely why the 30 July second movement followed the midday meal. Working with that reflex is free; fighting it costs effort.
+
+**Water remains the largest untouched lever** and has never once been tracked since 26 July. Rather than a 3 litre target requiring measurement, the low-effort version is a filled bottle kept on the desk and refilled when empty — no counting, no logging.
+
+### Reporting can be simplified
+
+**Photographs are no longer necessary.** Given the workload, a single word is enough going forward: **hard, normal, or loose**, plus whether forcing was needed. That carries the clinically useful information at a fraction of the effort.
+
+### Realistic expectation
+
+**The escalation trigger is still not testable**, because it requires 48 to 72 hours of the plan actually running and the plan has not run. More importantly, **if stress is a significant driver — and the 18-hour days make that plausible — this may not fully resolve before the load eases around 10 August.**
+
+That is worth stating plainly so the next two weeks are not spent chasing a fix that is not currently available. **The aim until then is to avoid making it worse**, which means not straining, not skipping water, and not adding a calorie deficit on top.
+
+---
+
 ## 4b. Workload Disclosed — and It Rewrites Two Plans
 
 **Reported 31 July: approximately 16 hours a day of work, plus roughly 2 hours on family, leaving about 6 hours for sleep.** The load comes from running an AI startup consultancy alongside a full-time role as sales director. **He expects it to ease around 10 August.**
