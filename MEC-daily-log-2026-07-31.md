@@ -132,9 +132,49 @@ The failure mode is not bars. It is **relying on bars alone**, since at 20 g pro
 | EZ curl | 1 | 17.5 kg | 13 | Reported 2 — **treat as warmup, see below** |
 | EZ curl | 2 | **27.5 kg** | 10 | 2 |
 | EZ curl | 3 | **27.5 kg** | 10 | 2 |
-| EZ curl | 4 | 27.5 kg | Not reported | — |
+| Cable curl, single-arm (**substituted**) | 1 | Pin 15 | 12 | 2 |
+| Cable curl, single-arm | 2 | Pin 15 | 13 | 2 |
+| Cable curl, single-arm | 3 | Pin 15 | 15 | 2 |
+| Hammer curl, DB | 1 | 10 kg per DB | 12 | 2 |
+| Hammer curl, DB | 2 | 10 kg per DB | 12 | 2, fatigue genuine |
+| Rope pushdown | 1 | 80 lb | 12 | 2 |
+| Rope pushdown | 2 | 80 lb | 12 | 2, significant burn |
+| Rope pushdown | 3 | 80 lb | 12 | 2, same |
+| Overhead cable ext, **two-handed** | 1 | 60 lb | 12 | 2 to 3 |
+| Overhead cable ext, two-handed | 2 | 60 lb | 15 | 2, stopped on burn |
+| Cable kickback, single-arm | 1 | 40 lb | 15 | 2 |
+| Cable kickback, single-arm | 2 | 40 lb | 15 | 2 |
 
-**EZ curl load confirmed at 27.5 kg. Next Friday starts at 30 kg.**
+**Roughly 14 working sets. Shoulder quiet throughout except on the incline DB curl, which is now excluded.**
+
+### The session's central finding: loads were light almost everywhere
+
+**Reps rose across sets on three different exercises**, which is the opposite of what fatigue should produce:
+
+| Exercise | Set 1 → last set |
+|---|---|
+| Cable curl | 12 → 13 → **15** |
+| Overhead extension | 12 → **15** |
+| Rope pushdown | 12 → 12 → 12, flat across three sets |
+
+**A genuine 2 RIR normally shows reps falling** — 12, 11, 10. Rising or flat reps mean the opening set was well short of a true 2 RIR.
+
+**MEC identified the mechanism himself:** he is terminating sets on **lactic burn rather than on reps running out**. On his own report, "I know I can do 2 more but fatigue was huge." That is a legitimate way to hit 2 RIR and the instruction was followed correctly — but it means the loads sat below what he can actually work with.
+
+**Practical rule for future first exposures: his opening set on a new exercise runs roughly 3 reps light.** On any unfamiliar movement, take one deliberately heavy feeler set before counting working sets.
+
+### Next Friday's targets — first real targets in the file
+
+| Exercise | Next Friday | Basis |
+|---|---|---|
+| **EZ curl** | **30 kg** | 27.5 × 10 held twice, no drop-off |
+| **Cable curl, single-arm** | **Pin 20** | Reps rose to 15; a 5-point jump should land 10-11 |
+| **Hammer curl** | **12.5 kg per DB** | 12 reps twice, second set genuinely fatigued |
+| **Rope pushdown** | **80 lb, aim 13-14 reps** | Flat at 12 × 3. Add reps here before load |
+| **Overhead cable ext** | **70 lb** | Already hit 15 at 60 |
+| **Cable kickback** | **50 lb** | 15 reps twice at 40, top of range both times |
+
+**EZ curl load confirmed at 27.5 kg.**
 
 **RIR calibration note:** the first set at 17.5 kg was reported as 2 RIR, but a 10 kg jump cost only 3 reps. A 57% load increase producing that small a drop means the reserve at 17.5 was closer to 5 reps than 2. **This is normal on a first calibration set with no reference point**, and it is worth knowing that early-set RIR estimates run optimistic. The two 27.5 kg sets repeating 10 reps exactly, with no drop-off, are the reliable data.
 
