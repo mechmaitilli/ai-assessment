@@ -140,7 +140,47 @@ The failure mode is not bars. It is **relying on bars alone**, since at 20 g pro
 
 ## 4a. GI Status, 31 July: Movement Occurred, With Straining
 
-**Reported: a bowel movement today, achieved with forcing, producing a small amount.** No photograph this time, so no Bristol assessment.
+**Reported: a bowel movement today, achieved with forcing, producing a small amount.** Photographed and assessed below.
+
+| Field | Finding |
+|---|---|
+| **Bristol type** | **Type 1 to 2.** A single compacted lump with a visibly granular, nodular surface. Not a formed sausage, not fragmented pellets — an aggregated hard mass |
+| **Volume** | **Small.** One clump |
+| **Colour** | **Normal mid to dark brown.** No blood, nothing black or tarry, no visible mucus |
+| **Bowl water** | **Yellow-tinged again** |
+
+### This is harder than yesterday, not softer
+
+| Date | Assessment |
+|---|---|
+| 27 July | Type 2 to 3 |
+| 30 July, morning | Type 2 to 3 |
+| 30 July, afternoon | ~Type 5 |
+| **31 July** | **Type 1 to 2** |
+
+**Today is the hardest specimen recorded.** Yesterday afternoon's Type 5 was the outlier, and reading it as improvement would have been wrong — which is why it was logged as the backlog clearing rather than the plan working. **The trend across the week is flat to slightly worse**, and today's straining is the direct consequence of stool at Type 1 to 2.
+
+**Nothing here is alarming.** Colour is normal, there is no blood and nothing black or tarry, consistent with the negative FIT and occult blood results.
+
+### Hydration is now the finding with three independent observations behind it
+
+| Date | Observation |
+|---|---|
+| 28 July | **Urine density 1030**, the top of the reference range — laboratory-confirmed concentration |
+| 30 July | Bowl water noticeably yellow |
+| **31 July** | **Bowl water yellow again** |
+
+**Three separate signs, one direction, across four days.** Meanwhile water intake has never been recorded once since it was prescribed on 26 July.
+
+**Hard, lumpy, low-volume stool is above all a hydration signature.** Fibre matters, but fibre without water makes stool bulkier and harder rather than softer — which is the likely reason the fig intake on 30 July produced no improvement today.
+
+**This is also the only remaining intervention that fits the current constraints exactly**: no cooking, no shopping, no label reading, no planning, no time cost. A filled bottle on the desk, refilled when empty.
+
+### Second zero-effort item, still unconfirmed after four days
+
+**Magnesium citrate 300 to 400 mg nightly** was added to the protocol on 28 July specifically for the constipation. **Compliance has never been confirmed.** It is already bought, already in the house, and taken at night — it requires no time and no decision.
+
+**If it is not being taken, that is the second free lever sitting unused.** A single yes or no closes it.
 
 ### The straining is the finding, not a footnote
 
