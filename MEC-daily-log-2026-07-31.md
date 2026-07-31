@@ -58,6 +58,21 @@ The three-day elimination agreed last night was **karisheh, all protein bars, an
 
 **Planned:** EZ curl, incline DB curl, hammer curl, rope pushdown, light single-arm overhead cable extension, cable kickback.
 
+### Physio, answered: started for the shoulder, now recovery phase
+
+**The physio began as rotator cuff treatment and has since moved to recovery work.** This closes the question opened on 30 July, and it is a **good** answer — a move from treatment to recovery means the shoulder is progressing, not deteriorating.
+
+**It softens today's caution.** With the shoulder in recovery rather than acute treatment, the light single-arm overhead cable extension can stay in the session as planned. The stop-if-it-complains rule still applies.
+
+**It also raises the most useful question nobody has asked.** The training restrictions in this file — no overhead pressing, no upright rows, no heavy loaded external rotation — were set when the shoulder was the active problem. **They have never been reviewed against the shoulder's actual progress**, and the person qualified to review them is the physiotherapist, who is now seeing him regularly.
+
+**Two things to raise at the next physio session:**
+
+1. **Tell the physio exactly what the training programme involves** — the Pro split, the cable-driven shoulder work, the loads, the 2 RIR target. Physio and training are currently running as two separate tracks with no information passing between them, which is the most common way rehab and lifting end up working against each other.
+2. **Ask directly whether overhead pressing can be reintroduced, and on what criteria.** Not "is it safe yet" but "what specifically do you need to see before it goes back in." That converts an open-ended restriction into a target with an exit condition.
+
+**Until the physio says otherwise the restrictions stand unchanged.** This is not a reason to reintroduce anything unilaterally — it is a reason to ask the person who can lift them.
+
 ### One exercise to watch: the overhead cable extension
 
 **The standing constraint is no overhead pressing.** A single-arm overhead cable extension is not a press — it is elbow extension — so it does not breach the rule as written. **But it does place the shoulder in a fully flexed overhead position**, which is the position most likely to provoke a rotator cuff that is under active management.
@@ -88,7 +103,9 @@ The three-day elimination agreed last night was **karisheh, all protein bars, an
 
 - [ ] **Weigh this morning** and report it. Note the three-morning averaging is still on hold until stools normalise.
 - [ ] **Report bloating and stool status** — though today's reading is confounded by yesterday's two bars, popcorn and four carbonated drinks.
-- [ ] **What is the physio for?** Outstanding since 30 July. Affects today's session.
+- [x] ~~**What is the physio for?**~~ **Answered 31 July: began as shoulder treatment, now recovery phase.** Section 3.
+- [ ] **Brief the physio on the training programme** — split, exercises, loads, 2 RIR target. The two tracks are currently running with no information passing between them.
+- [ ] **Ask the physio what criteria must be met before overhead pressing returns.** The restrictions were set when the shoulder was the active problem and have never been reviewed against its progress.
 - [ ] **Did the 30 July leg session happen?** Still unreported. No loads, no next-session targets.
 - [ ] **Boil eggs today** for tomorrow morning, so the bar is not the only fast option.
 - [ ] **Restart the elimination clock** from the first fully compliant day.
