@@ -138,6 +138,55 @@ The failure mode is not bars. It is **relying on bars alone**, since at 20 g pro
 
 ---
 
+## 4b. Workload Disclosed — and It Rewrites Two Plans
+
+**Reported 31 July: approximately 16 hours a day of work, plus roughly 2 hours on family, leaving about 6 hours for sleep.** The load comes from running an AI startup consultancy alongside a full-time role as sales director. **He expects it to ease around 10 August.**
+
+This is the most important context in the file, and it should have been asked for on 25 July rather than arrived at on 31 July.
+
+### The sleep plan was built on a false premise, and it is suspended
+
+**16 + 2 = 18 hours committed, before the 07:00 gym session, commuting, or eating.** Against a 24-hour day that leaves roughly 6, which is exactly what the device data shows: 6 h 31 m last night, ~6 h 27 m averaged across 2026.
+
+**The six-week taper assumed bedtime was discretionary.** It is not. It assumed the barrier to a 23:15 bedtime was habit, and that shifting it 15 minutes a week would work. **There is no bedtime he can choose that yields 7 h 15 m while 18 hours are committed.** The arithmetic forbids it, and no amount of graduated scheduling changes arithmetic.
+
+**This also reframes last night.** Reaching ~11:27 PM was read as extraordinary compliance. It probably was — but as an exception carved out of an overloaded day, not a new sustainable baseline. Holding him to it would be holding him to something the calendar does not permit.
+
+**The taper is suspended until the load eases.** Replaced with:
+
+| Until ~10 August | Rationale |
+|---|---|
+| **Stop trying to extend sleep duration** | It requires hours that do not exist |
+| **Protect sleep quality instead** | Costs no time. The 14:00 caffeine cutoff already in place is the main lever |
+| **Anchor the wake time at 06:35** | Consistency is worth more than length when length is fixed |
+| **Resume the taper after the load drops** | Then the 15-minute-per-week schedule becomes achievable rather than theoretical |
+
+### The diet break should be extended past 10 August, not ended on the 8th
+
+**The break currently ends ~8 August. The load eases ~10 August. These should not be allowed to collide.**
+
+Resuming a ~2200 kcal cut on **6 hours of sleep, at peak stress, while running two jobs** is close to the worst conditions available for it:
+
+- **Muscle retention is impaired** by short sleep and elevated cortisol, so more of the loss comes from lean mass.
+- **Adherence collapses** under load, and the record already shows six consecutive days under the maintenance band without even trying to cut.
+- **Fatigue is the presenting complaint.** A deficit makes it worse, and the break exists specifically to lift it.
+
+**Recommendation: extend the diet break to roughly 12 to 14 August** — a few days past the point the load eases — and start the cut from a recovered baseline rather than a depleted one. Losing four days matters far less than starting a cut that fails.
+
+### The stress candidate for the bloating moves up the list
+
+Raised earlier today as a fourth possibility, this now has quantified support: **18 committed hours a day and chronic 6-hour sleep is severe, sustained physiological stress.** Combined with a completely clean workup — thyroid, ferritin, B12, CBC, CRP, ESR, glucose, HbA1c, liver, renal, urine, stool — this is the textbook setting for functional gut symptoms.
+
+**It does not displace lactose, polyols or carbonation. It may well outrank them.** And unlike those three, it has a known end date.
+
+### What this changes about how the plan is judged
+
+**He is training five to six days a week, at 07:00, on six hours of sleep, while running two jobs.** The record has been marking missed targets as lapses. **The more accurate reading is that he is operating at the ceiling of available capacity and still showing up.**
+
+**Between now and 10 August the objective is maintenance, not optimisation.** Hold training, hold protein through whatever is convenient, and **start the vitamin D protocol** — which is the single highest-value action available, because it is the only one of the three fatigue drivers that costs no time and no willpower. It is a pill. Sleep and stress are structural until the load lifts; vitamin D is not.
+
+---
+
 ## 5. Open Items
 
 - [ ] **Weigh this morning** and report it. Note the three-morning averaging is still on hold until stools normalise.
@@ -149,7 +198,13 @@ The failure mode is not bars. It is **relying on bars alone**, since at 20 g pro
 - [ ] **Boil eggs today** for tomorrow morning, so the bar is not the only fast option.
 - [ ] **Restart the elimination clock** from the first fully compliant day.
 - [ ] Water 3 litres, tracked as a number. Never once recorded since 26 July.
-- [ ] Confirm last night's actual bedtime against the 12:25 AM target.
+- [x] ~~Confirm last night's actual bedtime against the 12:25 AM target.~~ **Superseded. The sleep taper is suspended until the workload eases — see section 4b.**
+
+### Revised standing items, given the workload
+- [ ] **Start the vitamin D protocol.** Now the single highest-value action in the file: the only fatigue driver that costs no time and no willpower while the load is at its peak.
+- [ ] **Do not resume the cut on 8 August.** Extend the diet break to ~12 to 14 August, past the point the load eases.
+- [ ] **Sleep taper resumes after ~10 August**, not before. Until then, protect quality and hold the 06:35 wake anchor.
+- [ ] **Objective until 10 August is maintenance, not optimisation.**
 
 ---
 
