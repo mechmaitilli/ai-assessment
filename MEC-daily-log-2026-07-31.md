@@ -169,6 +169,48 @@ With protein already in band, **the planned evening crisp bar has no nutritional
 
 **The fix is one tap while the cart is still open, not a plan for tonight.**
 
+### Meal 4, ~17:00 — protein crisp bar, eaten on an appetite cue
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Whey Protein Crisp Bar, 70 g | 20 | 22 | 4 | 1 | 215 |
+
+**Running total after the bar: ~213 P / ~173 C / ~75 F / ~2240 kcal.**
+
+**Reported reason: "I felt like I need to eat."** That is worth recording as a finding rather than as a deviation.
+
+#### Appetite returning is a positive signal, not a lapse
+
+**The record shows six consecutive days closing under the maintenance band**, several of them because no hunger arrived in the evening and nothing got eaten. **Today an appetite cue appeared at 17:00 and was acted on immediately.** On a day with ~500 kcal still to place, that is the correct response to the correct signal.
+
+**It may also be a consequence of the day's structure.** Today is the first day this week with food before training and a substantial midday meal. Regular, adequately sized meals tend to restore normal hunger signalling; long gaps blunt it. **If appetite continues to appear on days that are properly fed, that is evidence the eating pattern is repairing itself.**
+
+#### The cost is 8 g of maltitol, and it moves the day's polyol total
+
+| Source | Polyols |
+|---|---|
+| Morning crisp bar | ~8 g |
+| Lunch (chicken, pickles, chili sauce) | 0 g |
+| **17:00 crisp bar** | **~8 g** |
+| **Day total** | **~16 g** |
+
+**Still below the ~20 g threshold** at which osmotic symptoms typically appear, and far below yesterday's ~38 to 40 g. **The day remains sub-threshold** — but the margin is now thin rather than comfortable, and this is the third whey item today.
+
+#### The evening plan has to shrink
+
+**Protein is effectively finished at ~213 g against a 190 to 215 band.** The full zero-cook block planned earlier — figs, walnuts, banana with honey and olive oil — would now overshoot: ~2879 kcal against a 2735 ceiling, and carbs at ~259 g against a 250 cap.
+
+**Revised evening: figs 60 g and walnuts 30 g only. Drop the banana, the honey and the olive oil.**
+
+| | Projected close | Target |
+|---|---|---|
+| Protein | ~220 g | 190 to 215 — ~5 over, immaterial |
+| Carbs | ~215 g | 250 cap ✅ |
+| Fat | ~95 g | 85 to 95 ✅ |
+| Calories | **~2585** | 2565 to 2735 ✅ |
+
+**All four land.** The figs and walnuts are now doing the fat and fibre work by themselves, which is why they cannot be dropped as well.
+
 ### Planned meal 3 — superseded by the order above
 
 ### The projection, and it is yesterday's shape again
@@ -491,6 +533,54 @@ The reporting was simplified earlier today to reduce effort, and that stands. **
 ### Reporting can be simplified
 
 **Photographs are no longer necessary.** Given the workload, a single word is enough going forward: **hard, normal, or loose**, plus whether forcing was needed. That carries the clinically useful information at a fraction of the effort.
+
+### Third movement, 31 July — and it reframes the whole GI picture
+
+**Reported by description: similar to the morning specimen, or a mix between the morning and the midday one.** Read as roughly **Bristol Type 2** — firmer than the midday passage, softer than the morning's Type 1 to 2.
+
+| | 31 July |
+|---|---|
+| First, morning | **Type 1 to 2**, hardest recorded, straining, small volume |
+| Second, midday | **Not hard, thin** |
+| **Third, ~evening** | **~Type 2**, between the two |
+
+#### Three movements in one day is not constipation by frequency, and that changes the diagnosis
+
+**This is the most important observation of the week and it has been hiding in plain sight.**
+
+The working label all week has been "constipation." **But the formal frequency criterion for constipation is fewer than three bowel movements per week. He had three today.** Frequency is not merely adequate — it is at the high end of normal.
+
+**What is abnormal is everything else:**
+
+| Criterion | Present? |
+|---|---|
+| Infrequent movements | **No** — three today, two yesterday |
+| Hard or lumpy stool | **Yes**, every specimen this week |
+| Straining | **Yes**, this morning |
+| Sensation of incomplete evacuation | **Yes** — every passage small volume |
+
+**This is not slow-transit constipation.** Slow transit produces few, large, infrequent movements. **This produces many, small, hard ones** — which is the signature of **hard stool plus incomplete evacuation**, not of a slow gut.
+
+#### Why the distinction is practical rather than academic
+
+**The interventions are different, and it re-ranks the ones already on the list:**
+
+- **Water rises to first place, unambiguously.** Hard stool with normal frequency is a hydration problem before it is a fibre problem. This now converges with the three independent dehydration signs already recorded — urine density 1030 on 28 July, yellow bowl water on 30 and 31 July.
+- **The footstool and the do-not-strain rule matter more, not less.** If the difficulty is emptying rather than moving, mechanics at the point of evacuation carry more weight than transit time.
+- **Stimulant approaches would be exactly wrong.** Nothing here needs more motility. The gut is already moving three times a day.
+- **Magnesium citrate remains correct** — it works osmotically, drawing water into the stool, which is precisely the deficit identified.
+
+#### The likely reason today produced three movements
+
+**Today is the first properly fed day of the week: four eating occasions, ~2240 kcal by 17:00, against yesterday's first food at 12:36.** The gastrocolic reflex is driven by food entering the stomach, so **more meals produce more movements.**
+
+Two movements yesterday, three today, on a rising calorie intake. **Stated as an observation on two days, not a proven relationship** — but it is consistent, it has a clear mechanism, and it argues against under-eating on its own terms.
+
+#### Direction of travel
+
+**Softer than this morning, and the day's hardest specimen came first.** That is the same hard-then-softer pattern seen on 30 July, and it continues to read as a firm retained mass clearing ahead of softer material.
+
+**Nothing here is alarming.** No blood, no black or tarry stool, normal colour throughout, consistent with the negative FIT and occult blood of 28 July. **The thin-calibre watch item from the midday passage stands unchanged** — one observation, two-week threshold, no action yet.
 
 ### Realistic expectation
 
