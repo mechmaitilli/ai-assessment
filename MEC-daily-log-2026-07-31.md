@@ -432,25 +432,29 @@ Logged in Notion and retrieved. See the 30 July log, section 4c. **200 kg × 8 a
 | **Started** | ~29 to 30 July, following the Dr Chalhoub appointment after Thursday's training |
 | **Next dose** | Saturday 1 August |
 | **Loading ends** | **~26 to 29 August** |
-| **Maintenance from then** | **1 pill daily at 10,000 IU** |
+| **Maintenance from then** | **1 pill WEEKLY at 10,000 IU** |
 
-**The loading phase is standard.** Two high-dose pills weekly for four weeks is a conventional correction protocol for a level of 15.7 ng/ml, and there is nothing to question in it.
+**The loading phase is standard.** Two high-dose pills weekly for four weeks is a conventional correction protocol for a level of 15.7 ng/ml.
 
-#### Two questions to put to Dr Chalhoub, and they are ordinary practice rather than second-guessing
+#### CORRECTION: maintenance is weekly, not daily — and the safety concern is withdrawn
 
-**1. How long does the 10,000 IU daily maintenance continue, and when is the recheck?**
+The maintenance dose was first reported as 10,000 IU **daily** and corrected within the hour to 10,000 IU **weekly**. **The concern raised on the daily figure is withdrawn in full.**
 
-10,000 IU daily is a legitimate dose, but it sits **above the 4,000 IU/day figure commonly cited as the tolerable upper intake for adults**. That is entirely appropriate as a time-limited correction and it is normal to run it for a defined period. **What matters is that the period is defined and a recheck is scheduled** — an open-ended 10,000 IU/day with no follow-up level is the scenario worth avoiding, and a three-month recheck was already the plan of record.
+**10,000 IU per week is approximately 1,430 IU per day equivalent.** That sits comfortably inside every mainstream guideline, well below the 4,000 IU/day tolerable upper intake, and squarely in the 1,000 to 2,000 IU/day range typically used for maintenance after a deficiency is corrected. **It is a conservative, well-chosen dose and there is nothing to question about it.**
 
-**2. Serum calcium — now materially more important than when it was first raised.**
+**The hypercalcemia concern goes with it.** At this dose vitamin D toxicity is not a realistic consideration, so the scenario of a treatment-induced symptom being mistaken for the existing constipation and fatigue does not arise.
 
-The 28 July panel measured sodium and potassium but **not calcium**. Vitamin D's mechanism is to increase calcium absorption, so a sustained 10,000 IU/day raises serum calcium by design.
+#### What still stands, for different reasons
 
-**The specific reason this matters for him: vitamin D excess presents as hypercalcemia, and hypercalcemia presents as constipation and fatigue.** Those are his two active complaints. Without a baseline calcium, a symptom that persisted or worsened during the maintenance phase could not be distinguished from what he already has.
+**1. The three-month recheck — now about efficacy, not safety.**
 
-**Request serum calcium with albumin, ideally before maintenance begins in late August.** There is a month of loading in which to obtain it, so there is no urgency — only a deadline.
+The question is no longer whether the dose is too high. It is **whether it is enough to actually move the number.** His level was 14.8 in May 2024 and 15.7 in July 2026 — **essentially unchanged across fourteen months without treatment.** The loading phase should correct that; the weekly maintenance then has to hold it. **A recheck at around three months confirms the correction landed and is being sustained**, which is the entire point of treating it.
 
-**None of this is a reason to alter the protocol.** It is a reason to have two specific questions answered at the next contact.
+**2. Serum calcium — retained, but demoted and for its original reason.**
+
+Calcium was first requested on 30 July on independent grounds: **constipation plus fatigue with a normal thyroid makes hypercalcemia a reasonable differential in its own right**, quite apart from supplementation. That reasoning is unaffected by the dosing correction.
+
+**But the urgency drops.** It no longer needs to happen before maintenance begins in late August. **Fold it into the three-month recheck draw** rather than arranging anything separately — same blood, no extra appointment.
 
 #### Reminder requested
 
