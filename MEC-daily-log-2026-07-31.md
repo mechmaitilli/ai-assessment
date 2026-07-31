@@ -50,7 +50,46 @@ The three-day elimination agreed last night was **karisheh, all protein bars, an
 - **More lactose**, from whey concentrate and milk powder.
 - **The elimination clock has not started.** It starts on the first bar-free, karisheh-free, carbonation-free day, not on the day it was agreed.
 
-**The fix is preparation, not willpower.** Boiled eggs made in advance are the direct replacement: 2 eggs is 12 g protein and ~155 kcal, they are cheaper than the bars, and they carry no lactose and no polyols. Without something pre-made, the bar wins every morning.
+### DECISION 31 JULY: bars stay, by the athlete's choice
+
+**MEC has stated he is heavily loaded at present, that convenience is what he can sustain, and that the bars stay until he says otherwise.** That is his call and it is recorded as a decision, not a lapse. **The coaching position moves from arguing against bars to making a bar-based plan work.** The point will not be raised again unless he reopens it.
+
+**The one consequence he should know, stated once:** keeping bars keeps maltitol and lactose in the diet, so the bloating question stays open. That is the trade, and it is a reasonable one to accept while under load.
+
+#### A zero-cook day that actually hits the targets
+
+The failure mode is not bars. It is **relying on bars alone**, since at 20 g protein each they would require ten a day. The fix is pairing them with the other zero-preparation items already in the database — the gym sandwiches are ordered, not cooked, and are the most protein-dense items on record.
+
+| Item | P | C | F | kcal | Prep |
+|---|---|---|---|---|---|
+| Protein Sandwich, large ×2 | 135 | 42 | 46 | ~1120 | Ordered |
+| Protein crisp bar ×2 | 40 | 44 | 8 | ~420 | None |
+| Tannour, 1 | 11 | 60 | 0 | ~280 | None |
+| Figs 60 g + walnuts 30 g | 6.6 | 42 | 20 | ~345 | None |
+| 1 banana + 1 tbsp honey | 1.3 | 44 | 0.4 | ~169 | None |
+| Olive oil, 1 tbsp | 0 | 0 | 14 | ~125 | Drizzle |
+| **Total** | **~194** | **~232** | **~88** | **~2459** | **No cooking** |
+
+**Protein in band, carbs 18 g under the cap, fat in band, calories ~106 under the floor — with nothing cooked.** This is the template to work from while the load is high.
+
+**The honest cost:** two gym sandwiches is roughly $19. Whey was dropped for budget reasons on 25 July, so this is the expensive way to solve it. If cost bites, one sandwich plus a third bar gets protein to ~166 g for about $10 less.
+
+#### The zero-effort improvement: change which bars, not whether
+
+**If bars are being bought anyway, the label is the only variable that costs nothing to change.** Same convenience, same speed, two of three suspects removed:
+
+- **Avoid maltitol.** Look for bars sweetened with **stevia, monk fruit or erythritol** instead. Erythritol is also a sugar alcohol but is largely absorbed in the small intestine rather than fermented in the colon, so it is markedly better tolerated.
+- **Avoid whey concentrate and milk powder.** **Whey isolate** carries far less lactose; plant or egg-protein bars carry none.
+
+**This requires reading one label at the next restock and nothing else.** No cooking, no planning, no change to the daily routine.
+
+#### A fourth candidate, from what he has just reported
+
+**"Very loaded" is itself clinically relevant and has not been on the list.** Psychological stress is a well-established driver of functional gut symptoms — altered motility, bloating and distension — and it fits this presentation particularly well: a full workup came back clean (thyroid, ferritin, B12, CBC, CRP, ESR, liver, renal, stool), which is the profile of a functional rather than structural problem.
+
+**It also compounds the two known fatigue causes.** Stress degrades sleep quality, and sleep is already the co-equal priority alongside vitamin D.
+
+**No action is proposed on this** — it is recorded because a bloating differential that omits the athlete's stated workload is incomplete, and because it may prove more explanatory than the food variables currently being chased.
 
 ---
 
