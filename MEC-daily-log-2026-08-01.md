@@ -193,8 +193,46 @@
 
 **Two mitigations, both trivial:**
 
-1. **Post-workout stays large regardless.** 40 to 60 g protein and 600+ kcal, exactly as yesterday. Do not bank calories for dinner
-2. **Put two crisp bars in the car.** Zero preparation, and they cover the afternoon gap
+1. **Eat a real lunch.** Do not bank calories for dinner
+2. **Put food in the car.** Zero preparation, and it covers the afternoon gap
+
+### CORRECTION: one sandwich is right today, not two — and the athlete called it
+
+**Guidance issued earlier this morning said "post-workout stays large regardless, 40 to 60 g protein and 600+ kcal, exactly as yesterday." MEC's response was that he will have lunch but not two sandwiches. He is right, and the earlier line was a template applied without re-running the arithmetic.**
+
+**Yesterday lunch had to carry the whole day because there was no dinner to rely on** — the evening was a bag of nuts eaten at the end of an 18-hour workday. **Today there is a family dinner with grilled chicken, which is the single densest clean protein source available to him.** The protein job that lunch did yesterday now belongs to dinner.
+
+#### Estimated dinner
+
+| Item | P | C | F | kcal |
+|---|---|---|---|---|
+| Grilled chicken, ~250 g | 78 | 0 | 9 | ~420 |
+| Fattoush, as served | 5 | 30 | 25 | ~350 |
+| Bread / tannour | 11 | 60 | 0 | ~280 |
+| Hummus or moutabal, a few spoons | 4 | 12 | 10 | ~150 |
+| **Total** | **~98** | **~102** | **~44** | **~1200** |
+
+**With ~98 g of protein arriving at dinner, lunch only needs ~72 g. One Protein Sandwich is 67.7 g. That is the correct size, and two would push the day past 260 g of protein for no benefit.**
+
+#### The full day as planned
+
+| Meal | P | C | F | kcal |
+|---|---|---|---|---|
+| Meal 1, pre-gym | 20 | 22 | 4 | 217 |
+| **Lunch — one Protein Sandwich** | 67.7 | 21 | 22.8 | 560 |
+| **In the car** — figs 60 g, walnuts 30 g, banana + 1 tbsp honey | 7.9 | 86 | 20.4 | 514 |
+| Family dinner, estimated | ~98 | ~102 | ~44 | ~1200 |
+| **Projected close** | **~194** | **~231** | **~91** | **~2491** |
+| Target | 190 to 215 | 250 cap | 85 to 95 | 2565 to 2735 |
+
+**Protein, carbs and fat all land. Calories come in ~74 under the floor**, which closes itself if dinner runs larger than estimated — and family dinners generally do.
+
+#### The car food is doing two jobs, which is why it is not optional
+
+1. **It covers the gap** between lunch and a late table, which is the actual failure mode today
+2. **It carries the fibre.** Figs and walnuts bring ~8 g, and with the fattoush the day should reach **~19 to 21 g — the best fibre day in the file**, against yesterday's ~17 g miss
+
+**Keep two crisp bars in the car as well, unused unless dinner is delayed past ~21:30 or turns out smaller than expected.** They are insurance, not part of the plan.
 
 ---
 
