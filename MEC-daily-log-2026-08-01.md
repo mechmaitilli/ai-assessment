@@ -554,4 +554,78 @@ The 31 July reframe established that this was never constipation by frequency �
 
 ---
 
+## 10. Day Close
+
+**Status: CLOSED.** Dried figs 60 g and one piece of maamoul mad b'ashta eaten as planned.
+
+### Final numbers
+
+| | Actual | Target | Verdict |
+|---|---|---|---|
+| Protein | **~218 g** | 190 to 215 g | **In band** (~3 over, immaterial) |
+| Carbs | **~234 g** | 250 g cap | **16 g inside cap** |
+| Fat | **~93 g** | 85 to 95 g | **In band** |
+| Calories | **~2638** | 2565 to 2735 | **In band** |
+| Fibre | **~21 g** | 25 to 30 g | **Short — the only miss, and the best in the file** |
+
+**All four macro targets landed.**
+
+### This is the first back-to-back complete day in the file
+
+| Day | Protein | Carbs | Fat | Calories | All four? |
+|---|---|---|---|---|---|
+| Sat 25 Jul | 194 | 247 | 65 | 2350 | No |
+| Sun 26 Jul | 147 | 296 | 66 | 2400 | No |
+| Mon 27 Jul | 201 | 243 | 84 | 2535 | No |
+| Tue 28 Jul | 194 | 231 | 75 | 2377 | No |
+| Wed 29 Jul | 215 | 201 | 96 | 2555 | Close |
+| Thu 30 Jul | 187 | 186 | 67 | 2108 | No |
+| **Fri 31 Jul** | **220** | **215** | **95** | **2585** | **Yes** |
+| **Sat 1 Aug** | **218** | **234** | **93** | **2638** | **Yes** |
+
+**Two consecutive complete days, and they are the only two in eight.** Both came after the same structural change: **food before training, and protein finished by mid-afternoon so the evening was left a job it could actually do.**
+
+### What made today work despite two departures from plan
+
+**Two things went off-plan and the day still landed:**
+
+1. **A post-workout meal that was not in the plan** added ~470 kcal, which would have pushed the day over its ceilings. Caught and corrected by cutting the car snack.
+2. **Dinner came in ~520 kcal under estimate** because both breads were dropped. Covered by calling the car snack back in.
+
+**The plan absorbed a +470 error and a -520 error on the same day and still closed inside every band.** That is the buffer and the mid-day recalculation working, not luck.
+
+### Fibre remains the standing miss
+
+**~21 g against a 25 to 30 g target — the best day in the file, and still short.**
+
+**The fattoush carried ~6 g and the figs ~5.9 g. Without them the day would have been ~9 g.** Both were unplanned additions rather than routine, which is the problem: **fibre only lands when something happens to include it.**
+
+**The cheapest fix remains unchanged: figs are 5.9 g for 149 kcal and require no preparation.** Making them a daily default rather than a buffer item would close most of the gap on its own.
+
+### Magnesium citrate, night two
+
+**Taken. Night one produced the first normal stool in the file within nine hours, and today delivered two normal movements — the first day both were normal since logging began.**
+
+**Tomorrow morning is the third data point.** Three to four consecutive days of this closes Open Health Issue B.
+
+### Tomorrow, Sunday 2 August — rest day
+
+- **Weigh-in planned, ~09:00 to 10:00.** Log it, annotate it, do not interpret it. **The sodium confounder is smaller than warned**, since both breads and most of the mezze were skipped.
+- **Magnesium citrate again tonight and tomorrow night.**
+- **Report the morning movement.** It is the third consecutive data point and the one that starts to make the pattern real.
+
+#### Correction to the rest-day macro guidance
+
+**The 25 July split note says rest-day carbs drop to 180 to 200 g. That guidance is suspended tomorrow.**
+
+It was written before the workload was disclosed, before the diet break was extended to ~12 to 14 August, and before six consecutive days closed under the band. **The diet break exists specifically to lift fatigue, and cutting calories on a rest day works directly against it.**
+
+**Hold the full band tomorrow: 190 to 215 g protein, 2565 to 2735 kcal.** Resume rest-day carb tapering once the cut restarts.
+
+### Unconfirmed and worth one word
+
+**Vitamin D dose 2 was due today and has not been confirmed.** It is the single highest-value action in the file — the only one of the three fatigue drivers that costs neither time nor willpower. **If it was missed, take it tomorrow.**
+
+---
+
 *Log maintained daily. Interpretation is coaching context only. All diagnosis, dosing and treatment decisions rest with Dr Clarissa Chalhoub.*
