@@ -111,6 +111,18 @@
 
 **Keep figs and walnuts in the car unused as the buffer.** Dinner is the only estimated figure in the day; if it comes in materially light, they close the gap.
 
+### Meal 3, lunch — as eaten
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Protein Sandwich, 175 g | 67.7 | 21 | 22.8 | ~1 g | 560 |
+| Pepsi Zero, 1.5 | 0 | 0 | 0 | 0 | ~0 |
+| **Total** | **67.7** | **21** | **22.8** | **~1 g** | **~560** |
+
+**Running total: ~142 P / ~123.5 C / ~42.3 F / ~1462 kcal.**
+
+**Caffeine today ~170 mg** — one coffee this morning plus ~100 mg from 1.5 Pepsi Zero. **Comfortably inside the 400 mg guideline, unlike yesterday's ~447 mg**, and all of it before the 14:00 cutoff.
+
 ### Carbs are comfortable now, but the dinner bread still matters
 
 **At ~226 g projected against a 250 g cap there is ~24 g of headroom** — better than before the plan was trimmed, but a second tannour is ~60 g and would still breach it.
@@ -297,9 +309,43 @@
 
 **Combined with the negative FIT and occult blood of 28 July, normal colour throughout, no blood at any point, no weight loss and a completely clean workup, the concern is resolved.** It stays in the record as an observation and comes off the active watch list. **Nothing to raise with Dr Chalhoub.**
 
+### Second movement, 1 August — good, and less straining
+
+**Reported: a second movement, good quality, with noticeably less pressing needed to pass it.**
+
+**Both of today's movements were normal. That has not happened once since logging began.**
+
+| Day | Movements | Quality |
+|---|---|---|
+| 30 July | 2 | Type 2 to 3 hard, then ~Type 5 |
+| 31 July | 3 | Type 1 to 2 with straining, thin, then ~Type 2 |
+| **1 August** | **2** | **Big, long, thick, larger volume — then good with less straining** |
+
+### All three abnormal criteria are now moving, inside 24 hours
+
+The 31 July reframe established that this was never constipation by frequency — he was passing two to three a day — but by **hard stool, straining, and incomplete evacuation.** All three:
+
+| Criterion | 31 July | **1 August** |
+|---|---|---|
+| Hard or lumpy stool | Present, hardest recorded | **Resolving — formed and thick** |
+| **Straining** | Present, required | **Reducing — "less pressing"** |
+| Incomplete evacuation | Present, every passage small | **Improving — volume up** |
+
+**Straining is the one that matters most clinically**, because it is the mechanism behind haemorrhoids, fissures and pelvic floor dysfunction. It is also the criterion the athlete feels directly, so it is the most reliable one he reports.
+
+### This reorders the bloating differential
+
+**Today's improvement happened with ~16 g of polyols and 1.5 carbonated drinks in the day.** Both are on the suspect list — polyols ranked first, carbonation fifth.
+
+**If either were a primary driver, today should have been worse, not better.**
+
+**That is one day and it is not proof.** But it is directional, and it points the same way as the magnesium result: **the problem was stool water, not a food trigger.** Hydration and osmotic load look increasingly like the mechanism, with lactose, polyols and carbonation looking less central than the 30 to 31 July reasoning assumed.
+
+**Practical consequence: the three-day elimination drops in priority.** It has never actually started, it has been repeatedly broken without cost, and the intervention that produced a result in 24 hours was not an elimination at all. **Water and magnesium are the plan; the elimination becomes a later tidy-up rather than the main event.**
+
 ### What this does not close
 
-**The GI issue itself remains open.** One good morning after five days of hard, small, incomplete passages is a strong signal, not a resolution.
+**The GI issue itself remains open.** Two good movements after five days of hard, small, incomplete passages is a strong signal, not a resolution.
 
 **What would close it: three to four consecutive days of this.** Until then the plan holds — magnesium nightly, fibre daily, and water, which remains the only prescribed intervention never once recorded since 26 July.
 
