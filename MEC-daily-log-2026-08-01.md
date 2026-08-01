@@ -52,6 +52,53 @@
 
 **Polyols: ~8 g from the bar.** The elimination clock still has not started.
 
+### Meal 2, post-workout
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Whey protein + banana, blended | ~31 | ~30 | ~2 | ~3 g | ~255 |
+| Starbucks scone, **half** | ~3.5 | ~28.5 | ~9.5 | ~1 g | ~215 |
+| **Total** | **~34.5** | **~58.5** | **~11.5** | **~4 g** | **~470** |
+
+**Running total: ~54.5 P / ~80.5 C / ~15.5 F / ~687 kcal.**
+
+**Assumed mixed with ice and water, as on 31 July.** If milk was used it adds lactose on a day the GI picture has just improved — worth confirming, and worth defaulting to water while the cause of yesterday's improvement is still unresolved.
+
+**Half a scone rather than a whole one.** Yesterday's full scone carried ~10 to 13 g of saturated fat and was flagged as the wrong direction with LDL at 161.4. Halving it is a small, unprompted correction and it lands ~215 kcal on a day that has room for it.
+
+### The day now overshoots unless the plan is trimmed
+
+**This post-workout meal was not in the plan built earlier**, which ran meal 1, one Protein Sandwich at lunch, a car snack and the family dinner. Adding ~470 kcal on top pushes the day past its ceilings:
+
+| | With the original car snack | Target |
+|---|---|---|
+| Protein | ~227 g | 190 to 215 |
+| Carbs | ~246 g | 250 cap |
+| Fat | ~102 g | 85 to 95 |
+| Calories | **~2792** | 2565 to 2735 |
+
+**Revised plan: keep the lunch sandwich, cut the car snack to figs only.** Drop the walnuts, banana and honey.
+
+| Meal | P | C | F | kcal |
+|---|---|---|---|---|
+| Meal 1, pre-gym | 20 | 22 | 4 | 217 |
+| Meal 2, post-workout | 34.5 | 58.5 | 11.5 | 470 |
+| Lunch, one Protein Sandwich | 67.7 | 21 | 22.8 | 560 |
+| In the car, figs 60 g | 2 | 36 | 0 | 149 |
+| Family dinner, estimated | ~98 | ~102 | ~44 | ~1200 |
+| **Projected close** | **~222** | **~240** | **~82** | **~2596** |
+| Target | 190 to 215 | 250 cap | 85 to 95 | 2565 to 2735 |
+
+**Calories land in band, carbs stay 10 g inside the cap, protein runs ~7 over the ceiling and fat ~3 under the floor. Both are immaterial.**
+
+**Keep the walnuts in the car unused as the buffer.** Dinner is the one estimated figure in the day; if it comes in light, the walnuts close the gap at ~196 kcal and 20 g of fat.
+
+### Carbs are the only genuinely tight number tonight
+
+**At ~240 g projected against a 250 g cap, there is 10 g of headroom — roughly one sixth of a tannour.**
+
+**At dinner: one bread, not two.** The fattoush and the mezze carry carbohydrate of their own, and a second bread alone is ~60 g, which breaches the cap on its own. **Everything else at that table is unrestricted.**
+
 ---
 
 ## 4. Today's Session: Chest
