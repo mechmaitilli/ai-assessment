@@ -100,7 +100,9 @@
 | Cable crossover, paused | 2 | **70 lb**, different machine | 12 | 2 |
 | Pec deck | 1 | **72.5 lb** + 10-second iso finisher | 12 | 2 |
 
-**Logging correction:** the 70 lb × 12 set was initially recorded as the pec deck. It was not — the pec deck was occupied at that point and came later at 72.5 lb. **The 70 lb set is attributed to the second crossover, on a different machine from the first, and that attribution is pending the athlete's confirmation.**
+**Logging correction, confirmed by the athlete:** the 70 lb × 12 set was initially recorded as the pec deck. It was not — the pec deck was occupied at that point and came later at 72.5 lb. **The 70 lb set was the second crossover, performed on a different machine from the first.** Attribution confirmed.
+
+**Consequence for next week: the two crossover sets are not comparable to each other, let alone to 25 July.** Three different machines are now in the record for this one exercise — a kg-marked machine on 25 July, and two separate lb-marked machines today. **Next session should run both crossover sets on the same machine** so the exercise finally has a stable baseline. Until then no progression can be read from it in either direction.
 
 ### Both presses up 4 kg in a week
 
