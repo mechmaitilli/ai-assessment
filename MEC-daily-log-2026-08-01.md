@@ -96,8 +96,11 @@
 | Flat DB press | 1 | **40 kg** | 7 | 2 |
 | Flat DB press | 2 | 38 kg | 8 | 2 |
 | Flat DB press | 3 | 38 kg | 8 | 2 |
-| Cable crossover, paused | — | **60 lb per handle** | 12 | 2 |
-| Pec deck | — | **70 lb** | 12 | 2 |
+| Cable crossover, paused | 1 | **60 lb per handle** | 12 | 2 |
+| Cable crossover, paused | 2 | **70 lb**, different machine | 12 | 2 |
+| Pec deck | 1 | **72.5 lb** + 10-second iso finisher | 12 | 2 |
+
+**Logging correction:** the 70 lb × 12 set was initially recorded as the pec deck. It was not — the pec deck was occupied at that point and came later at 72.5 lb. **The 70 lb set is attributed to the second crossover, on a different machine from the first, and that attribution is pending the athlete's confirmation.**
 
 ### Both presses up 4 kg in a week
 
