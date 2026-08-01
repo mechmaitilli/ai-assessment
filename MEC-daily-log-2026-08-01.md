@@ -56,13 +56,26 @@
 
 | Item | P | C | F | Fibre | kcal |
 |---|---|---|---|---|---|
-| Whey protein + banana, blended | ~31 | ~30 | ~2 | ~3 g | ~255 |
+| Whey protein + banana, blended **with water** | ~31 | ~30 | ~2 | ~3 g | ~255 |
 | Starbucks scone, **half** | ~3.5 | ~28.5 | ~9.5 | ~1 g | ~215 |
-| **Total** | **~34.5** | **~58.5** | **~11.5** | **~4 g** | **~470** |
+| Whey Protein Crisp Bar, 70 g | 20 | 22 | 4 | 1 g | 215 |
+| **Total** | **~54.5** | **~80.5** | **~15.5** | **~5 g** | **~685** |
 
-**Running total: ~54.5 P / ~80.5 C / ~15.5 F / ~687 kcal.**
+**Running total: ~74.5 P / ~102.5 C / ~19.5 F / ~902 kcal.**
 
-**Assumed mixed with ice and water, as on 31 July.** If milk was used it adds lactose on a day the GI picture has just improved — worth confirming, and worth defaulting to water while the cause of yesterday's improvement is still unresolved.
+**Mixed with water, confirmed.** No lactose from the shake, which matters on the day the GI picture improved and the cause is still unresolved.
+
+#### The second bar puts today's polyols at ~16 g
+
+| Source | Polyols |
+|---|---|
+| Pre-gym crisp bar | ~8 g |
+| **Post-workout crisp bar** | **~8 g** |
+| **Day total** | **~16 g** |
+
+**Still below the ~20 g symptomatic threshold, and identical to yesterday's load** — which was followed by the best stool in the record. That is mild evidence that 16 g is tolerable for him.
+
+**The cost is interpretability, not symptoms.** This morning's improvement has three candidate causes — magnesium, fibre, and simply eating enough — and none has been isolated. **Two bars today keeps a fourth variable moving, so tomorrow's reading again tells us less than it could.** Bars stay by the athlete's standing decision and the point is not reopened; this is recorded so the limitation is visible rather than discovered later.
 
 **Half a scone rather than a whole one.** Yesterday's full scone carried ~10 to 13 g of saturated fat and was flagged as the wrong direction with LDL at 161.4. Halving it is a small, unprompted correction and it lands ~215 kcal on a day that has room for it.
 
@@ -77,27 +90,32 @@
 | Fat | ~102 g | 85 to 95 |
 | Calories | **~2792** | 2565 to 2735 |
 
-**Revised plan: keep the lunch sandwich, cut the car snack to figs only.** Drop the walnuts, banana and honey.
+**Revised plan: keep the lunch sandwich, drop the car snack entirely.**
 
 | Meal | P | C | F | kcal |
 |---|---|---|---|---|
 | Meal 1, pre-gym | 20 | 22 | 4 | 217 |
-| Meal 2, post-workout | 34.5 | 58.5 | 11.5 | 470 |
+| Meal 2, post-workout | 54.5 | 80.5 | 15.5 | 685 |
 | Lunch, one Protein Sandwich | 67.7 | 21 | 22.8 | 560 |
-| In the car, figs 60 g | 2 | 36 | 0 | 149 |
 | Family dinner, estimated | ~98 | ~102 | ~44 | ~1200 |
-| **Projected close** | **~222** | **~240** | **~82** | **~2596** |
+| **Projected close** | **~240** | **~226** | **~86** | **~2662** |
 | Target | 190 to 215 | 250 cap | 85 to 95 | 2565 to 2735 |
 
-**Calories land in band, carbs stay 10 g inside the cap, protein runs ~7 over the ceiling and fat ~3 under the floor. Both are immaterial.**
+**Calories, carbs and fat all land inside band. Protein runs ~25 g over the ceiling**, which is the direct cost of two bars plus a shake before midday. **Not harmful — protein has no safety ceiling at this level — but it displaces nothing useful and is worth knowing rather than repeating.**
 
-**Keep the walnuts in the car unused as the buffer.** Dinner is the one estimated figure in the day; if it comes in light, the walnuts close the gap at ~196 kcal and 20 g of fat.
+#### The simple rule for the rest of the day
 
-### Carbs are the only genuinely tight number tonight
+**~902 kcal are banked. Dinner will take roughly 1200. That leaves about 460 to 630 kcal for lunch**, depending on whether the day lands on the floor or mid-band.
 
-**At ~240 g projected against a 250 g cap, there is 10 g of headroom — roughly one sixth of a tannour.**
+**One Protein Sandwich at 560 kcal sits neatly in that window. Nothing else is needed.**
 
-**At dinner: one bread, not two.** The fattoush and the mezze carry carbohydrate of their own, and a second bread alone is ~60 g, which breaches the cap on its own. **Everything else at that table is unrestricted.**
+**Keep figs and walnuts in the car unused as the buffer.** Dinner is the only estimated figure in the day; if it comes in materially light, they close the gap.
+
+### Carbs are comfortable now, but the dinner bread still matters
+
+**At ~226 g projected against a 250 g cap there is ~24 g of headroom** — better than before the plan was trimmed, but a second tannour is ~60 g and would still breach it.
+
+**At dinner: one bread, not two. Everything else at that table is unrestricted** — chicken, fattoush, hummus, moutabal, vegetables.
 
 ---
 
