@@ -123,6 +123,67 @@
 
 **Caffeine today ~170 mg** — one coffee this morning plus ~100 mg from 1.5 Pepsi Zero. **Comfortably inside the 400 mg guideline, unlike yesterday's ~447 mg**, and all of it before the 14:00 cutoff.
 
+### Meal 4, family dinner in the Bekaa — as eaten
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Grilled chicken, 200 g | ~62 | 0 | ~8 | 0 | ~330 |
+| Fattoush, large, **no fried bread** | ~4 | ~22 | ~20 | ~6 g | ~260 |
+| Air-fried cashews, ~15 g | ~2.7 | ~4.5 | ~6.6 | ~1 g | ~87 |
+| **Total** | **~68.7** | **~26.5** | **~34.6** | **~7 g** | **~677** |
+
+**Running total: ~211 P / ~150 C / ~77 F / ~2139 kcal.**
+
+#### Protein landed dead centre of the band
+
+**~211 g against a 190 to 215 target.** That is the cleanest protein landing of the week — yesterday closed at ~220, slightly over, and every day before that ran short. **No adjustment needed and none available; the protein day is finished.**
+
+#### But dinner came in ~520 kcal under estimate, and the reason is bread
+
+**The projection assumed ~1200 kcal from dinner including one tannour and a fattoush as served. Actual was ~677.** Two deliberate choices account for the gap:
+
+| Choice | Effect |
+|---|---|
+| **No fried bread in the fattoush** | ~-100 kcal |
+| **No tannour with the meal** | **~-280 kcal, and ~-60 g of carbs** |
+
+**Both were lean choices and neither was wrong** — but on a day already running under the floor, the bread was the one item that was genuinely wanted. **Carbs closed at ~150 g against a 250 g cap, 100 g of unused room**, which is the clearest signal that the starch was the piece dropped.
+
+**This is now the fifth occasion in the file where the closing starch is the item removed.** It was noted on 29 July as a pattern and it has held.
+
+#### The day is ~426 kcal short of the floor, and the car snack is exactly the fix
+
+| | Now | Target | Gap |
+|---|---|---|---|
+| Protein | ~211 g | 190 to 215 | **Landed** |
+| Carbs | ~150 g | 250 cap | 100 g of room |
+| Fat | ~77 g | 85 to 95 | **8 g short** |
+| Calories | **~2139** | 2565 to 2735 | **~426 short** |
+| Fibre | ~14 g | 25 to 30 | **~11 g short** |
+
+**The figs, walnuts, banana and honey left in the car were held back as a buffer against dinner coming in light. Dinner came in light. Eat all of it.**
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Dried figs, 60 g | 2 | 36 | 0 | 5.9 g | 149 |
+| Walnuts, 30 g | 4.6 | 6 | 20 | 2 g | 196 |
+| Banana + 1 tbsp honey | 1.3 | 44 | 0.4 | 3 g | 169 |
+| **Total** | **7.9** | **86** | **20.4** | **~11 g** | **~514** |
+
+#### Projected close with the car snack
+
+| | Projected | Target | Verdict |
+|---|---|---|---|
+| Protein | ~219 g | 190 to 215 | ~4 over, immaterial |
+| Carbs | ~236 g | 250 cap | **14 g inside** |
+| Fat | ~97 g | 85 to 95 | ~2 over, immaterial |
+| Calories | **~2653** | 2565 to 2735 | **In band** |
+| Fibre | **~25 g** | 25 to 30 | **On target — the first time in the file** |
+
+**All four macro targets land, and fibre reaches 25 g for the first time since logging began.** The walnuts carry the 8 g of fat still missing; the figs and banana carry the calories and the fibre.
+
+**The buffer worked exactly as designed.** It was set aside precisely because dinner was the only estimated figure in the day, and the estimate was wrong by ~520 kcal in the direction anticipated.
+
 ### Carbs are comfortable now, but the dinner bread still matters
 
 **At ~226 g projected against a 250 g cap there is ~24 g of headroom** — better than before the plan was trimmed, but a second tannour is ~60 g and would still breach it.
