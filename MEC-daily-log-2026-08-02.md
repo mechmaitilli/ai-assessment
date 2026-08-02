@@ -227,7 +227,71 @@ Until then there is nothing to act on, and no change to the plan. **The diet bre
 
 ---
 
-## 5. Open Items This Morning
+## 5. Nutrition Log
+
+### Meal 1 — the best breakfast in the file
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Whey Protein Crisp Bar, 70 g | 20 | 22 | 4 | 1 g | 215 |
+| Coffee | 0 | 0 | 0 | 0 | ~2 |
+| Tannour, 1.25 (~125 g) | 13.8 | 75 | 0 | 3.8 g | ~350 |
+| Olive oil ~1.5 tbsp + za'atar | ~2 | ~5 | ~23.5 | ~3 g | ~240 |
+| Tomato, cucumber, ¼ onion | ~2.3 | ~13 | ~0.4 | ~2.8 g | ~57 |
+| **Chalal cheese, 60 g** | **13.2** | **3** | **13.2** | 0 | **~184** |
+| **Total** | **~51** | **~118** | **~41** | **~10.5 g** | **~1048** |
+
+### Why this meal matters more than its macros
+
+**1048 kcal and 51 g of protein before mid-morning.** The previous benchmark was 29 July at 587 kcal and 49.5 g — **this nearly doubles the calories on the best opening day in the record.**
+
+**Every day that failed in this file failed the same way: a light start, then an evening asked to deliver 1000+ kcal at the end of an 18-hour day.** A 1048 kcal breakfast removes that structure entirely.
+
+### ~10.5 g of fibre in one meal, against a standing miss of ~14 to 21 g per day
+
+**This is the first meal in the file to carry meaningful fibre without figs being involved.** Vegetables and tannour did it — 2.8 g from the tomato, cucumber and onion, 3.8 g from the bread, ~3 g from the za'atar.
+
+**Fibre has been the recurring miss for eight days and every previous fix was a supplement-style bolt-on.** This one came from a normally composed meal, which is the version that repeats without effort.
+
+**It also matters today specifically**, since this morning's straining was attributed in part to fibre without water. **The fibre is now arriving with vegetables that carry their own water content** rather than as dried figs, which pull water the other way.
+
+### The cheese is a good addition, and it is not a return to karisheh
+
+**Chalal at 22 g protein and 22 g fat per 100 g, and the athlete noted the low sodium figure of 1.1 g unprompted** — which is directly relevant the morning after a high-sodium family dinner and a water-retention discussion.
+
+**On lactose: this is not the karisheh problem returning.** Karisheh is a fresh whey cheese and retains most of its lactose, which is why it was eliminated on 29 July. **Chalal is a pulled and brined cheese — the great majority of the lactose leaves with the whey during production.** It is among the safer dairy choices available to him.
+
+**One thing to track rather than act on: the fat is saturated dairy fat.** 60 g carries ~13 g of fat, of which perhaps 8 to 9 g is saturated. **Fine at this portion. Worth noting only if it becomes a daily 100 g habit**, given LDL at 161.4.
+
+### The fat source was right
+
+**Olive oil carried ~23.5 g of the meal's 41 g of fat.** That is the source the plan has been asking for since the 28 July lipid panel — it actively improves the profile, against the butter-based scone and syrup-soaked maamoul of the last two days.
+
+### This is the first properly composed meal in eight days
+
+**Bread, vegetables, olive oil, cheese.** Not a bar, not a shake, not a sandwich ordered from an app.
+
+**The fat and fibre targets have been missed repeatedly because the diet has run on convenience items, which are engineered to be high protein and low fat.** A composed meal hits both without anyone having to plan for it. **That is the structural point, and it is worth more than today's numbers.**
+
+### Where the day stands
+
+| | So far | Target | Still to find |
+|---|---|---|---|
+| Protein | **~51 g** | 190 to 215 | 139 to 164 g |
+| Carbs | **~118 g** | 250 cap | 132 g of room |
+| Fat | **~41 g** | 85 to 95 | 44 to 54 g |
+| Calories | **~1048** | 2565 to 2735 | ~1517 to 1687 |
+| Fibre | **~10.5 g** | 25 to 30 | ~15 to 20 g |
+
+**Protein is the number to watch: ~150 g across two remaining meals, so roughly 75 g each.** Grilled chicken at 250 to 300 g, or a Protein Sandwich, covers one sitting.
+
+**Carbs have 132 g of room** — unusually comfortable, and the reason is that fat and protein carried the breakfast rather than starch alone.
+
+**Polyols: ~8 g from the bar.** Third consecutive morning bar.
+
+---
+
+## 6. Open Items This Morning
 
 - [ ] **Water. Today is the day.** Rest day, no commute, no workload. A filled bottle, refilled when empty. **Both interventions already running depend on it**
 - [ ] **Weigh in and report it.** Log it, annotate it "post family dinner", do not interpret it
