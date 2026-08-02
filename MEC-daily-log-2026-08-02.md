@@ -113,6 +113,54 @@
 
 **That is a falsifiable test, it runs on its own, and the only input required is a bottle of water.** Tomorrow and Tuesday morning will settle it.
 
+### WATER: 1 litre — the first figure ever recorded
+
+**Reported 2 August: 1 litre.**
+
+**This is the first water number in the file. The target was set on 26 July and had gone seven consecutive days without a single entry.** Whatever the quantity, a tracked number is a different thing from an untracked intention, and this is the first one.
+
+#### Total fluid is higher than the plain-water figure
+
+| Source | Approx. volume |
+|---|---|
+| **Water** | **1000 ml** |
+| Coffee, breakfast | ~200 ml |
+| Decaf capsules ×2 | ~200 ml |
+| Pepsi Zero | ~330 ml |
+| **Total drinks** | **~1730 ml** |
+
+**Caffeinated and carbonated drinks count.** The claim that coffee is net dehydrating does not hold at habitual doses — the fluid contribution outweighs the mild diuretic effect. **Food adds more**, and today's tomato, cucumber and salad vegetables are largely water, plausibly another 400 to 500 ml.
+
+**Realistic total intake: ~2.1 to 2.2 litres.**
+
+#### Against requirement, that is short but not dramatically
+
+**For an 89 kg male in Beirut in August, roughly 30 to 35 ml per kg gives a total water requirement of ~2.7 to 3.1 litres**, of which 20 to 30% normally arrives via food. **That puts the drinking target at roughly 2 to 2.5 litres, not 3.**
+
+**So the honest position: he is at ~1.7 litres of drinks against a ~2 to 2.5 litre drinking target. Short by roughly 500 to 800 ml, not by two thirds.**
+
+#### The 3 litre figure should be restated as a progression
+
+**Going from zero recorded to 3 litres in a day is the kind of target that gets abandoned.** A step that holds is better than one that does not:
+
+| | Target |
+|---|---|
+| **Today** | **1 L — achieved.** Add ~500 ml this evening if convenient |
+| Tomorrow | **1.5 to 2 L**, the majority before 18:00 |
+| By mid-week | 2 to 2.5 L, held |
+
+#### Do not chase the number late in the evening
+
+**Drinking a litre at 22:00 to hit a target produces nocturia, which fragments sleep.**
+
+**Sleep is one of the two named drivers of the fatigue under investigation.** Trading sleep quality for a water figure is a straight loss — **front-load instead, and stop roughly two hours before bed.**
+
+#### What this does to the prediction
+
+**The test set earlier today assumed water either starts or does not. One litre is a partial start, so tomorrow will be a partial test.**
+
+**Expect a partial answer: some improvement in volume, not a resolution.** If tomorrow's stool volume is unchanged, that will not disprove the water hypothesis — **it will mean the dose was too small to test it.** The clean test needs ~2 litres held for two consecutive days.
+
 ### Do not push
 
 **The 31 July rule stands and is worth repeating because it was breached this morning: if nothing comes within about five minutes, get up and come back later.**
