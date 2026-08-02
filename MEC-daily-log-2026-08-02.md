@@ -74,6 +74,45 @@
 
 **The low-effort version stands: a filled bottle on the desk or in the car, refilled when empty. No measuring, no logging, no target to hit.** Today is a rest day with no gym, no commute and no 16-hour workload — the easiest day available to establish it.
 
+### Second movement, 2 August — small, one decent piece, no straining reported
+
+**Two movements today. Both small in volume. Both formed.**
+
+| | Morning | **Afternoon** |
+|---|---|---|
+| Form | Long strand, formed | **One decent piece, formed** |
+| Volume | Small | **Small** |
+| Straining | **Required** | **Not reported** |
+
+#### Read: stable, not regressing
+
+**The form has now held across four consecutive passages since magnesium started.** Nothing since 31 July has been the compacted Type 1 to 2 lumps that defined the week before it. **The consistency gain is real and it is persisting.**
+
+**Straining eased within the day, which is the fourth consecutive day showing that pattern** — 30 July, 31 July, 1 August and today have all been harder first, easier later. The mechanism is the same each time: a firmer retained mass clears first, and the gastrocolic reflex assists everything after the first meal.
+
+**This one followed a 1048 kcal breakfast, a bar and a lunch.** That is the reflex working, and it is direct confirmation of the "go after breakfast, not before" instruction issued this morning.
+
+#### Volume is now the only unresolved dimension
+
+| Criterion | Status |
+|---|---|
+| Frequency | **Never a problem.** Two to three a day for four days |
+| Hard or lumpy stool | **Resolved.** Four consecutive formed passages |
+| Straining | **Improving.** Present on first passages, absent later |
+| **Incomplete evacuation** | **Still present. Every passage this week has been small** |
+
+**Small volume with formed consistency is a different problem from hard stool.** It points to insufficient bulk reaching the rectum as a single mass, and to a backlog clearing in installments rather than in one go.
+
+#### A testable prediction, and it is the argument for the water
+
+**Dietary fibre takes roughly 24 to 48 hours to translate into stool volume.** Fibre only ran at 21 g yesterday and ~14 g so far today, after a week at 6 to 14 g. **The bulk from those two days has largely not arrived yet.**
+
+**Prediction: if fibre holds at 21 to 25 g and water actually starts today, volume should improve within 24 to 48 hours.**
+
+**If fibre holds and water does not start, expect volume to stay small or worsen** — because fibre without water increases bulk and firmness together, which is the mechanism already flagged twice in this log.
+
+**That is a falsifiable test, it runs on its own, and the only input required is a bottle of water.** Tomorrow and Tuesday morning will settle it.
+
 ### Do not push
 
 **The 31 July rule stands and is worth repeating because it was breached this morning: if nothing comes within about five minutes, get up and come back later.**
