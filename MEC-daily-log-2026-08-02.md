@@ -84,7 +84,75 @@
 
 ---
 
-## 3. Open Items This Morning
+## 3. Weigh-in: 88.9 kg, and the arithmetic again says it is not fat
+
+**Reported: 88.9 kg, empty stomach, on waking.**
+
+| Date | Weight | Change |
+|---|---|---|
+| 25 to 29 July | 85.5 kg | Baseline |
+| 30 July | 88.0 kg | +2.5 kg |
+| **2 August** | **88.9 kg** | **+0.9 kg, +3.4 kg from baseline** |
+
+**This is the second consecutive weigh-in that reads as a large gain and the second that the energy arithmetic rules out.**
+
+### The eight-day intake record
+
+**Maintenance during the diet break is the midpoint of the band, ~2650 kcal.**
+
+| Date | Intake | vs maintenance |
+|---|---|---|
+| 25 Jul | 2350 | −300 |
+| 26 Jul | 2400 | −250 |
+| 27 Jul | 2535 | −115 |
+| 28 Jul | 2377 | −273 |
+| 29 Jul | 2555 | −95 |
+| 30 Jul | 2108 | **−542** |
+| 31 Jul | 2585 | −65 |
+| 1 Aug | 2638 | −12 |
+| **Cumulative** | | **−1652 kcal** |
+
+**3.4 kg of fat requires roughly a 26,000 kcal surplus. The record shows a 1,652 kcal deficit. The gap is about 28,000 kcal — there is no version of this that is fat.**
+
+**The three-day move is just as clear.** From 30 July to today he ate 2108, 2585 and 2638 against ~7,950 kcal of maintenance — **a 619 kcal deficit.** 0.9 kg of fat would require a ~7,000 kcal surplus.
+
+### What it actually is, ranked for today specifically
+
+| Cause | Why it applies now |
+|---|---|
+| **Saturday's training** | **His heaviest session ever — +4 kg on both presses, one set at 1 RIR.** Unaccustomed load causes muscle damage and inflammatory water retention, typically 0.5 to 1 kg for 24 to 72 hours. This is the single best explanation for today's reading |
+| **Saturday's family dinner** | Fattoush carries salt and sumac, plus cashews and syrup-soaked maamoul. **Sodium drives acute water retention** — 1 to 1.5 kg overnight is ordinary and clears in two to three days |
+| **Retained stool** | Confirmed, not inferred. Every passage this week has been small volume with incomplete evacuation, including this morning's |
+| **Glycogen and its bound water** | The diet break raised carbohydrate from cut levels. Each gram of glycogen binds ~3 g of water |
+| **Creatine** | Ongoing. Intracellular water, ~1 kg, already documented as the cause of the ceiling creatinine on 28 July |
+
+**Every one of these is water or gut content. All of them are reversible within days and none is body fat.**
+
+### The counter-signal is stronger than the scale
+
+**The most informative number this week is not 88.9 kg. It is that both presses went up 4 kg while eating at or below maintenance.**
+
+**Losing muscle and gaining fat does not produce a 4 kg jump on incline and flat dumbbell press in the same session.** Performance is rising, which is the opposite of what the scale reading would imply if it were real.
+
+### What to do: nothing, and keep weighing
+
+**The scale is currently useless as a body-composition tool** and will remain useless until stools normalise and sodium stabilises. **That is a reason not to interpret single readings, not a reason to stop taking them.** An annotated reading is worth far more than a gap.
+
+**Today's annotation: post family dinner, high sodium, 24 hours after the heaviest session in the file, with incomplete evacuation ongoing.**
+
+**The three-morning averaging stays suspended** until stools are consistently normal, as set on 30 July.
+
+**One counterintuitive point: drinking more water reduces water retention.** Chronic under-hydration promotes sodium and fluid conservation. The water target already prescribed for the constipation works in the same direction here.
+
+### The threshold that would change this assessment
+
+**If weight is still at or above 88 kg after three consecutive days of normal stools and a week without a high-sodium meal, the maintenance calculation gets revisited.**
+
+Until then there is nothing to act on, and no change to the plan. **The diet break continues and should still extend to ~12 to 14 August.**
+
+---
+
+## 4. Open Items This Morning
 
 - [ ] **Water. Today is the day.** Rest day, no commute, no workload. A filled bottle, refilled when empty. **Both interventions already running depend on it**
 - [ ] **Weigh in and report it.** Log it, annotate it "post family dinner", do not interpret it
