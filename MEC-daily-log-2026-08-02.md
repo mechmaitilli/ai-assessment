@@ -300,6 +300,69 @@
 | **Wake anchor 06:35** | **Unchanged, and it is the piece that matters most from tomorrow** |
 | Weekend catch-up | **Now demonstrated to work.** Worth protecting deliberately rather than leaving to chance |
 
+## CORRECTION: the magnesium is bisglycinate, not citrate
+
+**Product photographed 2 August: MagneFix. Each capsule contains magnesium bisglycinate 300 mg and vitamin B6 25 mg. Directions: 1 capsule, 1 to 2 times daily, 30 minutes before bedtime, with a full glass of water.**
+
+**The protocol written on 28 July specified magnesium *citrate*. What is actually being taken is *bisglycinate*, and the two do materially different things in the gut.**
+
+### The two forms are not interchangeable for this purpose
+
+| | Citrate | **Bisglycinate** |
+|---|---|---|
+| Absorption | Moderate; a large fraction stays in the lumen | **High — chelated to glycine and absorbed in the small intestine** |
+| Osmotic effect in the bowel | **Substantial. This is the laxative mechanism** | **Minimal — that is the point of the form** |
+| Typical use | Constipation, bowel prep | **Sleep, anxiety, cramp, muscle relaxation** |
+| Tolerance | Loose stools at higher doses | **Chosen specifically to avoid GI upset** |
+
+**Bisglycinate is the form marketed for people who cannot tolerate the laxative effect of other magnesium salts.**
+
+### This retracts a claim made on 1 August
+
+**The 1 August entry stated that the magnesium "worked", and called the timing "textbook" — magnesium taken ~23:30, movement ~07:00 to 08:00, inside the 6 to 12 hour osmotic window. That reasoning was built on the citrate mechanism and does not apply to bisglycinate.**
+
+**Absorption is not zero-sum — even chelated magnesium is only 20 to 40% absorbed, so some osmotic load remains — but the effect is far weaker than claimed, and the confident attribution was wrong.**
+
+### What actually changed on 31 July, then
+
+**Three things changed the same night, and magnesium was the one given the credit:**
+
+| Change | Now |
+|---|---|
+| **31 July was the first complete macro day** — ~2585 kcal, all four targets | **Promoted.** Adequate intake drives stool volume directly |
+| **Fibre reached ~17 g**, up from 6 to 14 g earlier in the week | **Promoted** |
+| Magnesium bisglycinate started | **Demoted.** Weak osmotic action |
+
+**This does not change the plan. It strengthens the case for water**, because if the magnesium is not doing osmotic work, then fibre and hydration are carrying the entire load — and water has been absent throughout.
+
+### One thing on the label that cannot be resolved from the photograph
+
+**"Magnesium bisglycinate 300 mg" does not state whether that is the compound or the elemental magnesium.**
+
+**It matters enormously.** Magnesium bisglycinate is roughly 10 to 14% elemental magnesium by weight. **If the 300 mg is compound weight, the actual dose is ~30 to 42 mg of elemental magnesium — around 10% of the RDA, essentially a token amount.** If it is elemental, it is a proper therapeutic dose.
+
+**Worth one look at the box or one question to the pharmacist.** If it is the compound figure, the directions already permit going to 2 capsules daily.
+
+### Vitamin B6 at 25 mg
+
+**A sensible pairing** — B6 assists magnesium uptake into cells and the combination is a standard formulation.
+
+**25 mg per day is above the RDA of 1.3 to 1.7 mg but well below the 100 mg upper limit.** No concern at this dose. **Worth knowing only because sustained high-dose B6, above roughly 50 to 100 mg daily for extended periods, is associated with peripheral neuropathy** — so if any other supplement he takes also contains B6, the total is worth adding up once.
+
+### Recommendation: keep the bisglycinate, and do not add citrate yet
+
+**Keep it.** Sleep is one of the two named drivers of the fatigue under investigation, and **bisglycinate is the form actually indicated for sleep quality.** The last three nights have run 6 h 31 m, 7 h 14 m and ~8 h 30 m — improving throughout, and this product may be contributing to that.
+
+**Do not add citrate this week.** The water test is running and it is the first properly controlled thing in this investigation. **Introducing an osmotic laxative now would confound it**, and the question of whether hydration alone fixes the volume would go unanswered.
+
+**Sequence:**
+
+1. **Run the water at ~2 L for two days.** Keep bisglycinate for sleep.
+2. **If volume improves, water was the answer** and no laxative is needed.
+3. **If volume does not improve on genuine 2 L days, add magnesium citrate 300 to 400 mg** as a separate item, and keep the bisglycinate at bedtime for sleep.
+
+**Also, per the label: take it with a full glass of water.** That is free, it is already written on the box, and it advances the hydration target at the same time.
+
 ### Do not push
 
 **The 31 July rule stands and is worth repeating because it was breached this morning: if nothing comes within about five minutes, get up and come back later.**
