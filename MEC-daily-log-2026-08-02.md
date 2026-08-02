@@ -291,7 +291,34 @@ Until then there is nothing to act on, and no change to the plan. **The diet bre
 
 ---
 
-## 6. Open Items This Morning
+## 6. Vitamin D dose 2 — TAKEN
+
+**Confirmed 2 August. Dose 2 of 8 in the loading phase.**
+
+| | |
+|---|---|
+| Protocol | 2 pills per week for one month |
+| Dose 1 | ~29 to 30 July |
+| **Dose 2** | **2 August — taken** |
+| Doses remaining | 6 |
+| Loading ends | ~26 to 29 August. Reminder scheduled for 26 August |
+| Then | 10,000 IU **weekly** maintenance |
+
+**It was due on 1 August and landed on the 2nd. That is immaterial.** 25-OH vitamin D has a circulating half-life of roughly two to three weeks, so a single day's shift on a weekly protocol changes nothing measurable.
+
+**This closes the item that has been the highest-value open action in the file since 29 July** — the only one of the three fatigue drivers that costs neither time nor willpower while the workload is at its peak.
+
+### Tidy the schedule while it is easy
+
+**The original rhythm was Wednesday and Saturday. Dose 2 landed on a Sunday.**
+
+**Rather than trying to recover the Saturday, make the new pair Wednesday and Sunday.** The doses stay evenly spaced at three and four days, the day he actually took it becomes the anchor, and there is no missed dose to remember.
+
+**Next dose: Wednesday 5 August.**
+
+---
+
+## 7. Open Items This Morning
 
 - [ ] **Water. Today is the day.** Rest day, no commute, no workload. A filled bottle, refilled when empty. **Both interventions already running depend on it**
 - [ ] **Weigh in and report it.** Log it, annotate it "post family dinner", do not interpret it
