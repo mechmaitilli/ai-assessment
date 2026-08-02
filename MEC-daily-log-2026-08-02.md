@@ -257,6 +257,49 @@
 
 **There is a second reason to prefer the vegetables**, and it is the point that has run through the whole GI section today: **salad vegetables carry their own water, dried figs pull water into the gut.** On a day where the working hypothesis is that fibre without water caused this morning's straining, **the high-water form of fibre is the one to load.**
 
+### SLEEP: 00:45 to 09:15 — ~8 h 30 m, the longest in the record
+
+| Night | Duration |
+|---|---|
+| 29 to 30 July | 6 h 31 m |
+| 31 July to 1 Aug | 7 h 14 m |
+| **1 to 2 August** | **~8 h 30 m in bed** |
+| 2026 average | ~6 h 27 m |
+
+**Three consecutive nights improving, and the last is roughly two hours above his two-year average.**
+
+**One measurement caveat: these are bed times, not device-measured sleep.** Previous figures in this log (6 h 31 m, 7 h 14 m) came from Apple Health and represent time actually asleep. **At normal efficiency, ~8 h 30 m in bed is ~8 h to 8 h 15 m asleep** — still comfortably the longest in the file either way.
+
+#### Roughly 2 h 45 m of sleep debt repaid across the weekend
+
+**Two weekend nights delivered ~15 h 45 m against the ~13 h his weekday average would have produced.**
+
+**Catch-up sleep does not fully reverse the effects of chronic restriction** — the evidence on that is mixed, and metabolic markers recover less completely than alertness does. **But for someone averaging 6 h 27 m, two long nights are unambiguously net positive**, and he enters Monday less depleted than any Monday in the record.
+
+#### This is a weekend result, and it does not transfer
+
+**The 06:35 wake anchor is a weekday constraint imposed by a 07:00 session before a 16-hour working day. It did not apply on either weekend morning.** Both long nights were produced by a free wake time, not by an earlier bedtime — **he went to sleep at 00:06 and 00:45, both later than his recent norm of ~23:27.**
+
+**On a weekday, a 00:45 bedtime against a 06:35 wake yields 5 h 50 m.** The pattern that produced this weekend's result is actively harmful from Monday.
+
+#### Tonight is the transition night, and it will be difficult
+
+**Waking at 09:15 means sleep pressure will not have built normally by 22:30.** This is the standard Sunday-night problem, and fighting for an early bedtime tonight will most likely produce an hour of lying awake rather than an hour of sleep.
+
+**Do not chase 22:30 tonight. Aim for ~23:00 to 23:30 and accept it.**
+
+**What matters far more is the wake time.** Getting up at 06:35 on Monday, even on a short night, is what re-anchors the week — a single compressed Monday night is a smaller cost than a whole week of drift. **Get bright light immediately on waking; it is the strongest available signal for resetting the clock.**
+
+#### The weekday plan is unchanged
+
+| Lever | Status |
+|---|---|
+| Extending night sleep on weekdays | **Not available.** The 18-hour arithmetic is unchanged |
+| **Nap, 20 to 30 minutes before 15:00** | **The primary weekday lever** |
+| Caffeine cutoff at 14:00 | Unchanged. Protects both nap ability and night onset |
+| **Wake anchor 06:35** | **Unchanged, and it is the piece that matters most from tomorrow** |
+| Weekend catch-up | **Now demonstrated to work.** Worth protecting deliberately rather than leaving to chance |
+
 ### Do not push
 
 **The 31 July rule stands and is worth repeating because it was breached this morning: if nothing comes within about five minutes, get up and come back later.**
