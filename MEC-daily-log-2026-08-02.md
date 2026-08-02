@@ -289,6 +289,46 @@ Until then there is nothing to act on, and no change to the plan. **The diet bre
 
 **Polyols: ~8 g from the bar.** Third consecutive morning bar.
 
+### Meal 2 — mid-morning
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Whey Protein Crisp Bar, 70 g | 20 | 22 | 4 | 1 g | 215 |
+| Decaf coffee capsules ×2 | 0 | 0 | 0 | 0 | ~4 |
+| **Total** | **20** | **22** | **4** | **1 g** | **~219** |
+
+**Running total: ~71 P / ~140 C / ~45 F / ~1267 kcal, ~11.5 g fibre.**
+
+**Decaf was the right call and was chosen unprompted.** Today's caffeine sits at roughly 80 mg — one coffee at breakfast plus ~6 mg from the two decaf capsules. **Against yesterday's ~170 mg and Friday's ~447 mg, this is the lowest caffeine day in the record.**
+
+#### The polyol figure is becoming informative rather than concerning
+
+**Two bars again puts today at ~16 g, the third consecutive day at that figure.**
+
+| Day | Polyols | Next morning's stool |
+|---|---|---|
+| 31 July | ~16 g | **Best in the record** |
+| 1 August | ~16 g | **Straining, small volume** |
+| 2 August | ~16 g | To be seen |
+
+**The same polyol load preceded the best morning in the file and the worst of the last three. It does not predict the outcome in either direction.**
+
+**This is a third piece of evidence pointing away from the food suspects** — after the 1 August improvement occurring with polyols and carbonation both present. **Water and stool hydration remain the live hypothesis; the elimination stays demoted.**
+
+### Where the day stands after two meals
+
+| | So far | Target | Still to find |
+|---|---|---|---|
+| Protein | **~71 g** | 190 to 215 | **119 to 144 g** |
+| Carbs | ~140 g | 250 cap | 110 g of room |
+| Fat | ~45 g | 85 to 95 | 40 to 50 g |
+| Calories | ~1267 | 2565 to 2735 | ~1298 to 1468 |
+| Fibre | ~11.5 g | 25 to 30 | 13.5 to 18.5 g |
+
+**Protein is the binding constraint: ~130 g across two meals, so roughly 65 g each.**
+
+**The template already worked this morning.** Repeat the shape rather than inventing something: **a protein anchor plus vegetables plus olive oil.** 250 g of grilled chicken is ~78 g of protein; tannour, salad and olive oil carry the fat and the fibre alongside it. **That one meal would put protein, fat and fibre all within reach in a single sitting.**
+
 ---
 
 ## 6. Vitamin D dose 2 — TAKEN
