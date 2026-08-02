@@ -161,6 +161,62 @@
 
 **Expect a partial answer: some improvement in volume, not a resolution.** If tomorrow's stool volume is unchanged, that will not disprove the water hypothesis — **it will mean the dose was too small to test it.** The clean test needs ~2 litres held for two consecutive days.
 
+### Water update and meal 4 — afternoon
+
+**Another 2 cups of water: ~480 ml. Running water total ~1.48 litres.**
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Fig, 1 | ~0.4 | ~8 | 0 | ~1.3 g | ~35 |
+| Whey Protein Crisp Bar, **half** | 10 | 11 | 2 | 0.5 g | ~108 |
+| **Total** | **~10.4** | **~19** | **~2** | **~1.8 g** | **~143** |
+
+**Running total: ~152 P / ~196 C / ~74.5 F / ~2088 kcal, ~16 g fibre, ~1.48 L water.**
+
+**Fig assumed at ~10 g dried.** If it was a fresh fig — plausible, since they are in season — it is ~37 kcal rather than ~25. Immaterial either way.
+
+#### Water is now close to a testable dose
+
+**~1.48 litres of plain water, plus ~730 ml of other drinks, gives ~2.2 litres of fluid before food water.** Against the ~2 to 2.5 litre drinking target established earlier, **that is inside range.**
+
+**Another 400 to 500 ml before ~20:00 would put tomorrow into proper-test territory** rather than the partial test flagged this afternoon. **After that, stop** — nocturia costs sleep, and sleep is one of the two fatigue drivers.
+
+#### Polyols reach ~20 g today, the highest since 30 July
+
+| Source | Polyols |
+|---|---|
+| Morning bar | ~8 g |
+| Mid-morning bar | ~8 g |
+| **Half bar, afternoon** | **~4 g** |
+| **Day total** | **~20 g** |
+
+**20 g is the figure commonly associated with the onset of osmotic symptoms in unselected adults.** The last two days both ran at 16 g.
+
+**This is not a warning — the evidence to date says polyols are not driving this**, since 16 g preceded both the best and the worst mornings of the last three. **It is recorded because tomorrow is a water test, and a third bar adds a second moving variable to a day designed to isolate one.**
+
+### Revised dinner — smaller than planned this morning
+
+**The afternoon items closed part of the gap, so the dinner set out earlier is now oversized.**
+
+| | Still to find |
+|---|---|
+| Protein | 38 to 63 g |
+| Fat | 10.5 to 20.5 g |
+| Calories | 477 to 647 |
+| Fibre | 9 to 14 g |
+| Carbs | 54 g of room — **the tightest number tonight** |
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Grilled chicken, 150 g | 46.5 | 0 | 6 | 0 | ~250 |
+| Large salad + 1 tbsp olive oil | ~3 | ~15 | ~14 | ~4 g | ~200 |
+| Dried figs, 40 g | ~1.3 | ~24 | 0 | ~4 g | ~99 |
+| **Total** | **~51** | **~39** | **~20** | **~8 g** | **~549** |
+
+**Projected close: ~203 P / ~235 C / ~94.5 F / ~2637 kcal, fibre ~24 g.**
+
+**All four macro targets land and fibre reaches ~24 g — the highest in the file.** Carbs finish ~15 g inside the cap, which is the only figure without comfortable margin, so **no bread at dinner tonight.**
+
 ### Do not push
 
 **The 31 July rule stands and is worth repeating because it was breached this morning: if nothing comes within about five minutes, get up and come back later.**
