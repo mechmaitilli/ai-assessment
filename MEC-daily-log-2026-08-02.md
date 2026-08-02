@@ -308,13 +308,22 @@ Until then there is nothing to act on, and no change to the plan. **The diet bre
 
 **This closes the item that has been the highest-value open action in the file since 29 July** — the only one of the three fatigue drivers that costs neither time nor willpower while the workload is at its peak.
 
-### Tidy the schedule while it is easy
+### Schedule: Wednesday and Saturday, by the athlete's decision
 
-**The original rhythm was Wednesday and Saturday. Dose 2 landed on a Sunday.**
+**Dose 2 landed on a Sunday. A move to a Wednesday and Sunday pair was proposed and declined — MEC keeps Wednesday and Saturday.**
 
-**Rather than trying to recover the Saturday, make the new pair Wednesday and Sunday.** The doses stay evenly spaced at three and four days, the day he actually took it becomes the anchor, and there is no missed dose to remember.
+**No objection: the spacing works either way.** Sunday to Wednesday is three days, Wednesday to Saturday is three, Saturday to Wednesday is four — the same three-and-four alternation the original schedule had.
 
-**Next dose: Wednesday 5 August.**
+| Dose | Date |
+|---|---|
+| 3 | **Wednesday 5 August** |
+| 4 | Saturday 8 August |
+| 5 | Wednesday 12 August |
+| 6 | Saturday 15 August |
+| 7 | Wednesday 19 August |
+| 8 | Saturday 22 August |
+
+**Loading completes on or around 22 to 29 August**, depending on whether the count runs to eight doses or a full calendar month from 29 July. **The reminder is set for 26 August**, which sits inside that window.
 
 ---
 
