@@ -329,6 +329,46 @@ Until then there is nothing to act on, and no change to the plan. **The diet bre
 
 **The template already worked this morning.** Repeat the shape rather than inventing something: **a protein anchor plus vegetables plus olive oil.** 250 g of grilled chicken is ~78 g of protein; tannour, salad and olive oil carry the fat and the fibre alongside it. **That one meal would put protein, fat and fibre all within reach in a single sitting.**
 
+### Meal 3 — lunch
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Chicken sandwich (assumed the 175 g Protein Sandwich) | 67.7 | 21 | 22.8 | ~1 g | 560 |
+| ¼ tannour with za'atar and olive oil, left from breakfast | ~3.2 | ~16 | ~4.7 | ~1.5 g | ~118 |
+| Pepsi Zero, 1 | 0 | 0 | 0 | 0 | ~0 |
+| **Total** | **~71** | **~37** | **~27.5** | **~2.5 g** | **~678** |
+
+**Running total: ~142 P / ~177 C / ~72.5 F / ~1945 kcal, ~14 g fibre.**
+
+**Sandwich identification assumed.** The figures used are the verified 175 g Protein Sandwich from the database. If it was a different item — the California wrap is 36 P and 355 kcal, roughly half — the protein position changes materially and dinner has to absorb it.
+
+**Caffeine to this point: ~147 mg**, still the second-lowest day in the record.
+
+### Where the day stands, and dinner is now straightforward
+
+| | So far | Target | Still to find |
+|---|---|---|---|
+| Protein | ~142 g | 190 to 215 | **48 to 73 g** |
+| Carbs | ~177 g | 250 cap | 73 g of room |
+| Fat | ~72.5 g | 85 to 95 | **12.5 to 22.5 g** |
+| Calories | ~1945 | 2565 to 2735 | **620 to 790** |
+| Fibre | ~14 g | 25 to 30 | **11 to 16 g** |
+
+**One meal covers all of it, and it is the same shape as breakfast:**
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Grilled chicken, 200 g | 62 | 0 | 8 | 0 | ~330 |
+| Large salad, 1 tbsp olive oil | ~3 | ~15 | ~14 | ~4 g | ~200 |
+| Dried figs, 60 g | 2 | 36 | 0 | 5.9 g | 149 |
+| **Total** | **~67** | **~51** | **~22** | **~10 g** | **~679** |
+
+**Projected close: ~209 P / ~228 C / ~94.5 F / ~2624 kcal, fibre ~24 g.**
+
+**All four macro targets land, and fibre reaches ~24 g — within a gram of target and the highest in the file.** Today would be the third complete day in four.
+
+**The fibre is the notable part.** Yesterday's 21 g came from a fattoush and figs that happened to be there. **Today's would come from a deliberately composed breakfast and dinner** — which is the difference between a good day and a repeatable one.
+
 ---
 
 ## 6. Vitamin D dose 2 — TAKEN
