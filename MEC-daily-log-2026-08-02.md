@@ -152,7 +152,82 @@ Until then there is nothing to act on, and no change to the plan. **The diet bre
 
 ---
 
-## 4. Open Items This Morning
+## 4. Athlete report: "getting bulkier, but stronger. Waist unchanged. Gut full always."
+
+**Reported 2 August: he feels he is getting bulkier, identifies as an endomorph who gains fat weight quickly, but also feels stronger. Waist line appears unchanged. The gut feels full all the time.**
+
+**This is the most useful subjective report in the file, because two of the four observations settle the question the scale could not.**
+
+### The unchanged waist is the finding, and it should be believed
+
+**3.4 kg of fat has to go somewhere, and in a 49-year-old male it goes to the abdomen first.** It is not distributable in a way that leaves the waist unchanged.
+
+**An unchanged waist alongside a 3.4 kg rise in bodyweight is independent physical confirmation of the energy arithmetic.** The two lines of evidence were derived completely separately — one from eight days of logged intake, one from a tape line — and they agree.
+
+**Three independent signals now say the same thing:**
+
+| Signal | Says |
+|---|---|
+| Eight-day intake, cumulative −1652 kcal | Cannot be fat |
+| **Waist unchanged** | **Cannot be fat** |
+| Both presses +4 kg in a week | Cannot be muscle loss |
+
+### What he is feeling is distension, and distension feels exactly like fat gain
+
+**"Gut is full always" is the bloating. It is Open Health Issue B, it is the thing under active treatment, and it is the direct cause of the sensation of getting bulkier.**
+
+**Abdominal distension from retained stool and gas produces the same physical experience as adiposity** — waistband tighter at the end of the day, midsection feeling thicker, clothes fitting differently. **The difference is that distension fluctuates within a day and fat does not.**
+
+**This matters for the plan**: the sensation he is reporting is not evidence that the nutrition is wrong. **It is a symptom of the GI issue, and it resolves when that resolves.** Every intervention already in place is aimed at it.
+
+### On endomorph, honestly
+
+**Somatotypes — ectomorph, mesomorph, endomorph — come from a 1940s framework that has not held up as a set of fixed biological categories.** People are not sorted into three types.
+
+**But the underlying observation is real and should not be dismissed.** Individual variation in how readily fat is gained is genuine, driven by insulin sensitivity, appetite regulation, and non-exercise activity. **If his history is that weight comes on quickly, that history is data and it is worth respecting.**
+
+**What it does not do is create an exemption from energy balance.** No metabolic profile permits 3.4 kg of fat gain across eight days spent in a cumulative deficit. **The propensity may be real. This particular 3.4 kg is not an instance of it.**
+
+### The scale is the wrong instrument for the question he is actually asking
+
+**His concern is about body composition. The scale measures total mass, which right now is dominated by water and gut content.** It will keep giving misleading answers until the GI issue clears.
+
+**Recommended: a weekly waist measurement, which he has already started doing informally.**
+
+| | Method |
+|---|---|
+| Where | At the navel, same spot each time |
+| When | On waking, after the bathroom, before food |
+| How | Relaxed. **Do not draw the stomach in** |
+| How often | **Weekly, not daily** — distension makes daily readings as noisy as the scale |
+
+**Waist tracks abdominal fat far more directly than bodyweight does, and it is the number that answers his actual question.** Photographs under consistent lighting, weekly, serve the same purpose.
+
+### The legitimate tension, named
+
+**He is at maintenance by design, which means he is not losing fat right now, and the recommendation is to extend that for another ten to twelve days.** Feeling bulky while deliberately not dieting is uncomfortable, and the discomfort is reasonable.
+
+**The case for holding the line:**
+
+- **Fatigue is the presenting complaint** and the break exists to lift it
+- **Vitamin D correction started three days ago** and has not had time to work
+- **Sleep is averaging ~6.5 hours** on an 18-hour weekday
+- **The workload eases ~10 August**, which is the point at which a deficit becomes survivable
+
+**But it should not feel open-ended, so the endpoint is specified:**
+
+| | |
+|---|---|
+| Diet break ends | **~12 to 14 August** |
+| Cut resumes at | **~2200 kcal**, protein held at 190 to 215 g |
+| Expected rate | ~0.5 kg per week of actual fat |
+| First honest weigh-in | Once stools are normal for three consecutive days |
+
+**Twelve more days at maintenance costs roughly 0.8 kg of fat that would otherwise have been lost. Starting a cut into six-hour sleep and peak stress costs adherence, muscle, and the fatigue investigation.** The trade is not close.
+
+---
+
+## 5. Open Items This Morning
 
 - [ ] **Water. Today is the day.** Rest day, no commute, no workload. A filled bottle, refilled when empty. **Both interventions already running depend on it**
 - [ ] **Weigh in and report it.** Log it, annotate it "post family dinner", do not interpret it
