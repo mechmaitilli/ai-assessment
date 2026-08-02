@@ -217,6 +217,46 @@
 
 **All four macro targets land and fibre reaches ~24 g — the highest in the file.** Carbs finish ~15 g inside the cap, which is the only figure without comfortable margin, so **no bread at dinner tonight.**
 
+### Meal 5, dinner — protein component eaten
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Grilled chicken breast, 120 g | ~37.2 | 0 | ~4.3 | 0 | ~198 |
+
+**Running total: ~189 P / ~196 C / ~79 F / ~2286 kcal, ~16 g fibre.**
+
+**Protein is effectively finished at ~189 g against a 190 g floor.** The 120 g portion came in under the 150 g planned, and it did not matter — the day was already carrying protein well forward.
+
+### What completes the day
+
+| | Still to find |
+|---|---|
+| Protein | **Done** |
+| Fat | 6 to 16 g |
+| Calories | 279 to 449 |
+| Fibre | **9 to 14 g** |
+| Carbs | 54 g of room — **still the binding constraint** |
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Large salad, 1 tbsp olive oil | ~3 | ~15 | ~14 | ~4 g | ~200 |
+| Dried figs, 40 g | ~1.3 | ~24 | 0 | ~4 g | ~99 |
+| **Total** | **~4.3** | **~39** | **~14** | **~8 g** | **~299** |
+
+**Projected close: ~193.5 P / ~235 C / ~92.8 F / ~2585 kcal, fibre ~24 g. All four macro targets land.**
+
+#### Take the last of the fibre from vegetables, not from more figs
+
+**The obvious move to reach 25 to 30 g of fibre would be more figs. It is the wrong one tonight.**
+
+**60 g of figs instead of 40 g would take fibre to ~26 g but carbs to ~247 g against a 250 g cap — a 3 g margin, which is inside the error bars of every estimate in this log.**
+
+**Extra salad vegetables add fibre at roughly a third of the carbohydrate cost and no fat.** Doubling the vegetable volume adds ~3 g of fibre for ~8 g of carbs.
+
+**So: pile the salad, keep figs at 40 g.** That reaches ~26 to 27 g of fibre while leaving genuine room under the cap.
+
+**There is a second reason to prefer the vegetables**, and it is the point that has run through the whole GI section today: **salad vegetables carry their own water, dried figs pull water into the gut.** On a day where the working hypothesis is that fibre without water caused this morning's straining, **the high-water form of fibre is the one to load.**
+
 ### Do not push
 
 **The 31 July rule stands and is worth repeating because it was breached this morning: if nothing comes within about five minutes, get up and come back later.**
