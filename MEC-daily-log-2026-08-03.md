@@ -122,6 +122,42 @@
 | Water | **Do not reduce** |
 | Magnesium bisglycinate | Leave alone |
 
+#### Added symptom: the movements smell bad — and it fits the same mechanism
+
+**Reported after the fact: a bad smell with today's bowel movements.**
+
+**This is not a new problem. It is the same fermentation picture as the softness, seen from a different angle.**
+
+**Foul stool odour comes overwhelmingly from bacterial fermentation in the colon** — undigested substrate reaching the large bowel, where bacteria produce hydrogen sulfide, methanethiol and related sulfur gases. **Soft stool, increased gas and foul odour arriving together is one phenomenon, not three.**
+
+##### Three contributors, and all three are currently at their maximum in his diet
+
+| Contributor | Why now |
+|---|---|
+| **Polyols, ~16 to 20 g daily for four days** | **Poorly absorbed by definition and fermented in the colon.** This is precisely the mechanism |
+| **The fibre ramp** | Roughly tripled in 72 hours. A substrate surge hitting bacteria that have not adapted |
+| **High protein, especially whey** | 190 to 240 g daily, much of it whey. **Whey is unusually rich in cysteine**, a sulfur amino acid, and sulfur is what the smell is |
+
+**All three are dietary, all three are recent, and all three are self-limiting.**
+
+##### Smell is among the least specific GI symptoms there is
+
+**It correlates strongly with diet and poorly with pathology.** It worries people more than it warrants, and in this case it is fully explained by three known dietary changes made in the last four days.
+
+##### It does shift one thing: the case for pausing bars gets stronger
+
+**Of the three contributors, two are wanted. Fibre is therapeutic and is what fixed the volume. Protein is required and non-negotiable. Polyols are the only one that serves no purpose.**
+
+**Suggested, and it is not a reversal of the bars decision: no further bars today.** He has already had two. **This is not "stop eating bars" — it is "do not add a third while the gut is visibly reacting."** It costs nothing and it reduces tomorrow's load.
+
+**The formal threshold is unchanged: two consecutive days of loose stools triggers the reduction. Today is day one.**
+
+##### What would make the smell concerning, and none of it is present
+
+- **Greasy, pale, or floating stool** — that is fat malabsorption and would need a doctor. **Lipase was 55 and normal on 28 July, and fat intake today is only ~10 g**, so this is very unlikely
+- **Fever, blood, urgency or cramping** — infection. All absent
+- **Persisting more than a week after polyols and fibre have stabilised**
+
 #### What would be concerning, and none of it is present
 
 **Urgency, cramping or pain, blood, movements that wake him at night, fever, or watery stool with no form at all.** **None reported.** Two full soft movements without straining, after nine days of hard small ones, is overcorrection — not diarrhoea.
