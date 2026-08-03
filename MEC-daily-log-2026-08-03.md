@@ -333,6 +333,60 @@
 
 **No further bars today.** That instruction was issued before this meal and matters considerably more now.
 
+### Meal 4, ~19:20 — first evening sitting
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| **Healthy Tawouk with Rice, 220 g** | **60.5** | 48.3 | **2.3** | ~1 g | 480 |
+| Figs, 2 | ~0.7 | ~12 | 0 | ~2 g | ~50 |
+| Walnuts, 25 g | ~3.8 | ~5 | ~16.7 | ~1.7 g | ~163 |
+| **Total** | **~65** | **~65** | **~19** | **~4.7 g** | **~693** |
+
+**Running total: ~190 P / ~176 C / ~50 F / ~1942 kcal, ~14 g fibre.**
+
+#### Protein is finished, exactly on the floor
+
+**~190 g against a 190 to 215 g band.** No further protein is required tonight.
+
+#### The tawouk is the best item to enter the database in a week
+
+| | Tawouk with rice | Protein Sandwich |
+|---|---|---|
+| Protein | **60.5 g** | 67.7 g |
+| Calories | **480** | 560 |
+| **Fat** | **2.3 g** | 22.8 g |
+| Composition | **Chicken and steamed rice — whole food** | Chicken in a wrap |
+| Price | $14.25 | $9.50 |
+
+**60.5 g of protein for 480 kcal at 2.3 g of fat is exceptional density.** It is grilled chicken and steamed rice with no added oil, which is exactly why the fat is so low.
+
+**It also carries no polyols and no lactose** — the right choice on a night the gut is already reacting, and a marked improvement on the 12:30 order.
+
+#### Which makes the second sitting a fat-and-fibre job, not a protein one
+
+| | Still to find |
+|---|---|
+| Protein | **Done** |
+| **Fat** | **35 to 45 g** |
+| **Calories** | **623 to 793** |
+| **Fibre** | **11 to 16 g** |
+| Carbs | 74 g of room — **the tight number** |
+
+**Suggested ~21:00 sitting:**
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Tannour, ¾, with ~1.5 tbsp olive oil and za'atar | ~10.3 | ~50 | ~23.5 | ~5 g | ~450 |
+| Tomato, cucumber | ~2 | ~9 | ~0.3 | ~2 g | ~45 |
+| Chalal cheese, 60 g | ~13.2 | ~3 | ~13.2 | 0 | ~184 |
+| **Total** | **~25.5** | **~62** | **~37** | **~7 g** | **~679** |
+
+**Projected close: ~215.5 P / ~238 C / ~87 F / ~2621 kcal, fibre ~21 g. All four land.**
+
+**Three-quarters of a tannour rather than a whole one** — carbs finish ~12 g inside the cap either way, but the margin is thin enough that the estimation error on the olive oil matters.
+
+**The olive oil is doing the real work here.** ~23.5 g of the sitting's 37 g of fat, and it is the source the lipid panel called for.
+
 ---
 
 ## 4. Athlete report: facial fullness, and "bloated without looking bloated"
