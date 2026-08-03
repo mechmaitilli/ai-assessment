@@ -259,7 +259,8 @@
 | Single-arm DB row | 3 | 38 kg | **7 left / 8 right** | 2 |
 | Neutral-grip pulldown | 1 | **80 kg** | 12 | 2 |
 | Neutral-grip pulldown | 2 | 80 kg | 11 | 2 |
-| Face pulls | — | 15 kg | 15 | 2++ |
+| Face pulls | Early sets | 15 kg | 15 | 2++ |
+| Face pulls | **Last set** | 15 kg | **20** | **1** |
 
 **Water at the gym: 1+ litre**, consistent with the habitual intake reported this morning.
 
@@ -327,6 +328,18 @@
 **Three separate provocations, three different movement patterns, one anatomical region.**
 
 **This is more specific than "rotator cuff", and it is worth putting to the physio in those terms: the picture may be biceps-dominant, or a combined cuff-and-biceps problem, rather than a cuff problem alone.**
+
+### A fourth possible contributor, reported after the fact: the last face pull set went to 1 RIR
+
+**Face pulls were logged as 15 kg × 15 at 2++ RIR. The final set was actually 15 kg × 20 at 1 RIR.**
+
+**Face pulls exist in this programme as rotator cuff maintenance, not as a training lift.** The standing instruction is explicitly not to progress them.
+
+**Taking them to 1 RIR inverts their purpose.** The exercise is there to keep the posterior cuff and scapular stabilisers strong and healthy; **fatiguing those same stabilisers to near failure is the opposite of maintaining them** — and it happened at the end of the heaviest back session in the file, on the shoulder that then reported the sensation.
+
+**The magnitude is small.** 15 kg is a light load and 20 reps of it is not a serious stressor in isolation. **But it is a plausible fourth contributor to today's anterior shoulder finding, and it arrived at the worst possible point in the session** — after 100 kg pulldowns and 38 kg rows had already loaded the region.
+
+**Prescription going forward: 15 kg × 15, stopping at 2 to 3 RIR.** If that feels trivially easy, **the correction is a slower tempo and a one-second hold at full contraction, not more reps and not more load.** Control is the training effect on cuff work; intensity is not.
 
 ### Assessment: not alarming, and no action today
 
