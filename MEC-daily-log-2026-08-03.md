@@ -64,6 +64,68 @@
 
 **No action.** One loose passage after a week of constipation is the system finding equilibrium, and Type 6 is on the correct side of the problem being treated.
 
+### Second movement, 3 August — full volume, no straining, still soft
+
+**Reported: a full bowel movement, no hard pushing required, but the same soft "swooshy" consistency as this morning.**
+
+#### All four criteria have now moved, and three are resolved
+
+| Criterion | 31 July | **3 August** |
+|---|---|---|
+| Frequency | Never a problem | Fine |
+| **Hard or lumpy stool** | Present, worst of the week | **Resolved — overshot to soft** |
+| **Straining** | Present, required | **RESOLVED. No pushing needed** |
+| **Incomplete evacuation** | Present all week, every passage small | **RESOLVED. Two full-volume movements today** |
+
+**Straining is the one that mattered most clinically** — it is a formal diagnostic criterion and it is the mechanism behind haemorrhoids and fissures. **It is gone today.**
+
+**After nine days, this is the GI issue turning around.** One day does not close it; two to three more like this does.
+
+#### The likely cause of the softness is one I have not yet named: the fibre ramp was fast
+
+| Date | Fibre |
+|---|---|
+| 27 to 30 July | ~6 to 14 g |
+| 31 July | ~17 g |
+| 1 August | ~21 g |
+| 2 August | **~24 to 27 g** |
+
+**That is roughly a tripling inside 72 hours.**
+
+**Standard practice is to increase fibre by about 5 g per week, specifically because rapid increases cause gas, bloating and loose stools until the colonic bacteria adapt.** The adaptation takes one to two weeks.
+
+**This is self-limiting and requires no intervention.** It also explains the softness better than the alternatives, and it predicts resolution on its own.
+
+**Contributors, ranked for today:**
+
+1. **The fibre ramp** — nearly tripled in three days, well beyond the usual rate
+2. **Nine days of backlog still clearing** — two full movements in one day is consistent with continued release
+3. **~16 g of polyols** from two bars, sustained across four days
+4. Magnesium bisglycinate — weak osmotic action, minor
+
+#### Action: none today. Hold fibre steady rather than pushing it higher
+
+**Do not increase fibre further. Hold at ~25 g** and let the gut adapt. **The instinct to push toward 30 g should be resisted this week.**
+
+**Water, magnesium and bars all unchanged for now.**
+
+#### Threshold, restated precisely
+
+**Two consecutive DAYS at this consistency triggers the reduction, not two movements in one day.** Today is day one.
+
+**If tomorrow is also loose:**
+
+| Lever | Action |
+|---|---|
+| **Bars** | **Cut first.** ~16 g of polyols daily is the only non-nutritive contributor |
+| Fibre | Hold at ~25 g. **Do not cut it** — it fixed the volume |
+| Water | **Do not reduce** |
+| Magnesium bisglycinate | Leave alone |
+
+#### What would be concerning, and none of it is present
+
+**Urgency, cramping or pain, blood, movements that wake him at night, fever, or watery stool with no form at all.** **None reported.** Two full soft movements without straining, after nine days of hard small ones, is overcorrection — not diarrhoea.
+
 ### What would change that
 
 **If stools stay at Type 6 or looser for two or more consecutive days, the plan reverses:**
