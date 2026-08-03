@@ -405,7 +405,25 @@
 
 **Cultured and strained dairy carries considerably less lactose than milk.** Fermentation consumes part of it and straining removes more with the whey. **On a day the gut is already fermenting, this is among the safer dairy choices available** — materially different from the karisheh problem.
 
-**One thing worth confirming rather than assuming: if this product is labneh-based, it sits on the standing exclusion list.** A protein yogurt cup does not. **His call, and he would know which it is.**
+**Confirmed by the athlete: Greek yogurt based, not labneh. No exclusion breach.**
+
+#### But it raises a question the exclusion list has never been asked
+
+**Labneh and Greek yogurt are close relatives. Both are strained, cultured dairy** — labneh is simply strained further, which concentrates it and raises the fat. Nutritionally they sit beside each other, not in different categories.
+
+**So if Greek yogurt is acceptable, the reason labneh is excluded matters.** The exclusion has stood since 25 July with no reason recorded. If it was excluded for lactose or dairy generally, **this cup is inconsistent with it.** If it was excluded for taste, fat content or a specific bad experience, **Greek yogurt is entirely fine and there is nothing to resolve.**
+
+**This is worth one answer, and it is not academic.**
+
+#### Because karisheh's removal left a calcium gap that strained dairy would fill
+
+**Karisheh was eliminated on 29 July and was his main dietary calcium source.** The 30 July log flagged the consequence explicitly: **a high-dose vitamin D protocol was imminent, serum calcium had never been measured, and the principal calcium food had just been removed.**
+
+**Strained cultured dairy — labneh or Greek yogurt — is the natural replacement.** It carries calcium and protein, it is low in lactose relative to milk, and it requires no preparation.
+
+**If labneh turns out to be excluded for a reason that no longer applies, reinstating it solves a real gap.** If not, Greek yogurt cups do the same job. **Either way the answer is useful.**
+
+**The item itself is good: 25 g of protein for ~240 kcal, no preparation, and mild on the gut.**
 
 #### The final sitting changes: drop the cheese
 
