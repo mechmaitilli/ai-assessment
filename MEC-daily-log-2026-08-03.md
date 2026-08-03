@@ -170,9 +170,81 @@
 
 ---
 
-## 5. Open Items This Morning
+## 5. CORRECTION: water was never low. It was never *recorded*, and I reasoned as though that meant absent
 
-- [ ] **Hold water at ~2 L, most of it before 18:00.** This is day two of the test and the only reason today's result will mean anything
+**Reported 3 August: "I drink daily more than 2 litres for sure."**
+
+**This retracts a conclusion that has run through the last four days of this log.**
+
+### The error
+
+**Water was genuinely never entered as a number. That is all the record supported.** From there this log repeatedly inferred that intake was low — and then built on the inference:
+
+| Written | Status |
+|---|---|
+| "Water is now unambiguously the binding constraint" (2 Aug) | **Retracted** |
+| "The only untried input left" (2 Aug) | **Retracted** |
+| "Magnesium pulls water into the stool. If the water is not there to pull, it has less to work with" (1 Aug) | **Retracted.** The water was there |
+| "~1.48 L — the first water figure ever recorded" (2 Aug) | Accurate as written, **but framed as a first intake rather than a first measurement** |
+
+**Not tracked and not consumed are different things, and this log treated them as the same.**
+
+### It also inverts yesterday's evidence
+
+**If habitual intake is above 2 L, then yesterday's ~1.48 L was *below* his normal, not above it.**
+
+**Water went down on 2 August, and stool volume improved on 3 August.** That is the opposite of what the water hypothesis predicts. **The 2 August prediction is void — not failed, but untestable, because the variable it named was never varying in the direction assumed.**
+
+### The dehydration evidence was thinner than it was presented as
+
+**Three observations were stacked into a confident conclusion. Reviewed honestly:**
+
+| Observation | What it actually supports |
+|---|---|
+| **Urine density 1030, 28 July** | A **fasted first-morning sample**, which is concentrated in well-hydrated people as a matter of course. Noted at the time and then over-weighted |
+| Yellow bowl water, 30 and 31 July | Informal, unquantified, and plausibly just a first void of the day |
+
+**None of that was strong enough to carry the weight it was given.**
+
+### What this promotes instead: fibre
+
+**Fibre is the input that genuinely changed, and it changed steadily:**
+
+| Date | Fibre |
+|---|---|
+| 27 to 30 July | ~6 to 14 g |
+| 31 July | ~17 g |
+| 1 August | ~21 g |
+| 2 August | **~24 to 27 g** |
+| Target | 25 to 30 g |
+
+**Volume broke on the morning of 3 August — 24 to 48 hours after fibre first reached target, which is exactly the transit lag for fibre to translate into stool bulk.**
+
+**Revised reading: this was a fibre correction in a man who was already adequately hydrated, plus nine days of backlog releasing once there was enough bulk to move it.** Magnesium bisglycinate contributed little; water contributed nothing, because it was never the missing piece.
+
+### What changes in practice
+
+**Very little, which is worth saying plainly.**
+
+| | |
+|---|---|
+| **Fibre** | **Now the primary lever. Hold 25 to 30 g daily** — the composed-meal pattern of 2 August is how it happens without effort |
+| **Water** | **No action. Keep doing what he has been doing.** It is no longer an open item and does not need tracking |
+| Magnesium bisglycinate | Continue, for sleep. Not doing bowel work |
+| Bars and polyols | Unchanged for now; first to cut if stools stay loose |
+
+### And it revises this morning's facial-fluid answer
+
+**Point 3 of that assessment — "seven days at zero recorded water" causing fluid conservation — is withdrawn.** It does not apply to someone drinking over 2 L.
+
+**The remaining explanations stand and are sufficient**: ~8 h 30 m lying flat immediately before the observation, Saturday's sodium load, glycogen and its bound water from the diet break, and cortisol from 18-hour days. **The conclusion is unchanged — this is fluid, not fat** — and the thyroid and renal exclusions of 28 July are unaffected.
+
+---
+
+## 6. Open Items This Morning
+
+- [x] ~~**Water, 3 litres, tracked as a number**~~ **CLOSED 3 August. Habitual intake is above 2 L and always was. The item was built on a record gap, not a deficit**
+- [ ] **Hold fibre at 25 to 30 g** — now the primary GI lever. **The 2 August composed-meal pattern is how it happens without planning**: vegetables and bread at breakfast, salad at dinner
 - [ ] **Report tomorrow's stool.** Type 4 formed is the target; two consecutive days at Type 6 or looser triggers the bar reduction
 - [ ] **Report last night's sleep.** The Sunday-to-Monday transition was expected to be short
 - [ ] **Report the session.** Back is next in rotation
