@@ -277,6 +277,62 @@
 
 **Water, and nothing else needed.** Four hours on his feet is not a fasting risk after a 425 kcal lunch, and eating during delivery is not practical.
 
+### Meal 3, 12:30 — as eaten
+
+**The Protein Sandwich was recommended. He ordered the California Chicken Wrap and the Protein Ice Cream Sandwich instead — the same two items rejected from the cart on 31 July.**
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| California Chicken Wrap, almond cheese removed | 36 | 30 | 10 | ~3 g | 355 |
+| Protein Ice Cream Sandwich | 18 | 7 | 11 | ~1 g | 200 |
+| **Total** | **54** | **37** | **21** | **~4 g** | **~555** |
+
+**Running total: ~125 P / ~111 C / ~31 F / ~1249 kcal, ~9 g fibre.**
+
+#### Today's polyol load is now above threshold, on the day the gut reacted
+
+| Source | Polyols |
+|---|---|
+| Morning crisp bar | ~8 g |
+| Post-workout crisp bar | ~8 g |
+| **Protein Ice Cream Sandwich** | **~10 to 20 g, hidden** |
+| **Day total** | **~26 to 36 g** |
+
+**The keto label means the printed 7 g of carbohydrate is almost certainly net carbs, with sugar alcohols subtracted out. The polyols are not in that figure.** This was set out in the 31 July log when the same item was first considered.
+
+**~20 g is the threshold at which osmotic symptoms typically appear. Today is at 26 to 36 g** — the highest polyol day recorded — **on the day loose stools and foul odour were both reported.**
+
+**The timing means it lands tomorrow, not today.** Both of today's movements preceded this meal.
+
+#### The consequence that matters: tomorrow's test is now confounded
+
+**The threshold set this morning was two consecutive days of loose stools before reducing bars. Tomorrow was to be the read.**
+
+**Tomorrow now carries the highest polyol load in the file behind it.** If tomorrow is loose, **it will not be possible to separate the fibre ramp from the polyols** — which was the entire point of holding everything else steady.
+
+**Stated plainly and once: this is not a rule broken.** The bars-and-convenience decision of 31 July stands, and this falls under it. **What it costs is information, not health.** The GI question stays open a few days longer than it needed to.
+
+**It also carries lactose** — whey protein ice cream, the third whey item today.
+
+#### Revised evening, and the numbers still work
+
+| | Still to find |
+|---|---|
+| Protein | 65 to 90 g |
+| **Fat** | **54 to 64 g** |
+| Calories | 1316 to 1486 |
+| Fibre | 16 to 21 g |
+| Carbs | 139 g of room |
+
+| Sitting | Items | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|---|
+| **~18:30** | 200 g grilled chicken; large salad with 1 tbsp olive oil | ~65 | ~15 | ~22 | ~4 g | ~530 |
+| **~21:00** | Tannour; 60 g chalal cheese; tomato, cucumber; 30 g walnuts; 40 g figs | ~32 | ~102 | ~33.5 | ~12 g | ~804 |
+
+**Projected close: ~222 P / ~228 C / ~86.5 F / ~2583 kcal, fibre ~21 g. All four land.**
+
+**No further bars today.** That instruction was issued before this meal and matters considerably more now.
+
 ---
 
 ## 4. Athlete report: facial fullness, and "bloated without looking bloated"
