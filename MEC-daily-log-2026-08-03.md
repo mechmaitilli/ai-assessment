@@ -95,6 +95,50 @@
 
 **Note against yesterday:** meal 1 on 2 August was ~1048 kcal and carried ~10.5 g of fibre. **Today opens at ~219 kcal and 1 g.** That is the light-start pattern every failed day in this file shared, and it is worth correcting at the next sitting rather than at the end of the day.
 
+### Meal 2, post-workout
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Whey protein + banana shake | ~31 | ~30 | ~2 | ~3 g | ~255 |
+| Whey Protein Crisp Bar, 70 g | 20 | 22 | 4 | 1 g | 215 |
+| **Starbucks Pike Place, small** | 0 | 0 | 0 | 0 | ~5 |
+| **Total** | **~51** | **~52** | **~6** | **~4 g** | **~475** |
+
+**Running total: ~71 P / ~74 C / ~10 F / ~694 kcal, ~5 g fibre.**
+
+#### He downgraded the coffee, and that was a specific recommendation acted on
+
+**A small Pike Place rather than the medium of 31 July.** The 31 July log said: *"A short or tall instead of a medium removes roughly 100 to 150 mg at no financial or time cost."*
+
+**Caffeine today ~241 mg** — two decaf capsules plus a small Pike at roughly 155 to 235 mg depending on the exact cup — **against ~447 mg on 31 July.** Inside the 400 mg guideline for the third consecutive day.
+
+#### Fat is the problem, and it is the bar-and-shake profile again
+
+| | So far | Target | Still to find |
+|---|---|---|---|
+| Protein | ~71 g | 190 to 215 | 119 to 144 g |
+| Carbs | ~74 g | 250 cap | 176 g of room |
+| **Fat** | **~10 g** | **85 to 95** | **75 to 85 g** |
+| Calories | ~694 | 2565 to 2735 | 1871 to 2041 |
+| **Fibre** | **~5 g** | 25 to 30 | **20 to 25 g** |
+
+**Four items eaten today, all bars, shakes or coffee. Not one whole food. That combination is engineered to be high protein and low fat, and it produces exactly this macro shape every time.**
+
+**The contrast with yesterday is the whole lesson.** By this point on 2 August he had eaten one meal, and it carried **41 g of fat and 10.5 g of fibre**, because it contained olive oil and vegetables. **Today's four items carry 10 g and 5 g between them.**
+
+**At ~694 kcal he is also ~350 kcal behind yesterday's position at the same hour**, on a day he trained hard.
+
+#### The fix is meal shape, not more items
+
+| Meal | Shape |
+|---|---|
+| **Lunch** | **Protein anchor plus a large salad with olive oil.** A Protein Sandwich and a proper salad is ~71 P / ~44 F / ~810 kcal with ~5 g fibre |
+| **Dinner** | **Yesterday's breakfast plate, plus chicken.** Tannour with olive oil and za'atar, tomato, cucumber and onion, 200 g grilled chicken, 40 g figs — ~81 P / ~32 F / ~1076 kcal with ~14 g fibre |
+
+**Projected close on that plan: ~223 P / ~227 C / ~86 F / ~2580 kcal, fibre ~24 g. All four land.**
+
+**Polyols today: ~16 g** from two bars.
+
 ---
 
 ## 4. Athlete report: facial fullness, and "bloated without looking bloated"
