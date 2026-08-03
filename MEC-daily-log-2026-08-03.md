@@ -97,7 +97,80 @@
 
 ---
 
-## 4. Open Items This Morning
+## 4. Athlete report: facial fullness, and "bloated without looking bloated"
+
+**Reported 3 August: cheeks look filled, visible in the mirror, feels like weight gain. Explicitly, "there's no belly." Feels bloated without appearing bloated.**
+
+### Facial fullness developing over days is fluid, not fat
+
+**Fat does not deposit in the face on a timescale of days.** Facial adiposity changes over months, and it changes last, not first. **A visible change in the cheeks across a week is water.**
+
+**The term he is reaching for is fluid retention — peripheral or facial oedema — and it is a different thing from both of the others in play:**
+
+| | What it is | Where it shows |
+|---|---|---|
+| **Adiposity** | Stored fat | Abdomen first, over months |
+| **Distension** | Gas and retained stool | Abdomen, fluctuating within a day |
+| **Fluid retention** | Extracellular water | **Face, hands, ankles — worst on waking** |
+
+### "There's no belly" is the third independent confirmation that this is not fat
+
+| Signal | Says |
+|---|---|
+| Eight-day intake, cumulative −1652 kcal | Cannot be fat |
+| Waist unchanged (2 Aug) | Cannot be fat |
+| **No belly, but full cheeks (3 Aug)** | **Wrong distribution for fat entirely** |
+
+**3.4 kg of fat in a 49-year-old male goes to the abdomen. It does not go to the cheeks and skip the belly.** The reported distribution is the opposite of the adiposity pattern and is the classic fluid pattern.
+
+### Ranked causes, specific to him
+
+1. **He woke at 09:15 after ~8 h 30 m lying flat.** Overnight recumbency redistributes fluid to the face, and **the longest night in the record was the night before this observation.** Facial puffiness that is worst on waking and settles over one to two hours is positional and normal.
+2. **Sodium from Saturday's family dinner** — fattoush, sumac, cashews, syrup. Two days out, largely but not fully cleared.
+3. **Seven days at zero recorded water.** Chronic under-hydration causes the body to *conserve* sodium and fluid. **Under-drinking produces retention; it does not prevent it.**
+4. **Glycogen and its bound water.** The diet break raised carbohydrate from cut levels, and every gram of glycogen holds ~3 g of water. **This is the diet break doing exactly what a diet break does**, and it reverses when the cut resumes.
+5. **Cortisol from 18-hour days.** Sustained stress promotes fluid retention and characteristically fills the face.
+
+### The two medical causes of facial oedema were already excluded, six days ago
+
+**This is worth stating plainly, because it is the reassuring part and it is recent:**
+
+| Cause | Test | Result, 28 July |
+|---|---|---|
+| **Hypothyroidism** | TSH | **1.91** — normal (0.35 to 4.94) |
+| **Kidney disease** | Urine protein | **Negative.** No casts, sterile culture, urea mid-range |
+
+**Those are the two conditions that make a clinician think about a puffy face, and both were tested and clean less than a week ago.**
+
+### What to do — and it is already the plan
+
+| Action | Why |
+|---|---|
+| **Water at ~2 L daily** | **Counterintuitive but correct: more water reduces retention.** The body stops conserving once supply is reliable |
+| **Avoid another high-sodium meal for a few days** | Not sodium restriction — just no repeat of Saturday |
+| **Keep training** | Muscle contraction and movement drive lymphatic return |
+| **Give it 3 to 5 days** | Fluid shifts of this size resolve on that timescale once the inputs are corrected |
+
+**No change to macros, no change to the diet break, no new supplement.** The single intervention that addresses this is the one already running.
+
+### What would change the assessment
+
+**None of these are present, and they are what to watch for:**
+
+- **Puffiness around the eyes that persists all day** rather than settling within a couple of hours of waking
+- **Ankle or lower leg swelling**, particularly if it pits when pressed
+- **A marked drop in urine output**
+- **Shortness of breath**, especially lying flat
+
+**Any of those would warrant a call to Dr Chalhoub rather than a coaching adjustment.** A puffy face on waking, in isolation, after a long night and a salty weekend, is not one of them.
+
+### And the feeling itself is worth taking seriously
+
+**It is annoying, it is visible to him, and it is real — the mistake would be to treat it as imagination because the scale and the arithmetic say it is not fat.** It is not fat. **But something did change**, and naming it correctly as fluid is what makes it addressable rather than just discouraging.
+
+---
+
+## 5. Open Items This Morning
 
 - [ ] **Hold water at ~2 L, most of it before 18:00.** This is day two of the test and the only reason today's result will mean anything
 - [ ] **Report tomorrow's stool.** Type 4 formed is the target; two consecutive days at Type 6 or looser triggers the bar reduction
