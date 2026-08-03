@@ -387,6 +387,42 @@
 
 **The olive oil is doing the real work here.** ~23.5 g of the sitting's 37 g of fat, and it is the source the lipid panel called for.
 
+### Meal 5 — Daoukiyeh protein cup
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Daoukiyeh protein cup, 1 | **25** | ~8 | **12** | 0 | ~240 |
+
+**Protein and fat are as stated on the pot. Carbohydrate was not reported and is estimated at ~8 g**, which is typical for a high-protein cultured dairy cup. **Calories follow from that at ~240.**
+
+**Running total: ~215 P / ~184 C / ~62 F / ~2182 kcal, ~14 g fibre.**
+
+#### Protein is now finished at the ceiling
+
+**~215 g against a 190 to 215 g band. There is no protein headroom left**, which changes the last sitting.
+
+#### On lactose, briefly: this is a mild item
+
+**Cultured and strained dairy carries considerably less lactose than milk.** Fermentation consumes part of it and straining removes more with the whey. **On a day the gut is already fermenting, this is among the safer dairy choices available** — materially different from the karisheh problem.
+
+**One thing worth confirming rather than assuming: if this product is labneh-based, it sits on the standing exclusion list.** A protein yogurt cup does not. **His call, and he would know which it is.**
+
+#### The final sitting changes: drop the cheese
+
+**The plan was tannour with olive oil, vegetables and 60 g of chalal cheese. The cheese adds 13.2 g of protein, which now overshoots.**
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| ¾ tannour with ~1.5 tbsp olive oil and za'atar | ~10.3 | ~50 | ~23.5 | ~5 g | ~450 |
+| Tomato, cucumber | ~2 | ~9 | ~0.3 | ~2 g | ~45 |
+| **Total** | **~12.3** | **~59** | **~23.8** | **~7 g** | **~495** |
+
+**Projected close: ~227 P / ~243 C / ~86 F / ~2677 kcal, fibre ~21 g.**
+
+**Carbs finish 7 g inside the cap and fat lands just on the floor. Protein runs ~12 g over the ceiling, which is harmless.** Everything else is in band.
+
+**Keep the cheese for tomorrow.** It is a good item and the day simply has no room left for its protein.
+
 ---
 
 ## 4. Athlete report: facial fullness, and "bloated without looking bloated"
