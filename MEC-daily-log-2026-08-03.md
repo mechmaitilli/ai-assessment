@@ -201,6 +201,46 @@
 
 **Polyols today: ~16 g** from two bars.
 
+#### CONSTRAINT: teaching 14:00 to 18:00, so meals compress to after 18:00
+
+**Reported: he is delivering training from 14:00 to 18:00 and cannot eat a large meal at 13:00. Everything else pushes past 18:00.**
+
+**This is the exact structure that failed repeatedly in this file** — a light day loaded onto an evening. But **the constraint happens to favour the fix**, for a reason worth stating.
+
+##### Fat is the least filling macro per calorie, and fat is what is missing
+
+**He needs ~75 to 85 g of fat and only ~176 g of carbohydrate room. Fat carries 9 kcal per gram against 4, and produces far less gastric volume per calorie than either carbohydrate or protein.**
+
+**A fat-forward lunch is therefore the correct tool for a meal that must be calorie-dense but must not cause sluggishness before four hours of teaching.**
+
+##### Lunch at ~13:00 — light in volume, heavy in density
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Chalal cheese, 60 g | 13.2 | 3 | 13.2 | 0 | ~184 |
+| Walnuts, 30 g | 4.6 | 6 | 20 | 2 g | ~196 |
+| Tomato and cucumber | ~2 | ~9 | ~0.3 | ~2 g | ~45 |
+| **Total** | **~20** | **~18** | **~33.5** | **~4 g** | **~425** |
+
+**That closes roughly 40% of the fat gap in a meal that will not sit heavily**, and it leaves the carbohydrate room intact for the evening.
+
+##### Two evening sittings, not one
+
+**After lunch the day stands at ~91 P / ~92 C / ~43.5 F / ~1119 kcal.** The remainder is ~100 to 125 g of protein and ~1450 to 1600 kcal.
+
+**That is too much for a single sitting at 19:00.** Split it:
+
+| | Approx. |
+|---|---|
+| **~18:30** | Protein anchor plus a large salad with olive oil — ~70 P / ~37 F / ~760 kcal |
+| **~21:00** | 200 g grilled chicken, tannour, 40 g figs — ~74 P / ~84 C / ~709 kcal, ~7 g fibre |
+
+**Projected close: ~236 P / ~212 C / ~88 F / ~2590 kcal, fibre ~20 g.** Protein runs over the ceiling, which is harmless; carbs, fat and calories all land.
+
+##### During the session
+
+**Water, and nothing else needed.** Four hours on his feet is not a fasting risk after a 425 kcal lunch, and eating during delivery is not practical.
+
 ---
 
 ## 4. Athlete report: facial fullness, and "bloated without looking bloated"
