@@ -5,7 +5,7 @@
 **Prepared for:** Cal (personal trainer) / coaching team
 **Status:** OPEN. Filled as the day runs.
 
-> **Dating assumption:** this entry is filed as Monday 3 August on the basis of the morning meal pattern and the word "finally" implying an overnight wait on the water prediction. **If the report was in fact Sunday evening, it moves to the 2 August log as a third movement that day** — say so and it will be re-filed.
+> **Dating confirmed by the athlete: Monday morning.** The movement below is the first of 3 August, ~24 hours after the water and fibre inputs of 2 August, which is the window the prediction specified.
 
 ---
 
