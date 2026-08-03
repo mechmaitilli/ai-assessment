@@ -357,9 +357,41 @@
 
 **Therefore: progress to 38 kg on incline next chest day as planned.** The hold-at-36 contingency does not trigger.
 
-### One question outstanding
+### CONFIRMED: the itch is on the LEFT — the injured side
 
-**Which side is the itch?** If it is the left, it is on the injured cuff side and joins the deficit as a tracked finding. **If it is the right, it is unaccustomed load on a healthy shoulder and means considerably less.**
+**Three findings now sit on the same shoulder:**
+
+| Finding | Date |
+|---|---|
+| **Rotator cuff injury history** | Standing |
+| **~12% strength deficit** — 7 reps left against 8 right at 38 kg | 3 August |
+| **Anterior shoulder / biceps insertion irritation** | 3 August |
+
+**And all three provocations recorded this week loaded that same structure**: shoulder extension with the biceps stretched (31 July), loaded external rotation on the dumbbell entry (1 August), and heavy sustained biceps tendon load (3 August).
+
+### What the pattern resembles — stated as a pattern, not a diagnosis
+
+**Irritation at the biceps insertion, on a shoulder with cuff history, provoked by stretch, by loaded external rotation and by heavy pulling, is the recognised presentation of long head of biceps involvement — commonly a tendinopathy of the long head or irritation of the biceps pulley.** These coexist with rotator cuff pathology as a rule rather than an exception, which is why the two cannot be told apart by feel.
+
+**This is a coaching observation of a reproducible pattern. It is not a diagnosis, and diagnosis is the physiotherapist's and Dr Chalhoub's to make.** What the log can offer them is that the pattern is now specific, one-sided, and provoked by three identifiable movement categories.
+
+### It raises the priority of the physio conversation
+
+**The brief was already open: tell them the programme, and ask what can be loaded versus what still needs restricting.** It now has three concrete findings attached to it rather than one, all on the left:
+
+1. **Cuff provokes on dumbbell entry at 28 kg cold, silent pressing 36 kg warm** — a setup problem rather than a capacity problem
+2. **Incline dumbbell curl provokes reproducibly** and has been removed
+3. **~12% single-arm strength deficit, and anterior irritation after heavy pulling**
+
+### Friday's arms session becomes conditional
+
+**The next arms day is Friday 7 August, four days out — ample recovery, and most likely a non-issue.**
+
+**But arms day loads this tissue directly and deliberately**, and the EZ curl target was set at 30 kg. **That target now stands only if the left shoulder is quiet on the day.** If any of this sensation persists, hold 27.5 kg rather than progressing.
+
+**One variation note worth knowing: the hammer curl is the friendliest curl for this presentation.** A neutral grip shifts load toward the brachialis and away from the long head of biceps, and the shoulder stays neutral throughout. **It is already in the programme.** The incline curl — the worst variation for it — is already out.
+
+**Preacher and cable curls are also comparatively kind**, because both hold the shoulder in flexion, the opposite of the provocative extended position.
 
 ---
 
