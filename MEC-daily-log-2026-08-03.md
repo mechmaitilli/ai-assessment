@@ -241,7 +241,116 @@
 
 ---
 
-## 6. Open Items This Morning
+## 6. Training log: Back — as performed
+
+| Exercise | Set | Load | Reps | RIR |
+|---|---|---|---|---|
+| Wide-grip pulldown | Warmup | 30 kg | 25 | — |
+| Wide-grip pulldown | Warmup | 60 kg | 8 | — |
+| Wide-grip pulldown | Warmup | 80 kg | 5 | — |
+| Wide-grip pulldown | 1 | **90 kg** | 10 | 2 |
+| Wide-grip pulldown | 2 | **90 kg** | 10 | 2 |
+| Wide-grip pulldown | 3 | **100 kg** | 8 | 2 |
+| Seated cable row, **paused at contraction** | 1 | 27 kg/handle | 10 | 2 |
+| Seated cable row, paused | 2 | 27 kg/handle | 10 | 2 |
+| Seated cable row, paused | 3 | **30.5 kg/handle** | 10 | 2 |
+| Single-arm DB row | 1 | **38 kg** | 10 | 2 |
+| Single-arm DB row | 2 | 38 kg | 8 | 2 |
+| Single-arm DB row | 3 | 38 kg | **7 left / 8 right** | 2 |
+| Neutral-grip pulldown | 1 | **80 kg** | 12 | 2 |
+| Neutral-grip pulldown | 2 | 80 kg | 11 | 2 |
+| Face pulls | — | 15 kg | 15 | 2++ |
+
+**Water at the gym: 1+ litre**, consistent with the habitual intake reported this morning.
+
+### Every exercise progressed, and reps mostly held flat
+
+| Exercise | 27 July | **3 August** |
+|---|---|---|
+| Wide pulldown | 80 × 10; 90 × 8 as a finisher | **90 × 10 ×2, then 100 × 8** |
+| Seated cable row | 27 × 8 to 9 at **1 RIR**, no pause | **30.5 × 10 at 2 RIR, paused** |
+| Single-arm DB row | 36 × 10 | **38 × 10** |
+| Neutral pulldown | 70 × 12 | **80 × 12** |
+
+**The cable row improved on four axes at once — more load, more reps, less effort, and a pause that makes the movement strictly harder than the version done last week.**
+
+### The rep-hold signal appeared on three of four exercises
+
+**Reps held flat across sets on the wide pulldown, the cable row and the neutral pulldown. They fell normally only on the single-arm DB row** — 10, 8, 7/8.
+
+**That is diagnostic: 38 kg on the dumbbell row is correctly calibrated. The three machine and cable exercises were not.**
+
+### Next back session
+
+| Exercise | Target |
+|---|---|
+| **Wide-grip pulldown** | **100 kg × 8 to 10, all sets.** 8 reps came after two sets of 90; fresh it should give 9 to 10 |
+| **Seated cable row** | **34 kg per handle × 10, paused.** The pause is not negotiable — drop the load before losing it |
+| **Single-arm DB row** | **40 kg × 8 to 10.** **Lead with the left, match the right** |
+| **Neutral-grip pulldown** | **90 kg × 10 to 12**, 2 sets |
+| **Face pulls** | **15 kg × 15. Do not progress this one** — it is cuff maintenance, not a lift |
+
+---
+
+## 7. LEFT SHOULDER CONFIRMED AS THE ROTATOR CUFF SIDE — and the deficit is now a metric
+
+**Reported: the rotator cuff is the LEFT shoulder. On the third set of single-arm rows, left produced 7 reps against the right's 8.**
+
+**That is roughly a 12% asymmetry.** Rehab convention treats **under 10% as normal, 10 to 15% as a watch zone, over 15% as a genuine deficit.** He sits at the bottom of the watch zone, **and the figure is confounded by handedness** — if he is right-handed, dominance and injury predict the same direction and cannot be separated from one observation.
+
+**Three actions follow:**
+
+1. **Lead with the left and match the right.** 7 left then 7 right. Free, and it stops the gap widening.
+2. **Record left and right separately on every unilateral exercise** — single-arm rows, hammer curls, cable curls, kickbacks. **A rehab metric for free, tracked across weeks.**
+3. **Note that bilateral work cannot see this.** Saturday's presses were both hands together, so a left deficit was completely invisible in that data. **The single-arm row is currently the only window onto it.**
+
+---
+
+## 8. A third provocation, and the three together point at the biceps tendon
+
+**Reported after the session: the shoulder is "quiet, not really — quite a bit of not pain, itch at shoulder and biceps insertion." He cannot tell whether it is biceps or shoulder.**
+
+### He cannot tell them apart because anatomically they are not separate
+
+**The long head of the biceps tendon runs through the bicipital groove at the front of the shoulder and inserts into the superior labrum, inside the joint.** It is held in that groove by the **biceps pulley**, which is formed by the subscapularis and supraspinatus — **rotator cuff tendons.**
+
+**Anterior shoulder sensation at the biceps insertion is the classic presentation of long head of biceps involvement, and it travels with cuff pathology so routinely that clinicians often cannot separate them by examination either.** Not knowing which it is is the correct answer, not a failure of description.
+
+### Three provocations in three sessions, all loading the same structure
+
+| Date | Provocation | What it loads |
+|---|---|---|
+| **31 July** | Incline DB curl — removed | **Shoulder extension with the biceps stretched.** Flagged at the time as provocative for the cuff **and the long head of biceps** |
+| **1 August** | Dumbbell entry at 28 kg cold | **Loaded external rotation**, which stresses the biceps pulley |
+| **3 August** | Heaviest back session in the file | **Heavy sustained biceps tendon load** — 100 kg pulldowns, 38 kg rows |
+
+**Three separate provocations, three different movement patterns, one anatomical region.**
+
+**This is more specific than "rotator cuff", and it is worth putting to the physio in those terms: the picture may be biceps-dominant, or a combined cuff-and-biceps problem, rather than a cuff problem alone.**
+
+### Assessment: not alarming, and no action today
+
+**He explicitly reports it as not pain.** The session was completed in full, at the heaviest loads recorded for this session, and the shoulder was otherwise quiet throughout.
+
+**A vague irritated sensation at a tendon following unaccustomed heavy load is ordinary low-grade tendon irritation, not injury.**
+
+**Watch tomorrow morning. Tendon irritation typically declares itself 12 to 24 hours after the session rather than during it.**
+
+**What would change this:** the sensation becoming actual pain, persisting beyond 48 hours, or appearing at rest rather than only after loading. **None is present.**
+
+### The 48-hour chest watch closes clean
+
+**Saturday's session added 4 kg to both presses and produced no joint complaint across the full 48 hours.** Today's sensation is at the biceps insertion following heavy pulling — **pressing does not meaningfully load the biceps tendon, so this is today's session, not Saturday's.**
+
+**Therefore: progress to 38 kg on incline next chest day as planned.** The hold-at-36 contingency does not trigger.
+
+### One question outstanding
+
+**Which side is the itch?** If it is the left, it is on the injured cuff side and joins the deficit as a tracked finding. **If it is the right, it is unaccustomed load on a healthy shoulder and means considerably less.**
+
+---
+
+## 9. Open Items This Morning
 
 - [x] ~~**Water, 3 litres, tracked as a number**~~ **CLOSED 3 August. Habitual intake is above 2 L and always was. The item was built on a record gap, not a deficit**
 - [ ] **Hold fibre at 25 to 30 g** — now the primary GI lever. **The 2 August composed-meal pattern is how it happens without planning**: vegetables and bread at breakfast, salad at dinner
