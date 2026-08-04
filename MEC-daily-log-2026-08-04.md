@@ -146,7 +146,97 @@
 
 ---
 
-## 5. Open Items This Morning
+## 5. Training log: Shoulders + Abs — as performed
+
+**Left shoulder reported quiet this morning. Yesterday's anterior irritation resolved inside 24 hours**, which is consistent with low-grade tendon irritation from unaccustomed load rather than injury. **Both conditionals resolve: the front raise stayed in, and Thursday's 30 kg EZ curl target is confirmed.**
+
+| Exercise | Set | Load | Reps | RIR |
+|---|---|---|---|---|
+| Cable lateral raise | Warmup | 5 kg | 15 | — |
+| Cable lateral raise, **paused** | 1 to 3 | **10 kg/handle** | 15, 13, 12 | 2 |
+| Reverse pec deck, paused | 1 to 3 | **57.5 lb** | 15, 14, 13 | 2 |
+| Chest-supported rear delt fly, **strong pause** | 1 to 3 | 8 kg | **15, 15, 15** | 2 |
+| Face pulls | Trial | 23.75 kg | — | **Too heavy, abandoned** |
+| Face pulls | 1 to 3 | **18.75 kg** | 15, 14, 14 | 2 |
+| DB front raise | 1 | 10 kg | 15 — **last 3 with swing** | 2 |
+| DB front raise, **clean with pause** | 2 | 10 kg | **12** | 2 |
+| Cable crunch | 1 to 3 | **32.5 kg** | 15, 14, 13 | 2 |
+| Hanging knee raise, **2-second pause** | 1 to 3 | Bodyweight | 14, 11, **12** | 2 |
+
+### The correction landed completely: zero sets to failure
+
+**On 29 July the lateral raise went to 0 RIR on all three sets and the reverse pec deck on sets two and three. Today every single set finished at 2 RIR.**
+
+| Exercise | 29 July | **4 August** |
+|---|---|---|
+| Cable lateral raise | 12.5 × 11, 10, 10 — **0 RIR throughout** | **10 × 15, 13, 12 — paused, 2 RIR** |
+| Reverse pec deck | 57.5 × 15, then **65 × 12, 65 × 12 at 0 RIR** | **57.5 × 15, 14, 13 — 2 RIR** |
+| Rear delt fly | 8 × 12, 12, 12 | **8 × 15, 15, 15 — strong pause** |
+| Front raise | 10 × 12, 12 | **10 × 12 clean with pause** |
+| Hanging knee raise | 15, 15, 15 | **14, 11, 12 with a 2-second hold** |
+
+**Two loads went down and the session got better.** More total work on the lateral raise, all of it paused, none of it at failure.
+
+### Tempo became the progression variable, and that is the right answer here
+
+**Pauses were added to four exercises today: lateral raise, rear delt fly, front raise, hanging knee raise.**
+
+**On the three movements where the shoulder is the limiter, control is the training effect and load is the risk.** The arithmetic confirms it on the lateral raise: **at a true 2 RIR, 12.5 kg would give roughly 9 reps — below the 12 to 15 range the exercise trains in.** So 10 kg is not a step down, it is the correct load, and the only progression available is reps and tempo.
+
+**The same logic already governs face pulls and caps the front raise.**
+
+### The front raise has a form ceiling at 12, not 15
+
+**Set 1 reached 15 but the last three reps carried swing. Those reps do not count on this exercise** — momentum spikes the load at the bottom and the shoulder absorbs it uncontrolled, which is the exact mechanism the cap exists to prevent.
+
+**Set 2 at 12 clean with a pause is the real number, and it is what the log records.**
+
+### Right-side dominance, now four observations
+
+| Date | Observation |
+|---|---|
+| 3 Aug | Single-arm DB row: **7 left, 8 right** at 38 kg |
+| 4 Aug | Reverse pec deck: burn ran into the **right** triceps, not the left |
+| 4 Aug | Rear delt fly: **more burn right**, both sets |
+
+**On bilateral movements, "more burn on the right" usually means the right is taking more of the load — the left under-recruiting rather than simply being weaker.** That is a motor-control pattern, common on a previously injured side, **and it is more trainable than a strength deficit.**
+
+**The unilateral test was requested for set 3 and it is unclear whether it was run.** Monday's single-arm rows will answer it either way.
+
+### Two dead data points replaced with real baselines
+
+**Both were flagged on 29 July as logged without units.**
+
+| | Was | **Now** |
+|---|---|---|
+| Face pulls | "83.75 total across two handles" | **18.75 kg** × 14 to 15 at 2 RIR |
+| Cable crunch | "35" and "41.25", set 3 never captured | **32.5 kg** × 15, 14, 13 — all three logged |
+
+**23.75 kg was tried on the face pulls and abandoned as too heavy. Dropping rather than grinding it out was the correct call.**
+
+**Standing fix for the recurring problem: record the gym or machine name next to every cable and machine number.** Three different crossover machines are already in the record with no way to compare them.
+
+### One process finding worth keeping
+
+**Hanging knee raises ran 14, then 11, then 12 after a deliberately longer rest.** Reps rising on the third set after more recovery means **the 14 to 11 drop was incomplete rest, not genuine fatigue.**
+
+**On paused core work, take 90 seconds to two minutes.** The set is worth more than the clock.
+
+### Next shoulders session
+
+| Exercise | Target |
+|---|---|
+| **Cable lateral raise** | **10 kg, aim 15/15/13 paused.** Extend the pause before considering 12.5 |
+| **Reverse pec deck** | **57.5 lb, aim 15/15/14 paused.** Lead with the elbows, fixed elbow angle, loose grip |
+| **Chest-supported rear delt fly** | **10 kg × 12 to 15** — 15 across all three was achieved, so the load goes up |
+| **Face pulls** | **18.75 kg × 15. Never progress** |
+| **DB front raise** | **10 kg × 12 clean, longer pause.** Load permanently capped |
+| **Cable crunch** | **32.5 kg, aim 15 across all three** before adding load |
+| **Hanging knee raise** | **3 × 15 with the 2-second hold. Rest 90 to 120 seconds** |
+
+---
+
+## 6. Open Items This Morning
 
 - [ ] **Report the left shoulder.** It decides the front raise, and it is the 24-hour read on yesterday's irritation
 - [ ] **Cut the bars.** Swap to Daoukiyeh cups — same convenience, no maltitol
