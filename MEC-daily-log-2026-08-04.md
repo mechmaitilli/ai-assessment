@@ -266,7 +266,71 @@
 
 ---
 
-## 7. Open Items This Morning
+## 7. MAJOR DISCLOSURE: on cycle — boldenone and testosterone
+
+**Reported 4 August. This is the most consequential piece of context in the file and it corrects several standing conclusions.**
+
+### What it explains, in order of importance
+
+#### 1. The facial puffiness — and this is the answer he has been chasing for three days
+
+**Both testosterone and boldenone aromatise to estradiol.** Elevated estradiol is a **direct and well-established cause of fluid retention**, and it presents exactly as reported: **facial and cheek fullness, a rising scale weight, and a sense of being bloated without an abdominal change.**
+
+**This moves to the top of the ranked causes, above sodium, glycogen water and cortisol.** Those were all real contributors and remain in the list — **but none of them explained why it appeared now and persisted.** Aromatisation does.
+
+**It is also actionable in a way the others were not: estradiol can be measured.** It was not on the 28 July panel.
+
+**The reassurance given on 3 August stands and is strengthened.** It is not fat — the unchanged waist, the intake arithmetic and the distribution all said so. **Now there is a mechanism as well.**
+
+#### 2. The strength progression — the "under-loading" conclusion is over-stated
+
+**Six exercises progressed in a week with reps holding. That was attributed to the programme having been calibrated too conservatively.**
+
+**That reading is now only partly right.** Anabolic compounds drive rapid strength expression and recovery. **The more parsimonious explanation for +4 kg on both presses inside seven days is pharmacological, not that a decade-old caution was miscalibrated.**
+
+**What survives:** the entry-technique finding is unaffected — a cuff that ticks at 28 kg cold and is silent at 36 kg warm is mechanical, and no compound changes that.
+
+**What is withdrawn:** the confident claim that the programme has been running below capacity for years. **It may still be true. It is no longer demonstrated by this week's numbers.**
+
+**Practical consequence: progression should be read cautiously while on cycle, because strength gained pharmacologically does not persist through coming off.** Loads set now may not be sustainable later, and connective tissue adapts more slowly than muscle does.
+
+#### 3. The HDL collapse — the panel's most concerning finding now has a cause
+
+**HDL 76 → 46 is the classic laboratory signature of anabolic steroid use.** See the correction added to the bloodwork file.
+
+**Diet is a marginal lever against a pharmacological cause.** The olive-oil-over-dairy-fat guidance stays, but it will not restore a 30-point HDL drop while the cycle runs.
+
+#### 4. The testosterone reading — reframed
+
+**29.48 nmol/L was recorded as "excellent for a 49-year-old natural athlete." It is exogenous, and it is a modest figure for someone on cycle.** The implausible 4.9 from July 2025 may in fact be a real off-cycle baseline, which would be genuinely low.
+
+#### 5. Creatinine at ceiling — a second contributor
+
+**AAS raise creatinine through muscle mass and turnover.** Creatine supplementation and the cycle both apply. Renal markers remain clean either way.
+
+### The one thing that matters more than any of the above
+
+**Dr Chalhoub interpreted the entire 28 July panel without this context.**
+
+**Three results were read wrong as a direct consequence: the testosterone, the HDL, and the creatinine.** A 49-year-old male with a family history, HDL down 39%, and a creatinine at the ceiling is a materially different clinical picture depending on whether the cause is known.
+
+**This is not a disclosure about judgement. It is the context without which her interpretation is unsafe, and it now sits above vitamin D at the top of the open items.**
+
+### What should be added to the next draw
+
+**Estradiol, LH, FSH, free testosterone, SHBG, prolactin.** Estradiol is the omission that matters most and is the measurable form of the complaint he has raised for three days.
+
+**And the lipid panel should be repeated off-cycle** before any conclusion is drawn about cardiovascular risk.
+
+### What does not change
+
+**Protein 190 to 215 g, the carb cap, the fat band, the training constraints, the GI investigation, the vitamin D protocol and the sleep position all stand.** None of them depended on the assumption of a natural athlete.
+
+**The rotator cuff restrictions are unaffected.** Anabolics do not strengthen tendon at the rate they strengthen muscle — **if anything the entry protocol and the load caps matter more on cycle, not less**, because the capacity to move weight outruns the connective tissue's readiness to handle it.
+
+---
+
+## 8. Open Items This Morning
 
 - [ ] **Report the left shoulder.** It decides the front raise, and it is the 24-hour read on yesterday's irritation
 - [ ] **Cut the bars.** Swap to Daoukiyeh cups — same convenience, no maltitol

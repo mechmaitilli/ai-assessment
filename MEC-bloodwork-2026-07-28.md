@@ -53,6 +53,14 @@ Every other plausible organic cause of fatigue was tested and came back normal.
 
 ---
 
+> ## ⚠️ CORRECTION, 4 AUGUST — THIS PANEL WAS INTERPRETED WITHOUT KEY CONTEXT
+>
+> **The athlete disclosed on 4 August that he is on cycle, using boldenone and testosterone.**
+>
+> **This panel was drawn on 28 July and interpreted throughout as belonging to a natural athlete. That framing was wrong, and several conclusions below change materially.** The affected sections are 3 (testosterone), 4 (lipids) and 5 (creatinine). Each carries an inline correction.
+>
+> **The single most important consequence: Dr Chalhoub interpreted these results without knowing.** See section 9.
+
 ## 3. Testosterone: Excellent
 
 | | Result | Note |
@@ -64,6 +72,26 @@ The laboratory printed a reference range of 0.08 to 34 nmol/L, which is not a va
 **This closes the concern raised before the draw.** Testosterone was flagged as missing from the original prescription; it was in fact run. With total testosterone this high, free testosterone and SHBG are very unlikely to be limiting and do not need to be chased.
 
 **One anomaly to query:** the previous result on the report reads 4.9 (03/07/25). A rise from 4.9 to 29.48 nmol/L is not physiologically plausible. That earlier figure was almost certainly recorded in different units or is a transcription error. Worth one question to the physician; not a cause for concern.
+
+### CORRECTION, 4 August: this is exogenous, not endogenous
+
+**The reading above — "a strong result for a 49-year-old natural athlete" — is withdrawn. He is on cycle with testosterone and boldenone.**
+
+**Three things follow:**
+
+1. **29.48 nmol/L is not a high figure for someone on testosterone. It is modest.** Depending on compound, dose and the timing of the draw relative to the last injection, on-cycle totals commonly run well above this. **The value tells us about the protocol, not about his endogenous production.**
+2. **The 4.9 nmol/L reading from 03/07/25 is no longer implausible.** If that draw was off-cycle it may be a real number — and if so it is his **suppressed or natural baseline**, which is genuinely low for a 49-year-old and is important information for whenever he comes off.
+3. **Free testosterone and SHBG were dismissed as "very unlikely to be limiting."** That reasoning depended on the total being naturally high. **It no longer holds and both should be measured.**
+
+### What this panel did not measure, and should have
+
+| Marker | Why it matters on cycle |
+|---|---|
+| **Estradiol (E2)** | **The most important omission.** Both testosterone and boldenone aromatise to estradiol. E2 drives **water retention, facial and general puffiness**, blood pressure, mood and gynecomastia risk |
+| **LH and FSH** | Degree of suppression of the HPT axis |
+| **Free testosterone and SHBG** | See above |
+| **Prolactin** | Standard on-cycle monitoring |
+| **PSA** | Reasonable baseline at 49 on exogenous testosterone |
 
 ---
 
@@ -84,6 +112,20 @@ The laboratory printed a reference range of 0.08 to 34 nmol/L, which is not a va
 
 **Action: raise with Dr Chalhoub.** Not urgent, but it warrants a plan rather than being left to the next annual panel.
 
+### CORRECTION, 4 August: the HDL collapse has an identified cause
+
+**HDL falling from 76 to 46 is the single most characteristic laboratory signature of anabolic steroid use.** AAS suppress HDL markedly and reliably, and the effect is dose-dependent.
+
+**This is now the most concerning finding on the panel, and it is no longer unexplained.** A 39% drop in HDL is not a lifestyle drift or a dietary artefact — it tracks the cycle.
+
+**Three consequences:**
+
+1. **The dietary advice given on the back of this panel — shift fat toward olive oil, walnuts and tahini, reduce cheese man'oushe — remains correct but is a marginal lever against a pharmacological cause.** Diet will not restore a 30-point HDL drop while the cycle runs.
+2. **HDL typically recovers substantially after coming off**, over weeks to months. **The timing of that recovery is worth knowing** and is a reason to repeat lipids off-cycle rather than judging cardiovascular risk from an on-cycle panel.
+3. **The total-to-HDL ratio of 4.8 sits exactly at the ceiling, and HDL is the reason.** LDL improved from 175.6 to 161.4 over the same period; it is the HDL side that moved adversely.
+
+**This must be disclosed to Dr Chalhoub.** A 49-year-old male with a family history and an HDL collapse of this size reads very differently once the cause is known — and the management differs accordingly.
+
 ---
 
 ## 5. Creatinine: Expected Artifact of Creatine Supplementation
@@ -102,6 +144,20 @@ The laboratory printed a reference range of 0.08 to 34 nmol/L, which is not a va
 Every other renal marker is clean: urea mid-range, no proteinuria, no hematuria, no casts, sterile culture. **The elevation is almost certainly the supplement.**
 
 **Action: the athlete must disclose creatine use to Dr Chalhoub before this result is interpreted.** Without that context a creatinine at the ceiling reads as early renal impairment.
+
+### CORRECTION, 4 August: creatine is not the only contributor
+
+**Anabolic steroid use also raises serum creatinine**, through increased muscle mass and turnover. **Both explanations apply, and neither indicates renal impairment on its own** — the supporting renal markers remain clean: urea mid-range, no proteinuria, no haematuria, no casts, sterile culture.
+
+**The disclosure required is therefore both items, not one.**
+
+### An anomaly worth noting: haemoglobin and haematocrit fell
+
+**Anabolic steroids characteristically RAISE haemoglobin and haematocrit** — erythrocytosis is one of the standard monitoring concerns on cycle.
+
+**His went the other way:** haemoglobin 16.9 → 14.8, haematocrit 49.8 → 42.9.
+
+**That is against expectation and worth a question.** Possible explanations include haemodilution from the fluid retention that aromatisation produces, the timing of the draw within the cycle, or simple hydration state. **It is not alarming — both values are comfortably in range — but it is the opposite of the predicted direction, which makes it worth watching rather than dismissing.**
 
 ---
 
@@ -197,6 +253,9 @@ Karisheh stays for its protein value, but cheese-based bakery items should becom
 
 ## 9. Open Items
 
+- [ ] **DISCLOSE THE CYCLE TO DR CHALHOUB. Added 4 August, and it now sits above everything else on this list.** She interpreted this entire panel without knowing. **Three results were read wrong as a direct result: the testosterone, the HDL collapse, and the creatinine.** A 49-year-old male with a family history, an HDL of 46 down from 76, and a creatinine at the ceiling is a materially different clinical picture depending on whether she knows why. **This is not a disclosure about judgement — it is the context without which her interpretation is unsafe.**
+- [ ] **Add estradiol, LH, FSH, free testosterone, SHBG and prolactin to the next draw.** Both compounds aromatise; **estradiol is the omission that matters most** and is the likely driver of the facial and general fluid retention reported 3 to 4 August.
+- [ ] **Repeat the lipid panel off-cycle** before drawing any conclusion about cardiovascular risk. On-cycle lipids do not represent his baseline.
 - [ ] **Vitamin D correction protocol from Dr Chalhoub**, plus a recheck at ~3 months. Highest priority.
 - [ ] **Add serum calcium, albumin and magnesium to the next draw — before the vitamin D protocol starts.** This panel measured sodium and potassium but **not calcium**. Two reasons it matters: constipation plus fatigue with a normal thyroid makes calcium the next reasonable metabolic check, and vitamin D correction increases calcium absorption, so a baseline taken before high-dose supplementation is ordinary good practice. Magnesium because it is being supplemented nightly. Added 30 July.
 - [ ] **Raise the ongoing constipation and bloating**, which are still present on 30 July despite the negative stool results. See the correction in section 7.
