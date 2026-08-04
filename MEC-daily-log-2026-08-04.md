@@ -236,7 +236,37 @@
 
 ---
 
-## 6. Open Items This Morning
+## 6. Second movement, 4 August — small, two formed pieces, no straining
+
+**Reported: small, two pieces out, hardly any pushing needed.**
+
+| | Morning | **Afternoon** |
+|---|---|---|
+| Volume | Good load | **Small** |
+| Consistency | **Swooshy**, looser than yesterday | **Two pieces — formed** |
+| Straining | None | **Hardly any** |
+
+### Three readings, and the third is the one to hold onto
+
+**1. No straining, fourth consecutive passage.** This was the criterion that mattered clinically and it has now been absent since 2 August.
+
+**2. "Two pieces" is formed, and that is firmer than this morning.** The morning passage was described as swooshy; this one has discrete pieces. **Consistency may be turning within the day**, which is the direction wanted.
+
+**3. Small volume here is expected, not a regression.** The morning movement was a good load. A small follow-on after a full passage is ordinary.
+
+### The timing point that matters for reading tomorrow
+
+**Bars were cut this morning. Today's stools still reflect yesterday's food** — including the ~26 to 36 g polyol load from the keto ice cream sandwich.
+
+**Stool transit runs roughly 24 to 48 hours. The bar removal cannot show up in today's passages.**
+
+**Tomorrow morning is the first read on the intervention, and Thursday is the confirming one.** Anything before then is still measuring the old input.
+
+**Expected if polyols were the driver: firmer, toward Type 4, from tomorrow.** Expected if the fibre ramp was the driver: continued softness for another week or so, resolving on its own as the gut adapts.
+
+---
+
+## 7. Open Items This Morning
 
 - [ ] **Report the left shoulder.** It decides the front raise, and it is the 24-hour read on yesterday's irritation
 - [ ] **Cut the bars.** Swap to Daoukiyeh cups — same convenience, no maltitol
