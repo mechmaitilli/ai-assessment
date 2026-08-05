@@ -137,6 +137,37 @@ The leading portion has spent longer in the colon and had more water absorbed fr
 
 **Today carries the same structural risk as Monday: a long delivery day compressing meals to either side of it.** Monday worked because protein landed early and the evening was composed. **Today has no session to hang a post-workout meal on**, so the midday meal has to do more.
 
+### Meal 2, dinner — high protein pizza with 300 g chicken
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Grilled chicken, 300 g | ~93 | 0 | ~11 | 0 | ~495 |
+| Pizza base, cheese, sauce | ~31 | ~55 | ~19 | ~3 g | ~510 |
+| **Total** | **~124** | **~55** | **~30** | **~3 g** | **~1005** |
+
+**Running total: ~143 P / ~79 C / ~36 F / ~1225 kcal, ~6 g fibre.**
+
+**ESTIMATED, and recorded as such at the athlete's instruction.** The vendor does not list macros. **The chicken figure is reliable; the base and cheese are inferred from a typical personal high-protein pizza and could swing protein by ±20 g.** Treat this row as an approximation rather than a database entry.
+
+**From 19 g of protein to 143 in a single sitting.** On a day that reached 18:00 at ~220 kcal, this is the meal that rescued it.
+
+#### Closing the day
+
+| | Still to find |
+|---|---|
+| Protein | 47 to 72 g |
+| Fat | 49 to 59 g |
+| Fibre | ~19 g |
+| Calories | ~1340 to 1510 |
+
+**Two Daoukiyeh cups take protein to ~193 g and clear the floor.** Adding 30 g of walnuts and 60 g of figs brings fat to ~68 g and fibre to ~14 g, closing the day near **~200 P / ~68 F / ~1820 kcal.**
+
+**Calories will finish ~700 under, and that is the correct outcome.** Forcing 700 kcal at 21:00 after a twelve-hour delivery day, three days before a cut, costs more in adherence than it returns in energy balance. **Protein was the number worth chasing and it is essentially covered.**
+
+#### Two consecutive days weighted toward dairy fat
+
+**Yesterday carried ~20 g of saturated fat from 150 g of cheese; tonight's pizza cheese adds more.** The chicken dominates this meal so it is not tonight's problem — **but with LDL at 161.4 the fat should go back to olive oil and walnuts tomorrow.**
+
 ### Targets today
 
 **Full band held — the cut does not start until Saturday.**
