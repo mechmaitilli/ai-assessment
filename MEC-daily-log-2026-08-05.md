@@ -16,7 +16,8 @@
 | Session | **NONE.** Early meeting, then delivering training at Bank Audi |
 | Sleep | **Bedtime 23:00 to 23:30.** First sleep data in five nights. Woke ~1 h later than usual, by choice, because of the headache |
 | Estimated duration | **~7 to 7.5 h** against a normal ~06:35 weekday wake |
-| Water | **1.0 L reported.** Below his stated 2 L+ normal |
+| Water | **~2.5 L.** 1.0 L by evening, plus ~1.5 L after. **Above his 2 L+ normal — best logged figure on record** |
+| Vitamin D | **Dose 3 TAKEN.** Cleared |
 | Bowel movements | **1**, morning only. Half formed, loose at the end. Good relief, no straining |
 | Enhancement status | **On cycle — boldenone and testosterone** |
 | Active complaint | **Bilateral headache and trap-to-neck pain**, all day |
@@ -177,7 +178,25 @@ Tomorrow morning reflects **~220 kcal until evening, then one large low-fibre ch
 
 **2 August remains the only properly fed start in four days, and it produced the best day of the week.** The heat is a real contributor here — it suppresses appetite, and it is a large part of why the day ran to 18:00 on 220 calories.
 
-### Meal 2 — dinner, high-protein pizza with 300 g chicken
+### Meal 2 — Pasta Beast Salad, no parmesan
+
+**Vendor listing: 748 kcal, 55 g protein.** Romaine, rocca, pasta, grilled corn, mushrooms, red peppers, boiled eggs, chicken breast, avocado-mustard dressing. **Parmesan removed at the athlete's request.**
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Pasta Beast Salad as listed | 55 | ~55 | ~34 | ~7 g | 748 |
+| Less parmesan (~15 g) | −5 | 0 | −5 | 0 | −65 |
+| **As eaten** | **~50** | **~55** | **~29** | **~7 g** | **~683** |
+
+**Protein and calories are vendor-listed and reliable. Carbs and fat are back-solved** — the app showed only those two figures, the rest sat behind the collapsed "View Nutrition Facts" panel. 55 P is 220 kcal; the remaining 528 kcal split across the pasta and corn on one side and the dressing and eggs on the other gives ~55 C and ~34 F, which reconciles to 746 against a listed 748.
+
+**Dropping the parmesan was the right call** — LDL 161.4 and two consecutive days already weighted toward dairy fat.
+
+**This is a good find and it goes into the database.** ~50 g protein, ~7 g fibre and real vegetables for $13. **On fibre it beats the Protein Sandwich outright**, which is the gap this week keeps running into.
+
+**One ask: open the Nutrition Facts dropdown next time.** One tap removes the estimate on carbs and fat entirely.
+
+### Meal 3 — high-protein pizza with 300 g chicken — ⚠️ CONFIRMATION PENDING
 
 | Item | P | C | F | Fibre | kcal |
 |---|---|---|---|---|---|
@@ -185,51 +204,53 @@ Tomorrow morning reflects **~220 kcal until evening, then one large low-fibre ch
 | Pizza base, cheese, sauce | ~31 | ~55 | ~19 | ~3 g | ~510 |
 | **Total** | **~124** | **~55** | **~30** | **~3 g** | **~1005** |
 
-**ESTIMATED, and recorded as such at the athlete's instruction.** The vendor does not list macros. **The chicken figure is reliable; the base and cheese are inferred and could swing protein by ±20 g.** This is an approximation, not a database entry.
+**ESTIMATED, and recorded as such at the athlete's instruction.** The vendor does not list macros. **The chicken figure is reliable; the base and cheese are inferred and could swing protein by ±20 g.**
 
-**From 19 g of protein to 143 in a single sitting.** On a day that reached 18:00 at ~220 kcal, this is the meal that rescued it.
+> **⚠️ THIS MEAL IS NOT CONFIRMED AS EATEN.**
+>
+> It was described earlier in the day as an intention — *"Dinner don't know thinking of high protein pizza"*, then *"Pizza with 300g of chicken"* — and logged here on that basis. **The athlete's end-of-day summary of what he ate lists only: one Brookie, one protein cookie, the Pasta Beast Salad, walnuts and figs. The pizza is absent from that list.**
+>
+> **The day cannot be closed until this is resolved, because the two readings differ by ~124 g of protein.** Both are carried below. The Protein Sandwich was recommended but is not in the athlete's list either, so it is treated as not eaten.
 
-### CONFIRMED TOTAL AT CLOSE OF LOG
-
-**~143 P / ~79 C / ~36 F / ~1225 kcal, ~5.5 g fibre. Water 1.0 L.**
-
-### Meal 3 — PLANNED, NOT YET CONFIRMED
-
-**The athlete has the option to order a Protein Sandwich and has walnuts and figs at home. Daoukiyeh cups are NOT available. This section records the recommendation, not a logged meal.**
+### Meal 4 — walnuts and figs
 
 | Item | P | C | F | Fibre | kcal |
 |---|---|---|---|---|---|
-| Protein Sandwich, 175 g | 67.7 | 21 | ~23 | ~1 g | ~560 |
 | Walnuts, 45 g | ~7 | 4 | 30 | ~3 g | ~295 |
 | Dried figs, 60 g | ~2 | 38 | 0.5 | ~5.6 g | ~145 |
-| **Total** | **~77** | **~63** | **~53** | **~10 g** | **~1000** |
+| **Total** | **~9** | **~42** | **~30.5** | **~8.6 g** | **~440** |
 
-**Why the sandwich rather than more brookies and cookies:** the sandwich is a printed label; the pizza row is an estimate with ±20 g of slack. **Ordering it means that even if the pizza ran 20 g high, the day still lands near 200 g of protein instead of 170.** It buys certainty on the only number that matters tonight.
+**Quantities assumed at the recommended 45 g and 60 g.** The athlete reported "the walnut & the figs" without weights. **Vitamin D was taken — pairing it with 30 g of walnut fat is the best absorption window the day offered.**
 
-**The cost is fibre** — the sandwich carries almost none, so the day finishes ~15.6 g instead of ~19.6 g on the brookie route. **That trade is correct.** Psyllium starts Friday and is the actual fix; protein certainty tonight is worth more than 4 g of fibre.
+### Day Close Against Targets — TWO READINGS
 
-**If the sandwich is not ordered:** two more brookies/cookies (~9.5 g protein each), or 100 g of the low-sodium chelal or nablsi cheese (~22 g). **Hitting the protein floor outranks one more serving of dairy fat**, LDL notwithstanding.
+**Reading A — pizza NOT eaten** *(matches the athlete's own end-of-day list)*
 
-**Sequencing note: figs last.** They are the most osmotically active item on the list and tomorrow's GI read is already noisy.
-
-### Projected Day Close Against Targets
-
-| | Target | **Projected close** | Verdict |
+| | Target | Close | Verdict |
 |---|---|---|---|
-| Protein | **190 to 215 g** | **~220 g** | **Cleared.** ~5 g over the ceiling, inside the pizza estimate's own error bar |
-| Carbs | **250 g cap** | **~142 g** | **Well clear.** 108 g of unused room |
-| Fat | **85 to 95 g** | **~89 g** | **In band** |
-| Calories | 2565 to 2735 | **~2225 kcal** | **~340 under** |
-| Fibre | ~25 g | **~15.6 g** | **~9 g short** |
-| Water | 2 L+ | 1.0 L logged, second litre advised | Behind pace |
+| Protein | **190 to 215 g** | **~78 g** | **112 g SHORT. Severe miss** |
+| Carbs | 250 g cap | ~121 g | Clear |
+| Fat | 85 to 95 g | ~65 g | 20 g under |
+| Calories | 2565 to 2735 | **~1343 kcal** | **~1220 under** |
+| Fibre | ~25 g | **~18 g** | 7 g short, best in four days |
+| Water | 2 L+ | **~2.5 L** | ✅ **Cleared** |
 
-**On the calorie shortfall:** leave it. Forcing 340 kcal late on a no-training day, three days before a cut, costs more in adherence than it returns. **Protein was the number worth chasing and it is covered.**
+**Reading B — pizza eaten**
 
-**On the fibre shortfall:** unavoidable tonight. The bars were carrying 8–10 g and they are out by design. **Do not close it with more figs** — that adds osmotic load in the middle of a test. Psyllium Friday is the answer.
+| | Target | Close | Verdict |
+|---|---|---|---|
+| Protein | **190 to 215 g** | **~202 g** | ✅ **In band** |
+| Carbs | 250 g cap | ~176 g | ✅ 74 g of room |
+| Fat | 85 to 95 g | **~95 g** | ✅ **At the ceiling** |
+| Calories | 2565 to 2735 | ~2348 kcal | ~220 under |
+| Fibre | ~25 g | **~21 g** | **Best fibre day since the bars came out** |
+| Water | 2 L+ | **~2.5 L** | ✅ **Cleared** |
 
-**On the protein target on a rest day:** it does not change. Protein is for tissue maintenance, not for fuelling a session, and it matters more on a day with a large deficit and a cut starting Saturday.
+**Reading B is a genuinely good day. Reading A is the worst protein day in the record.** That is why it must be resolved rather than assumed.
 
-**If the sandwich is skipped**, the alternate close is **~190 P / ~169 C / ~78 F / ~2105 kcal, ~19.6 g fibre** — protein floor met exactly, fat 7 g light, fibre better.
+**If Reading A is correct, no remedial action tonight.** It is late, it is a rest day, and force-feeding 112 g of protein at this hour is neither possible nor useful. **Protein works on a weekly average** — Tuesday was ~218 g and Friday ~220 g, so one low day is absorbed. **The action is to make Thursday and Friday land properly**, with the cut starting Saturday.
+
+**Under either reading, three things are unambiguously good:** water cleared 2.5 L for the first time on record, vitamin D dose 3 is done, and fibre finished at its best level since the bars were removed.
 
 ---
 
@@ -240,6 +261,7 @@ Tomorrow morning reflects **~220 kcal until evening, then one large low-fibre ch
 | Item | Serving | P | C | F | Fibre | kcal | Source |
 |---|---|---|---|---|---|---|---|
 | **Protein Sandwich** | 175 g | **67.7** | **21** | ~23 | ~1 g | **559.9** | Label, athlete photo |
+| **Pasta Beast Salad, no parmesan** | 1 bowl | **~50** | ~55 | ~29 | ~7 g | **~683** | **Vendor P and kcal listed; C and F back-solved.** $13. Best fibre-per-dollar protein meal in the database |
 | **Brookie** | 1 | 9 | 12 | 3 | ~1 g | 120 | Label. **Contains oat flour** |
 | **Protein cookie** | 1 | 10 | 12 | 3 | ~1.5 g | ~100 | Athlete-confirmed. **Contains oats** |
 | **Chelal cheese, low sodium** | 100 g | 22 | 5 | 22 | 0 | ~300 | Label. Sodium 1.1 g |
@@ -286,9 +308,10 @@ Tomorrow morning reflects **~220 kcal until evening, then one large low-fibre ch
 - [ ] **DISCLOSE THE CYCLE TO DR CHALHOUB.** Top of the standing list. The 28 July panel was interpreted without it
 - [ ] **Add to the next draw:** estradiol, LH, FSH, free testosterone, SHBG, prolactin. **Repeat lipids off-cycle**
 - [ ] **TAKE A BLOOD PRESSURE READING.** No on-cycle reading exists anywhere in the file, and bilateral headache is its classic presentation
-- [ ] **VITAMIN D DOSE 3 — still outstanding.** Due today. Take it with the walnuts
-- [ ] **Confirm or decline the Protein Sandwich** so the day close can be finalised rather than projected
-- [ ] **Get a second litre of water in.** 1.0 L in Lebanese August heat, with an active headache and a dry fibre load still to eat
+- [x] **VITAMIN D DOSE 3 — TAKEN.** Cleared
+- [ ] **⚠️ CONFIRM WHETHER THE PIZZA WAS EATEN.** The single unresolved item. It is the difference between a ~202 g protein day and a ~78 g one
+- [ ] **Open the "View Nutrition Facts" dropdown** on the salad next time — one tap removes the carb and fat estimate
+- [x] **Water — ~2.5 L. CLEARED**, and the best figure on record
 - [ ] **Heat on the traps, chin tucks through the day.** Redirect the car vents rather than switching the AC off
 - [ ] **No shrugs, no upright rows Thursday** while the trap/neck pain is active
 - [ ] **Report tomorrow's GI read — but weight it low.** Today's intake was not representative
