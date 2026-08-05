@@ -85,6 +85,33 @@ The leading portion has spent longer in the colon and had more water absorbed fr
 
 **Either way, no action changes today: bars stay out, fibre holds at ~25 g, psyllium starts Friday.**
 
+#### FREQUENCY: one passage today, the morning one only
+
+**Reported at day's end: no second movement.**
+
+| Date | Passages |
+|---|---|
+| 31 July | **3** |
+| 3 August | 2 |
+| 4 August | 2 |
+| **5 August** | **1, morning only** |
+
+**This is not a regression. It is the most normal frequency pattern of the whole record.**
+
+Normal bowel frequency runs from three times a day to three times a week. **Three in a day on 31 July was the outlier** — that was the reading that killed the slow-transit hypothesis, because it fails the frequency criterion for functional constipation outright. **One well-formed morning passage with good relief is the target state, not a shortfall.**
+
+**Frequency falling from 3 to 2 to 1 while consistency firms is exactly the direction of travel that removing an osmotic irritant should produce.** Both variables are moving the same way.
+
+**Intake explains part of it independently.** The day ran to roughly 18:00 on ~220 kcal. **There was almost no food in the system to move**, and the gastrocolic reflex needs a meal to fire. A single passage on a day with one real meal is unremarkable.
+
+#### A caveat on tomorrow's day-three read — it will not be as clean as stated above
+
+**This file said earlier today that day three separates the two hypotheses. That is now overstated, and the reason is today's food.**
+
+Tomorrow morning's stool reflects **~220 kcal until evening, then a single large low-fibre, cheese-heavy pizza** — a day with roughly **6 g of fibre by dinner** and an unusual distribution. That is not a representative input, so **whatever comes out tomorrow is a noisier signal than a normal day would give.**
+
+**Read it, but weight it accordingly.** A clear firming still favours polyols. **A plateau tomorrow should not be treated as evidence against them** — it could as easily reflect a day with one meal in it. If tomorrow is ambiguous, Thursday's read on a normal training-day intake is the better test.
+
 ---
 
 ## 3. Training: no session today, and the rotation shifts
