@@ -168,6 +168,20 @@ The leading portion has spent longer in the colon and had more water absorbed fr
 
 **Yesterday carried ~20 g of saturated fat from 150 g of cheese; tonight's pizza cheese adds more.** The chicken dominates this meal so it is not tonight's problem — **but with LDL at 161.4 the fat should go back to olive oil and walnuts tomorrow.**
 
+### Water
+
+**1.0 L reported by evening.**
+
+| Date | Water |
+|---|---|
+| 2 August | 1.48 L |
+| 3 August | 1+ L at the gym alone, plus intake at home |
+| **5 August** | **1.0 L so far** |
+
+**His stated normal is above 2 L daily**, so this is behind his own pace rather than low in absolute terms — and the evening is still open. **On a no-training day there is no session sweat loss to replace**, which explains part of it.
+
+**Worth topping up tonight for two specific reasons, neither of them alarmist:** the headache has been running all day and low intake will not cause it but will worsen it, and the remaining food on the plan — walnuts and dried figs — is dry, fibrous and needs water to move. **Fibre without fluid firms stool rather than softening it**, which is the opposite of what this week's test is trying to achieve.
+
 ### Targets today
 
 **Full band held — the cut does not start until Saturday.**
