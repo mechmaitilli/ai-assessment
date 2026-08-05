@@ -14,7 +14,7 @@
 | Weight | **Not reported** |
 | Last measured | 88.9 kg (2 Aug) |
 | Session | **NONE.** Early meeting, then delivering training at Bank Audi |
-| Sleep | **Not reported — fourth consecutive night with no data** |
+| Sleep | **Bedtime 23:00 to 23:30** — first sleep data in five nights. Woke ~1 h later than usual by choice |
 | Enhancement status | On cycle — boldenone and testosterone |
 | Phase | Diet break. **Cut begins Saturday 8 August at ~2200 kcal** |
 
@@ -184,11 +184,62 @@ The leading portion has spent longer in the colon and had more water absorbed fr
 
 ---
 
-## 5. Open Items Today
+## 5. Headache and Trap/Neck Pain
 
-- [ ] **Report the stool consistency: formed or loose?** One word, and it is the read the whole bar test was designed for
+**Reported: constant headache on both sides of the head, plus pain in the traps ascending into the neck. Slept an extra hour because of it.**
+
+### The dangerous thing is ruled out
+
+**Chin to chest with no pain rules out meningism.** Neck stiffness that resists forward flexion is the sign that separates a mechanical neck problem from meningeal irritation. He can do it freely, so this is a musculoskeletal and environmental headache, not a red-flag one.
+
+### Two new facts reorder the differential
+
+| Rank | Cause | Evidence |
+|---|---|---|
+| **1** | **Cold draft, two hours of car AC directly on the head** | Sustained cold air on the scalp, neck and upper traps produces local muscle guarding in the cervical extensors and upper trapezius. Referred pain from those muscles is **bilateral, band-like and ascends from the traps into the occiput** — which is precisely the distribution he described. Onset the following day is typical |
+| **2** | **90 minutes of static night work** | Head-forward posture loads the same muscles the draft already tightened. The two stack |
+| **3** | **Caffeine** | ~450 mg Monday, sharply lower since. Withdrawal headache is bilateral and lands 12 to 24 h after a drop. Contributory, not primary |
+| **4** | **Blood pressure** | **Still the one worth actually measuring.** Boldenone and testosterone both raise BP, and bilateral headache is its classic presentation. Last reading 115/68, timing relative to the cycle unknown |
+| **5** | Elevated estradiol | Both compounds aromatise; headache is a recognised effect. Consistent with the facial puffiness, but it does not explain trap pain |
+
+**The AC exposure moves to the top because it is specific, time-locked and explains the trap-to-neck distribution that nothing else on the list does.** Training load was the earlier front-runner; it now drops. Monday's back session and Tuesday's shoulders were heavy, but he trained heavy for weeks without this, and neither one puts cold air on the back of his head.
+
+### What to do
+
+- **Heat, not ice, on the traps and the base of the skull.** This is guarded muscle, not inflammation. Ten to fifteen minutes
+- **Chin tucks and slow neck rotations**, a few times through the day. Gentle range, no stretching into pain
+- **Keep the vents off the head and neck.** Redirect them in the car. This one is preventable and it is the actual lever
+- **Hold caffeine steady** rather than dropping it further while the headache is active. Taper after it settles
+- **Take a blood pressure reading.** Not because of the headache specifically — because he is on cycle and there is no on-cycle reading in the file
+- **Thursday's arms session is fine.** Curls and extensions do not load the cervical spine. Skip shrugs and upright rows this week
+
+**Escalate to Dr Chalhoub if** the headache becomes the worst he has had, arrives with visual disturbance, fever, or any weakness or numbness, or does not improve over 48 hours.
+
+### The extra hour of sleep was the right call
+
+**And it produced the first sleep data in five nights.**
+
+| | |
+|---|---|
+| Reported bedtime | **23:00 to 23:30**, described as his current range |
+| This week's logged nights | 00:06 (Sun), 00:45 (Mon) |
+| Against a normal ~06:35 weekday wake | **roughly 7 to 7.5 hours** |
+| 2026 average on record | ~6 h 27 m |
+
+**An 11:00 to 11:30 bedtime is materially better than the two midnight-plus nights logged earlier this week, and better than the year's average.** It also removes the caveat attached to the Saturday cut date — sleep was the one input that could have argued for delay, and at 7 to 7.5 hours it does not.
+
+**Sleep still needs to be logged as wake time, not just bedtime.** Bedtime is half the number.
+
+---
+
+## 6. Open Items Today
+
+- [x] **Report the stool consistency** — half formed, loose at the end. Directionally positive
 - [ ] **VITAMIN D DOSE 3 IS DUE TODAY, Wednesday 5 August**
-- [ ] **Report sleep. Fourth night with no data** — and it is the one number that could move the cut date
+- [x] **Report sleep** — bedtime 23:00 to 23:30. **Wake time still needed** to close the number
+- [ ] **Take a blood pressure reading.** No on-cycle reading exists in the file, and bilateral headache is its classic presentation
+- [ ] **Keep the car AC off the head and neck.** The single preventable cause of today's headache
+- [ ] **Heat on the traps, chin tucks through the day.** Skip shrugs and upright rows this week
 - [ ] **Eat a composed midday meal.** No session today means no post-workout anchor; the middle of the day has to carry it
 - [ ] **Legs moves to Friday.** Arms stays Thursday
 - [ ] **Start psyllium Friday**, once the bar test has read out
