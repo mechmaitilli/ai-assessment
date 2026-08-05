@@ -54,6 +54,39 @@
 
 ---
 
+### CONSISTENCY REPORTED: half formed, swooshy at the end
+
+**That is the read the test was waiting for, and it is directionally positive without being conclusive.**
+
+| Date | Consistency |
+|---|---|
+| 3 August | **Swooshy throughout**, both passages |
+| 4 August | Swooshy in the morning, **two formed pieces** in the afternoon |
+| **5 August** | **Half formed, loose at the end** |
+
+**The trend is firming across three days.**
+
+#### The formed-then-loose pattern is itself informative
+
+**Formed first and loose last is the signature of a gut still moving slightly fast, in transition toward normal.**
+
+The leading portion has spent longer in the colon and had more water absorbed from it; **the tail is more recent material that has moved through faster than it should.** As transit slows toward normal, the loose fraction shrinks from the back.
+
+**That is exactly what partial resolution looks like, and it is what would be expected on day two of removing an osmotic irritant.**
+
+#### Where this leaves the test
+
+**Day two bar-free shows clear improvement but not resolution.** Two readings are consistent with that:
+
+1. **Polyols were contributing but were not the whole story** — the fibre ramp is still resolving underneath
+2. **Polyols were the driver and the clearing is simply gradual** — 26 to 36 g on 3 August was a large load
+
+**Tomorrow, day three, separates them.** Continued firming favours polyols. A plateau at half-formed favours the fibre ramp needing its full one to two weeks.
+
+**Either way, no action changes today: bars stay out, fibre holds at ~25 g, psyllium starts Friday.**
+
+---
+
 ## 3. Training: no session today, and the rotation shifts
 
 **Reported: early meeting, then delivering training at Bank Audi. Legs was scheduled and will not happen.**
