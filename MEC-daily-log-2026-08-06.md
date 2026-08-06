@@ -103,15 +103,60 @@
 
 ---
 
-## 4. Training: ARMS today
+## 4. Training: ARMS — COMPLETED
 
-| Exercise | Target | Note |
+**Warmup: 5–6 min incline walk, then EZ ramping sets.**
+
+### Session log, as performed
+
+| Exercise | Set | Load | Reps | RIR | Note |
+|---|---|---|---|---|---|
+| EZ curl | W1 | 17.5 kg | 12 | — | Warmup |
+| EZ curl | W2 | 20 kg | 12 | — | Warmup |
+| EZ curl | 1 | 27.5 kg | 12 | 2 | +2 reps on last week at same load |
+| EZ curl | 2 | **32.5 kg** | 9 | 2 | No 2.5 kg increment available — skipped 30 entirely |
+| EZ curl | 3 | **32.5 kg** | 8 | 2 | Clean drop-off |
+| Cable curl, single-arm | 1 | **Pin 20** | 10 | 2 | 5-pin jump absorbed at full reps |
+| Cable curl, single-arm | 2 | Pin 20 | 10 | 2 | Flat reps again |
+| Cable curl, single-arm | 3 | Pin 20 | **12** | **1** | Deliberate test set to true limit |
+| Hammer curl, **simultaneous** | 1 | 12 kg per DB | 14 | 2 | No 12.5s in the rack |
+| Hammer curl, simultaneous | 2 | **14 kg per DB** | 12 | 2 | |
+| Hammer curl, simultaneous | 3 | 14 kg per DB | 12 | 2 | No drop-off |
+| Rope pushdown | 1 | 80 lb | **15** | 2 | Last week's flat 12s exposed |
+| Rope pushdown | 2 | **90 lb** | 11 | 2 | Clean pauses, last rep held 3+ sec |
+| Rope pushdown | 3 | 90 lb | 10 | 2 | |
+| Overhead cable ext, two-handed | 1 | **70 lb** | 12 | 2 | **Shoulder quiet.** Triceps burn only |
+| Overhead cable ext, two-handed | 2 | 70 lb | 10 | 2 | |
+| Kickback machine, two handles | 1 | 12.5 kg | 10 | 2 | **Different machine — new baseline, not comparable to last week's 40 lb** |
+| Kickback machine, two handles | 2 | 12.5 kg | 8 | 2 | Very difficult; end of session |
+
+**~16 working sets. Left shoulder and biceps insertion quiet the entire session, including the overhead position. No shrugs, no upright rows, per constraint.**
+
+### Every single exercise progressed
+
+| Exercise | Last week | **Today** |
 |---|---|---|
-| **EZ bar curl** | **30 kg × 8–10, 2 RIR** | Confirmed anchor, set Tuesday with the shoulder quiet |
-| Remaining arm work | Carry 31 July loads forward, log live | |
-| **Shrugs, upright rows** | **OMITTED** | Trap/neck pain. Reinstate when it settles |
+| EZ curl | 27.5 kg × 10 | **32.5 kg × 9** |
+| Cable curl | Pin 15 × 15 | **Pin 20 × 12** |
+| Hammer curl | 10 kg × 12 alternating-unspecified | **14 kg × 12 simultaneous** |
+| Rope pushdown | 80 lb × 12 flat | **90 lb × 11 with pauses** |
+| Overhead extension | 60 lb × 15 | **70 lb × 12** |
+| Kickback | 40 lb × 15 | New machine, 12.5 kg baseline |
 
-**Watch the left biceps insertion on every curling set.** If the anterior itch from Monday speaks up, switch to neutral/hammer grip before dropping load.
+**The hammer curl style note matters:** today's sets were both arms simultaneously — continuous tension, no per-arm micro-rest — which is the harder version. The 10 → 14 kg jump understates the real progression.
+
+**The RIR calibration keeps proving itself.** The pin-20 test set (12 at 1 RIR after two flat sets of 10 at "2 RIR") shows the burn-termination habit still hides ~2–3 reps. Load decisions should keep leaning on drop-off patterns, not first-set feel.
+
+### Next Arms session targets
+
+| Exercise | Target | Basis |
+|---|---|---|
+| **EZ curl** | **32.5 kg × 9–10**, then 35 when 10 holds twice | 9 and 8 today |
+| **Cable curl** | **Pin 22–23** (or 25 if the stack jumps in fives), expect 8–9 | True 13 RM at pin 20 |
+| **Hammer curl** | **14 kg, aim 13–14 simultaneous**, then 16s | 12 × 3 flat today |
+| **Rope pushdown** | **90 lb, aim 12–13 with pauses** | 11 and 10 today |
+| **Overhead ext** | **70 lb, aim 13–15**, then 80 | 12 and 10, shoulder quiet |
+| **Kickback machine** | **12.5 kg, aim 10–12 both sets** | New baseline set today |
 
 **Tomorrow, Friday: LEGS.** Leg press 190 kg × 8 at 2 RIR.
 
