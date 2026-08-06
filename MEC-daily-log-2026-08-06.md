@@ -3,7 +3,7 @@
 **Date:** Thursday, 6 August 2026
 **Athlete:** Mohamad Eid Chmaitilli (MEC)
 **Prepared for:** Cal (personal trainer) / coaching team
-**Status:** OPEN. Filled as the day runs.
+**Status:** CLOSED. Evening shake and figs projected, not yet confirmed.
 
 ---
 
@@ -13,15 +13,47 @@
 |---|---|
 | Weight | Not reported |
 | Last measured | 88.9 kg, empty stomach, 2 August |
-| Session | **ARMS scheduled.** EZ curl 30 kg anchor. No shrugs, no upright rows |
-| Sleep | Not yet reported. Bedtime range 23:00–23:30 stated yesterday |
+| Session | **ARMS — completed. Every exercise progressed.** Shoulder and biceps insertion quiet throughout |
+| Sleep | Not reported. Bedtime range 23:00–23:30 stated yesterday |
+| Bowel movements | **1 near-nil** — very small pieces, heavy straining, persistent fullness. Zero further all day |
+| Psyllium | **STARTED. Dose 1 (2 caps, 1 g) taken this evening** |
 | Enhancement status | On cycle — boldenone and testosterone |
 | Phase | Diet break, final full day. **Cut begins Saturday 8 August at ~2200 kcal** |
-| Headache | Status not yet reported. Yesterday: bilateral, AC-draft-led differential |
+| Physique target set | **83–82 kg for visible 4-pack separation**, from the athlete's own history. ETA late Oct–early Nov at ~0.5 kg/week |
+| Headache | Status not reported today. Yesterday: bilateral, AC-draft-led differential |
 
 ---
 
-## 2. GI: THE DAY-THREE READ IS IN, AND IT OVERSHOT
+## 2. Active Constraints
+
+**Training**
+
+- [x] **NO OVERHEAD PRESSING.** Standing, permanent
+- [x] **No incline dumbbell curls** — provokes the cuff, excluded 31 July
+- [x] **No shrugs, no upright rows** while the trap/neck pain settles
+- [x] **Dumbbell entry protocol** on all pressing days
+
+**Nutrition**
+
+- [x] **No whey** (bars/shakes stay by the athlete's 31 July decision — recorded, not reopened)
+- [x] **No labneh** / **No fish**
+- [x] **Red meat: exclusion BREACHED today ×3** (meat skewers, kafta, sausages). **Formal decision requested: permanent or officially back**
+- [x] ~~No oats~~ — cleared 4 August
+- [x] **Carbs 250 g cap** / **Protein 190–215 g**
+- [x] **Caffeine under 400 mg** — today ~60–80 mg, compliant
+- [x] **Polyol bars out permanently** — confirmed the driver of the loose-stool phase
+- [x] **Dairy/saturated fat limited**, LDL 161.4
+
+**Medical**
+
+- [x] **On cycle** — the 28 July panel's testosterone, lipids, creatinine sections carry corrections
+- [x] **Dr Chalhoub not yet told.** Top standing item
+
+---
+
+## 3. Issue Status
+
+### 3a. GI — THE DAY-THREE READ IS IN, AND IT OVERSHOT
 
 **Reported: almost no movement — very small pieces, heavy pushing, and a persistent sense that the gut is full and needs to move.**
 
@@ -75,7 +107,7 @@
 
 ---
 
-## 3. Nutrition Log
+## 5. Nutrition Log
 
 ### Morning
 
@@ -163,20 +195,26 @@
 | Fat | 85 to 95 g | **AT FLOOR of band — nothing more fatty today** |
 | Calories | 2565 to 2735 | ~355 to 525 |
 
-### Targets today
+### Projected Day Close Against Targets
 
-| | Target | Still to find |
-|---|---|---|
-| Protein | 190 to 215 g | **~182 to 207 g** |
-| Carbs | 250 g cap | ~229 g of room |
-| Fat | 85 to 95 g | **~80 to 90 g** |
-| Calories | 2565 to 2735 | **~2415 to 2585** |
-| Fibre | ~25 g | ~24 g, **plus psyllium starting today** |
-| Water | 2 L+, repeat of yesterday's 2.5 L | Essential with psyllium |
+**The evening close was prescribed as: one scoop shake in water (~25 P), 60 g figs, water alongside. Projected, not yet confirmed.**
+
+| | Target | Projected close | Verdict |
+|---|---|---|---|
+| Protein | **190 to 215 g** | **~205 g** | ✅ In band |
+| Carbs | **250 g cap** | **~205 g** | ✅ 45 g of room |
+| Fat | **85 to 95 g** | **~87 g** | ✅ In band |
+| Calories | 2565 to 2735 | **~2475** | ✅ In band |
+| Fibre | ~25 g | **~18 g + 1 g psyllium** | ~6 g short |
+| Water | 2 L+ | Not fully reported | Psyllium makes it mandatory |
+
+**If the shake and figs are skipped, the confirmed floor is ~178.5 P / ~161 C / ~86 F / ~2210 kcal** — protein ~11 g under the floor, absorbed by the weekly average if it happens.
+
+**Structural note: protein-at-noon worked for the second consecutive day.** A ~150 kcal opening cost nothing because lunch carried ~88 g. Tomorrow is the last day before the cut; same shape applies.
 
 ---
 
-## 4. Training: ARMS — COMPLETED
+## 4. Training Log: ARMS — COMPLETED
 
 **Warmup: 5–6 min incline walk, then EZ ramping sets.**
 
@@ -235,17 +273,58 @@
 
 ---
 
-## 5. Open Items Today
+## 6. Verified Food Database
 
-- [ ] **START PSYLLIUM TODAY.** 1 tsp in a full glass of water with a meal. The bar test has read out; nothing left to confound
-- [ ] **Repeat yesterday's ~2.5 L of water.** Psyllium demands it
-- [ ] **Do not strain.** If it will not come, wait for the post-meal urge
-- [ ] **Eat a real midday meal.** Arms day on a 150 kcal opening; protein-at-noon is the proven structure
-- [ ] **Report the headache status** — better, same, or worse than yesterday
+**Additions and changes today only — full table carried in the 5 August entry.**
+
+| Item | Serving | P | C | F | Fibre | kcal | Source |
+|---|---|---|---|---|---|---|---|
+| **Sona FibrePlan psyllium** | 2 capsules | 0 | 0 (1 g fibre) | 0 | **1 g** | ~4 | **Label: 1000 mg husk per 2 caps, husk + HPMC shell only** |
+| Mhalabieh, small | 1 | ~3 | ~15 | ~3 | 0 | ~100 | Athlete estimate (~100 kcal, 80% milk) |
+| Lebanese grill plate | as eaten | ~88 | ~68 | ~63 | ~9 | ~1185 | **Estimated**, typical portions, ±15 g protein |
+
+**Supplements**
+
+| Item | Status |
+|---|---|
+| **Psyllium (Sona FibrePlan)** | **Dose 1 taken tonight.** Ramp: Fri 2+2, Sat 3+3, Sun 4+4 caps (4 g working dose). Bottle = 30 g ≈ 8 days — **powder goes on the shopping list** |
+| MagneFix (Mg bisglycinate 300 + B6) | Nightly, for sleep. Not the constipation tool |
+| Vitamin D | Dose 3 taken 5 Aug. **Dose 4 due Saturday 8 Aug** |
+
+---
+
+## 7. Weekly Pro Split
+
+| Day | Session | Status |
+|---|---|---|
+| Sat 1 Aug | Chest | ✅ DB press to 40 kg × 7 |
+| Sun 2 Aug | Rest | ✅ |
+| Mon 3 Aug | Back | ✅ Pulldown 100 kg × 8 |
+| Tue 4 Aug | Shoulders | ✅ No overhead pressing |
+| Wed 5 Aug | Rest (Legs displaced) | ✅ Bank Audi delivery day |
+| **Thu 6 Aug** | **ARMS** | ✅ **Completed — every exercise progressed** |
+| Fri 7 Aug | **LEGS** | Leg press 190 kg × 8 at 2 RIR |
+| Sat 8 Aug | Chest | **CUT BEGINS: ~2200 kcal, protein held 190–215** |
+
+**Physique target now on the record: 83–82 kg for visible 4-pack separation** (athlete's own historical threshold; the bottom fifth pack never separates even at 6% BF — anatomy, not fat). **~5.5–6.5 kg of fat at ~0.5 kg/week → late October–early November.** Week one of the cut will drop 1.5–2 kg of water/glycogen — cosmetic, not the trend.
+
+---
+
+## 8. Open Items for the Trainer
+
+- [x] **PSYLLIUM STARTED** — dose 1 (2 caps, 1 g) taken with water. Ramp to 4 g by Sunday
+- [ ] **Confirm the evening close** — shake and figs prescribed, not yet confirmed
+- [ ] **DECIDE THE RED MEAT RULE.** Breached ×3 at lunch; permanent exclusion or officially back — one answer, on the record
+- [ ] **Tomorrow: LEGS, leg press 190 × 8 at 2 RIR.** Last training day before the cut
+- [ ] **Fri psyllium: 2 caps with breakfast, 2 with dinner.** Full glass of water each side
+- [ ] **Do not strain.** Wait for the post-meal urge
+- [ ] **Zero meaningful movement by Sunday → magnesium citrate via Dr Chalhoub.** Comfort does not wait on the psyllium's fair trial (~Tue)
+- [ ] **Report the headache status** — not mentioned once today; if it is gone, that confirms the AC-draft read
 - [ ] **Report sleep with a wake time**
-- [ ] **Blood pressure reading — still outstanding**, and still the one worth doing
-- [ ] **Arms session: report loads live.** No shrugs, no upright rows
-- [ ] If no meaningful movement by Sunday despite psyllium and water, **raise magnesium citrate with Dr Chalhoub**
+- [ ] **Blood pressure reading — still outstanding.** No on-cycle reading exists
+- [ ] **Buy psyllium husk powder** before the 60-cap bottle runs out
+- [ ] **DISCLOSE THE CYCLE TO DR CHALHOUB.** Standing, top of list
+- [ ] **Saturday: cut begins at ~2200 kcal** — and vitamin D dose 4 is due
 
 ---
 
