@@ -3,7 +3,7 @@
 **Date:** Thursday, 6 August 2026
 **Athlete:** Mohamad Eid Chmaitilli (MEC)
 **Prepared for:** Cal (personal trainer) / coaching team
-**Status:** CLOSED. Evening shake and figs projected, not yet confirmed.
+**Status:** CLOSED AND CONFIRMED. Evening close: one protein cookie (not the shake and figs).
 
 ---
 
@@ -195,20 +195,22 @@
 | Fat | 85 to 95 g | **AT FLOOR of band — nothing more fatty today** |
 | Calories | 2565 to 2735 | ~355 to 525 |
 
-### Projected Day Close Against Targets
+### Day Close Against Targets — CONFIRMED
 
-**The evening close was prescribed as: one scoop shake in water (~25 P), 60 g figs, water alongside. Projected, not yet confirmed.**
+**Actual evening close: one protein cookie (10 P / 12 C / 3 F / ~100 kcal). The prescribed shake and figs were not eaten.**
 
-| | Target | Projected close | Verdict |
+| | Target | Close | Verdict |
 |---|---|---|---|
-| Protein | **190 to 215 g** | **~205 g** | ✅ In band |
-| Carbs | **250 g cap** | **~205 g** | ✅ 45 g of room |
-| Fat | **85 to 95 g** | **~87 g** | ✅ In band |
-| Calories | 2565 to 2735 | **~2475** | ✅ In band |
-| Fibre | ~25 g | **~18 g + 1 g psyllium** | ~6 g short |
+| Protein | **190 to 215 g** | **~188.5 g** | **~1.5 g under the floor — inside the lunch estimate's ±15 g, effectively at floor** |
+| Carbs | **250 g cap** | **~173 g** | ✅ 77 g of room |
+| Fat | **85 to 95 g** | **~89 g** | ✅ In band |
+| Calories | 2565 to 2735 | **~2310 kcal** | ~255 under |
+| Fibre | ~25 g | **~13 g + 1 g psyllium** | **~11 g short — the figs were the fibre item and they were skipped** |
 | Water | 2 L+ | Not fully reported | Psyllium makes it mandatory |
 
-**If the shake and figs are skipped, the confirmed floor is ~178.5 P / ~161 C / ~86 F / ~2210 kcal** — protein ~11 g under the floor, absorbed by the weekly average if it happens.
+**Protein effectively lands on the floor** — the lunch estimate's error bar comfortably covers 1.5 g. On the week: ~202 g yesterday, ~188.5 today, both around a heavy training load. No remedial action.
+
+**The real miss is fibre at ~14 g, on the very day hard stool returned.** The figs were the item that would have carried it. Tomorrow they go back in — with water — alongside psyllium 2+2.
 
 **Structural note: protein-at-noon worked for the second consecutive day.** A ~150 kcal opening cost nothing because lunch carried ~88 g. Tomorrow is the last day before the cut; same shape applies.
 
