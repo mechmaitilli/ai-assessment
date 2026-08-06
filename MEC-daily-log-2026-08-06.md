@@ -107,7 +107,7 @@
 
 ---
 
-## 5. Nutrition Log
+## 4. Nutrition Log
 
 ### Morning
 
@@ -214,7 +214,7 @@
 
 ---
 
-## 4. Training Log: ARMS — COMPLETED
+## 5. Training Log: ARMS — COMPLETED
 
 **Warmup: 5–6 min incline walk, then EZ ramping sets.**
 
