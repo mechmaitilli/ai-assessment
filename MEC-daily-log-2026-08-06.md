@@ -104,6 +104,65 @@
 
 **Protein still to find: ~138–163 g.** Same shape as yesterday — the noon meal has to be the anchor, and yesterday proved it works.
 
+### Meal 3 — lunch, Lebanese grill
+
+| Item | P | C | F | kcal |
+|---|---|---|---|---|
+| Fatoush (no fried bread assumed) | ~4 | ~20 | ~10 | ~180 |
+| Tannour, 1 | ~6 | ~30 | ~1 | ~155 |
+| Meat skewers × 2 | ~30 | 0 | ~14 | ~250 |
+| Kafta skewer × 1 | ~15 | ~2 | ~10 | ~160 |
+| Taouk skewer × 1 | ~20 | 0 | ~3 | ~110 |
+| Mhamara 2 tbsp + 1 walnut | ~2 | ~8 | ~8 | ~110 |
+| Balileh, 1 tbsp | ~1.5 | ~4 | ~1 | ~30 |
+| Sausages × 2 | ~7 | ~1 | ~10 | ~120 |
+| Fresh almonds × 10 | ~2.5 | ~2.5 | ~6 | ~70 |
+| **Total** | **~88** | **~68** | **~63** | **~1185** |
+
+**Estimated at typical restaurant portions; protein could swing ±15 g.**
+
+**RED MEAT DEVIATION, three items:** the meat skewers, the kafta, and the sausages all breach the standing red-meat exclusion. **The exclusion is self-imposed and its status — permanent or one-off — has been an open question for over a week.** Today resolves it in practice: it is not being followed. The athlete is asked to settle it formally. Saturated fat for the meal ran ~25–30 g against LDL 161.4; grilled-meat days should stay occasional either way.
+
+### Meal 4 — evening
+
+| Item | P | C | F | kcal |
+|---|---|---|---|---|
+| Protein cookie, 1 | 10 | 12 | 3 | ~100 |
+| Brookie, 1 | 9 | 12 | 3 | ~120 |
+| **Total** | **19** | **24** | **6** | **~220** |
+
+### PSYLLIUM STARTED — dose 1 taken
+
+**Product identified from the label: Sona FibrePlan, psyllium husk capsules, 500 mg each (1000 mg per 2 capsules), pure husk + HPMC shell, no additives.**
+
+**Dose 1: 2 capsules (1 g) taken this evening with water.** Ramp set:
+
+| Day | Dose | Daily total |
+|---|---|---|
+| Thu 6 Aug (tonight) | 2 caps | **1 g — taken** |
+| Fri 7 Aug | 2 + 2 with meals | 2 g |
+| Sat 8 Aug | 3 + 3 | 3 g |
+| Sun 9 Aug on | 4 + 4 | **4 g, working dose** |
+
+**Every dose with a full glass of water before and a second after.** The bottle holds 30 g total (~8 days at working dose) — **psyllium husk powder goes on the shopping list** as the sustainable form.
+
+**Checkpoint unchanged: zero meaningful movement by Sunday → magnesium citrate conversation with Dr Chalhoub.** A fair verdict on psyllium itself needs the 4 g dose until ~Tuesday, but comfort does not wait on a fair trial.
+
+### GI through the day
+
+**No further movement after the small strained morning passage — zero by evening.** Consistent with the hard/slow pattern; day one of correction, no action beyond the dose and water.
+
+### Running total at evening
+
+**~178.5 P / ~161 C / ~86 F / ~2210 kcal.**
+
+| | Target | Still to find |
+|---|---|---|
+| Protein | 190 to 215 g | **~12 to 36 g — one lean item closes it** |
+| Carbs | 250 g cap | ~89 g of room |
+| Fat | 85 to 95 g | **AT FLOOR of band — nothing more fatty today** |
+| Calories | 2565 to 2735 | ~355 to 525 |
+
 ### Targets today
 
 | | Target | Still to find |
