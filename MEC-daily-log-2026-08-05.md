@@ -3,7 +3,7 @@
 **Date:** Wednesday, 5 August 2026
 **Athlete:** Mohamad Eid Chmaitilli (MEC)
 **Prepared for:** Cal (personal trainer) / coaching team
-**Status:** CLOSED for the day. Evening meal projected, not yet confirmed.
+**Status:** CLOSED AND CONFIRMED. All four meals verified by the athlete.
 
 ---
 
@@ -82,15 +82,15 @@
 
 **Formed-first, loose-last is itself informative.** The leading portion has spent longer in the colon with more water absorbed; the tail is more recent material moving faster than it should. As transit slows toward normal, the loose fraction shrinks from the back. **That is what partial resolution looks like.**
 
-**Intake explains part of today's single passage independently.** The day ran to roughly 18:00 on ~220 kcal. There was almost nothing in the system to move, and the gastrocolic reflex needs a meal to fire.
+**One passage on a normally-fed day is a stronger positive read than one passage on a starved day.** An earlier version of this entry attributed the single passage partly to there being little in the system to move. **That reasoning is withdrawn** — the pizza landed at midday, so there was a substantial meal in the system by early afternoon and the gastrocolic reflex had something to fire on. **The single, well-formed, strain-free passage therefore reflects transit itself, not an empty gut.**
 
-#### Caveat on tomorrow's day-three read
+#### Tomorrow's day-three read is a GOOD test after all
 
-**This file said earlier today that day three separates the two hypotheses. That was overstated.**
+**This file twice said tomorrow's read would be noisy, on the basis that the day ran to 18:00 on ~220 kcal and then closed on one large low-fibre meal. That was wrong on the facts and the caveat is withdrawn.**
 
-Tomorrow morning reflects **~220 kcal until evening, then one large low-fibre cheese-heavy pizza** — roughly 6 g of fibre by dinner and an abnormal distribution. **Whatever comes out tomorrow is a noisier signal than a normal day would give.**
+**Today was in fact well distributed:** ~220 kcal at breakfast, ~1005 at noon, ~683 mid-evening, ~440 to close — with **~21 g of fibre**, the highest since the bars were removed. That is a normal, representative day.
 
-**Read it, but weight it accordingly.** Clear firming still favours polyols. **A plateau should NOT be treated as evidence against them** — it could as easily reflect a day with one meal in it. If tomorrow is ambiguous, **Thursday's read on normal training-day intake is the better test.**
+**So tomorrow morning is a clean day-three read, and it carries its full weight.** Continued firming favours polyols as the driver. A plateau at half-formed favours the fibre ramp still needing its full one to two weeks.
 
 **No action changes: bars stay out, psyllium starts Friday 7 August.**
 
@@ -176,9 +176,23 @@ Tomorrow morning reflects **~220 kcal until evening, then one large low-fibre ch
 | 4 August | ~130 kcal |
 | **5 August** | **~220 kcal** |
 
-**2 August remains the only properly fed start in four days, and it produced the best day of the week.** The heat is a real contributor here — it suppresses appetite, and it is a large part of why the day ran to 18:00 on 220 calories.
+**2 August remains the only properly fed start in four days.** The heat is a real contributor — it suppresses appetite, and a 220 kcal breakfast in Lebanese August is not surprising.
 
-### Meal 2 — Pasta Beast Salad, no parmesan
+**But the light opening did not cost anything today, because the midday meal was large.** Protein landed at noon rather than at breakfast. That is a viable structure and it worked.
+
+### Meal 2 — NOON: high-protein pizza with 300 g chicken
+
+| Item | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|
+| Grilled chicken, 300 g | ~93 | 0 | ~11 | 0 | ~495 |
+| Pizza base, cheese, sauce | ~31 | ~55 | ~19 | ~3 g | ~510 |
+| **Total** | **~124** | **~55** | **~30** | **~3 g** | **~1005** |
+
+**ESTIMATED, and recorded as such at the athlete's instruction.** The vendor does not list macros. **The chicken figure is reliable; the base and cheese are inferred and could swing protein by ±20 g.**
+
+**This meal was eaten at NOON, not in the evening.** An earlier version of this entry placed it as dinner and built several conclusions on that — that the day ran to 18:00 on ~220 kcal, that this was "the meal that rescued it", and that the intake pattern made tomorrow's GI read unreliable. **All three are withdrawn.** Protein landed at midday and the day was well distributed from there.
+
+### Meal 3 — evening: Pasta Beast Salad, no parmesan
 
 **Vendor listing: 748 kcal, 55 g protein.** Romaine, rocca, pasta, grilled corn, mushrooms, red peppers, boiled eggs, chicken breast, avocado-mustard dressing. **Parmesan removed at the athlete's request.**
 
@@ -196,21 +210,7 @@ Tomorrow morning reflects **~220 kcal until evening, then one large low-fibre ch
 
 **One ask: open the Nutrition Facts dropdown next time.** One tap removes the estimate on carbs and fat entirely.
 
-### Meal 3 — high-protein pizza with 300 g chicken — ⚠️ CONFIRMATION PENDING
-
-| Item | P | C | F | Fibre | kcal |
-|---|---|---|---|---|---|
-| Grilled chicken, 300 g | ~93 | 0 | ~11 | 0 | ~495 |
-| Pizza base, cheese, sauce | ~31 | ~55 | ~19 | ~3 g | ~510 |
-| **Total** | **~124** | **~55** | **~30** | **~3 g** | **~1005** |
-
-**ESTIMATED, and recorded as such at the athlete's instruction.** The vendor does not list macros. **The chicken figure is reliable; the base and cheese are inferred and could swing protein by ±20 g.**
-
-> **⚠️ THIS MEAL IS NOT CONFIRMED AS EATEN.**
->
-> It was described earlier in the day as an intention — *"Dinner don't know thinking of high protein pizza"*, then *"Pizza with 300g of chicken"* — and logged here on that basis. **The athlete's end-of-day summary of what he ate lists only: one Brookie, one protein cookie, the Pasta Beast Salad, walnuts and figs. The pizza is absent from that list.**
->
-> **The day cannot be closed until this is resolved, because the two readings differ by ~124 g of protein.** Both are carried below. The Protein Sandwich was recommended but is not in the athlete's list either, so it is treated as not eaten.
+**The Protein Sandwich was recommended earlier and was not needed.** The salad covered the same protein gap with seven times the fibre.
 
 ### Meal 4 — walnuts and figs
 
@@ -222,35 +222,39 @@ Tomorrow morning reflects **~220 kcal until evening, then one large low-fibre ch
 
 **Quantities assumed at the recommended 45 g and 60 g.** The athlete reported "the walnut & the figs" without weights. **Vitamin D was taken — pairing it with 30 g of walnut fat is the best absorption window the day offered.**
 
-### Day Close Against Targets — TWO READINGS
+### Day Close Against Targets — CONFIRMED
 
-**Reading A — pizza NOT eaten** *(matches the athlete's own end-of-day list)*
+**CONFIRMED. All four meals eaten.**
 
-| | Target | Close | Verdict |
-|---|---|---|---|
-| Protein | **190 to 215 g** | **~78 g** | **112 g SHORT. Severe miss** |
-| Carbs | 250 g cap | ~121 g | Clear |
-| Fat | 85 to 95 g | ~65 g | 20 g under |
-| Calories | 2565 to 2735 | **~1343 kcal** | **~1220 under** |
-| Fibre | ~25 g | **~18 g** | 7 g short, best in four days |
-| Water | 2 L+ | **~2.5 L** | ✅ **Cleared** |
-
-**Reading B — pizza eaten**
+| Meal | Time | P | C | F | Fibre | kcal |
+|---|---|---|---|---|---|---|
+| 1. Brookie + protein cookie | Morning | 19 | 24 | 6 | ~2.5 g | ~220 |
+| 2. Pizza, 300 g chicken | **Noon** | ~124 | ~55 | ~30 | ~3 g | ~1005 |
+| 3. Pasta Beast Salad, no parmesan | Evening | ~50 | ~55 | ~29 | ~7 g | ~683 |
+| 4. Walnuts 45 g + figs 60 g | Late | ~9 | ~42 | ~30.5 | ~8.6 g | ~440 |
+| **DAY TOTAL** | | **~202** | **~176** | **~95.5** | **~21 g** | **~2348** |
 
 | | Target | Close | Verdict |
 |---|---|---|---|
 | Protein | **190 to 215 g** | **~202 g** | ✅ **In band** |
-| Carbs | 250 g cap | ~176 g | ✅ 74 g of room |
-| Fat | 85 to 95 g | **~95 g** | ✅ **At the ceiling** |
+| Carbs | **250 g cap** | **~176 g** | ✅ **74 g of room** |
+| Fat | **85 to 95 g** | **~95.5 g** | ✅ **At the ceiling** |
 | Calories | 2565 to 2735 | ~2348 kcal | ~220 under |
-| Fibre | ~25 g | **~21 g** | **Best fibre day since the bars came out** |
-| Water | 2 L+ | **~2.5 L** | ✅ **Cleared** |
+| Fibre | ~25 g | **~21 g** | 4 g short. **Best since the bars came out** |
+| Water | 2 L+ | **~2.5 L** | ✅ **Best figure on record** |
+| Vitamin D | Dose 3 due | **Taken** | ✅ |
 
-**Reading B is a genuinely good day. Reading A is the worst protein day in the record.** That is why it must be resolved rather than assumed.
+**Three of the four macro targets land inside their bands on a day with no training and no plan.**
 
-**If Reading A is correct, no remedial action tonight.** It is late, it is a rest day, and force-feeding 112 g of protein at this hour is neither possible nor useful. **Protein works on a weekly average** — Tuesday was ~218 g and Friday ~220 g, so one low day is absorbed. **The action is to make Thursday and Friday land properly**, with the cut starting Saturday.
+**The ~220 kcal shortfall is immaterial** and does not need chasing. On a rest day, three days before a cut, with protein covered and fat at ceiling, the difference is noise.
 
-**Under either reading, three things are unambiguously good:** water cleared 2.5 L for the first time on record, vitamin D dose 3 is done, and fibre finished at its best level since the bars were removed.
+**Fibre at ~21 g is the number worth noting.** It has not been near this since the polyol bars were removed, and it got there from real food — the salad's vegetables and pasta, plus the figs and walnuts — rather than from a fortified product. **That is the pattern to repeat, and it makes Friday's psyllium a top-up rather than a rescue.**
+
+#### What made this day work
+
+**Protein landed at noon, not at night.** The 220 kcal breakfast did not matter because the midday meal was large. **This is the second structure in the file that works** — 2 August did it by front-loading breakfast; today did it by front-loading lunch. Both beat the pattern of arriving at 21:00 with 150 g still to find.
+
+**The salad did the job the Protein Sandwich was recommended for, and did it better.** Same protein gap closed, seven times the fibre, and it displaced a second dairy-fat serving. **It should become the default delivery order.**
 
 ---
 
@@ -309,8 +313,9 @@ Tomorrow morning reflects **~220 kcal until evening, then one large low-fibre ch
 - [ ] **Add to the next draw:** estradiol, LH, FSH, free testosterone, SHBG, prolactin. **Repeat lipids off-cycle**
 - [ ] **TAKE A BLOOD PRESSURE READING.** No on-cycle reading exists anywhere in the file, and bilateral headache is its classic presentation
 - [x] **VITAMIN D DOSE 3 — TAKEN.** Cleared
-- [ ] **⚠️ CONFIRM WHETHER THE PIZZA WAS EATEN.** The single unresolved item. It is the difference between a ~202 g protein day and a ~78 g one
+- [x] **Day close confirmed.** All four meals eaten. **~202 P / ~176 C / ~95.5 F / ~2348 kcal, ~21 g fibre**
 - [ ] **Open the "View Nutrition Facts" dropdown** on the salad next time — one tap removes the carb and fat estimate
+- [ ] **Make the Pasta Beast Salad the default delivery order.** ~50 g protein and ~7 g fibre for $13, and it displaces a dairy-fat serving
 - [x] **Water — ~2.5 L. CLEARED**, and the best figure on record
 - [ ] **Heat on the traps, chin tucks through the day.** Redirect the car vents rather than switching the AC off
 - [ ] **No shrugs, no upright rows Thursday** while the trap/neck pain is active
