@@ -283,7 +283,7 @@
 | Item | Detail | Status |
 |---|---|---|
 | **MagneFix** | **Magnesium bisglycinate 300 mg + vitamin B6 25 mg** | Nightly, for sleep. **Not an osmotic laxative** — chelated, absorbed in the small intestine |
-| **Vitamin D** | Dose 3 due **today, 5 August** | **STILL OUTSTANDING.** Take with the walnuts — fat-soluble, and 30 g of fat is the best absorption window today |
+| **Vitamin D** | Dose 3, due today | **TAKEN**, with the evening walnuts — fat-soluble, and 30 g of fat was the day's best absorption window |
 | **Psyllium husk** | Not started | **Starts Friday 7 August**, deliberately deferred so it does not confound the bar test |
 
 **Open question carried forward:** is the MagneFix 300 mg the compound or the elemental magnesium? Roughly a tenfold difference in effective dose.
@@ -319,7 +319,7 @@
 - [x] **Water — ~2.5 L. CLEARED**, and the best figure on record
 - [ ] **Heat on the traps, chin tucks through the day.** Redirect the car vents rather than switching the AC off
 - [ ] **No shrugs, no upright rows Thursday** while the trap/neck pain is active
-- [ ] **Report tomorrow's GI read — but weight it low.** Today's intake was not representative
+- [ ] **Report tomorrow's GI read — it carries full weight.** Today was a normal, well-distributed day, so it is a clean day-three test
 - [ ] **Log wake times, not just bedtimes.** Bedtime is half the number
 - [ ] **Start psyllium Friday 7 August**, once the bar test has read out
 - [ ] **Legs on Friday, Arms Thursday.** Confirm both fit around the work schedule
