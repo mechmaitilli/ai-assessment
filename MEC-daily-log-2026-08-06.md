@@ -90,6 +90,20 @@
 
 **Fourth consecutive light opening (~150 kcal), and today it matters more than yesterday** — this is an Arms day. The midday meal has to be real: yesterday proved protein-at-noon works, and today needs the same structure. **~190 g of protein still to find, and a session to fuel.**
 
+### Meal 2 — post-workout
+
+| Item | P | C | F | kcal |
+|---|---|---|---|---|
+| Protein shake + banana, blended | ~31 | ~30 | ~2 | ~255 |
+| Brookie × 1.5 | 13.5 | 18 | 4.5 | 180 |
+| **Total** | **~44.5** | **~48** | **~6.5** | **~435** |
+
+**Post-workout protein lands at ~44.5 g against the 40–50 g ask — on target.** Shake composition assumed as his standard build (whey scoop + banana, water-blended); recorded per the athlete's standing 31 July decision that bars and shakes stay.
+
+**Running total: ~52.5 P / ~69 C / ~11 F / ~585 kcal.**
+
+**Protein still to find: ~138–163 g.** Same shape as yesterday — the noon meal has to be the anchor, and yesterday proved it works.
+
 ### Targets today
 
 | | Target | Still to find |
