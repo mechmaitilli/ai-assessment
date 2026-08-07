@@ -15,7 +15,7 @@
 | Last measured | 88.9 kg, empty stomach, 2 August |
 | Session | **NONE — driving licence errand from ~07:30.** Legs moved to Saturday |
 | Bowel movement | **GOOD — the athlete's own word, first positive morning read since Wednesday** |
-| Psyllium | Day 2: **morning 2 caps taken with breakfast.** Evening 2 caps due with dinner |
+| Psyllium | **Day 2 COMPLETE — 2 + 2 taken** (2 g total). Ramp: 3 + 3 tomorrow |
 | Enhancement status | On cycle — boldenone and testosterone |
 | Phase | **LAST DAY of the diet break. Cut begins tomorrow, Saturday 8 August, ~2200 kcal** |
 
