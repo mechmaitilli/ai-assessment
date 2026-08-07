@@ -159,7 +159,36 @@
 
 ---
 
-## 5. Open Items Today
+## 5. Verified Food Database — additions today
+
+| Item | Serving | P | C | F | kcal | Source |
+|---|---|---|---|---|---|---|
+| **NitroTech vanilla** | 1 scoop | ~30 | ~3 | ~2.5 | ~160 | Label-standard. **Carries ~3 g creatine per scoop** — relevant to the creatinine reading on the next draw |
+| **~~Kaimun double chocolate bar~~** | 55 g | 20 | 17 | 7.7 | 201 | **EXCLUDED — 14 g polyols per bar, label-read** |
+| Protein balls | 2 | ~10 | ~14 | ~8 | ~170 | Estimate |
+| Biga pizza slice, margarita | 1 | ~5 | ~25 | ~7 | ~185 | Estimate |
+| Biga pizza slice, pepperoni | 1 | ~7 | ~25 | ~10 | ~220 | Estimate. **Processed red meat** |
+
+**Supplement decisions today:** NitroTech IN (the cut's protein-closer). **CLA OUT** — free with the protein, gifted away; trivial fat-loss evidence and a known association with lowering HDL, which at 46 is the panel's most damaged number.
+
+---
+
+## 6. Weekly Pro Split
+
+| Day | Session | Status |
+|---|---|---|
+| Mon 3 Aug | Back | ✅ |
+| Tue 4 Aug | Shoulders | ✅ |
+| Wed 5 Aug | Rest (Legs displaced) | ✅ |
+| Thu 6 Aug | Arms — every exercise progressed | ✅ |
+| **Fri 7 Aug** | **Rest — driving licence** | ✅ |
+| **Sat 8 Aug** | **LEGS, 190 × 8 anchor. CUT BEGINS ~2200 kcal. Vitamin D dose 4. Psyllium 3 + 3** | |
+| Sun 9 Aug | Rest | |
+| Mon 10 Aug | Chest | |
+
+---
+
+## 7. Open Items Today
 
 - [ ] **Report the morning movement's consistency — formed or loose?** One word completes the read
 - [x] **Evening psyllium taken** — day 2 complete at 2 g
