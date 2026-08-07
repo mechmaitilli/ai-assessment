@@ -3,7 +3,7 @@
 **Date:** Friday, 7 August 2026
 **Athlete:** Mohamad Eid Chmaitilli (MEC)
 **Prepared for:** Cal (personal trainer) / coaching team
-**Status:** OPEN. Filled as the day runs.
+**Status:** CLOSED AND CONFIRMED.
 
 ---
 
@@ -102,6 +102,34 @@
 
 **Evening plan: cookie + brookie or a small shake (protein), figs AND walnuts (fibre + fat, both fit), psyllium 2 caps with dinner, water toward 2.5 L.**
 
+### Meal 4 — evening close, as eaten
+
+| Item | P | C | F | kcal |
+|---|---|---|---|---|
+| Slice, biga margarita | ~5 | ~25 | ~7 | ~185 |
+| Slice, pepperoni | ~7 | ~25 | ~10 | ~220 |
+| **NitroTech vanilla, 1 scoop + banana** | ~31 | ~30 | ~3 | ~265 |
+| Walnuts, ~30 g | ~4.5 | ~4 | ~20 | ~196 |
+| Psyllium, 2 caps (evening dose ✅) | 0 | 1 g fibre | 0 | ~4 |
+| **Total** | **~47.5** | **~84** | **~40** | **~870** |
+
+**Pepperoni note: processed red meat — the red-meat rule is now breached on consecutive days while formally excluded. The one-word verdict (in or out) is still owed.**
+
+**NitroTech's first logged use — bought today with a free CLA tub. The CLA is advised against and being gifted away: trivial fat-loss evidence, and a known association with lowering HDL, which at 46 is the panel's most damaged number. NitroTech enters the database (~30 P / 3 C / 2.5 F / ~160 kcal per scoop, carries ~3 g creatine).**
+
+### DAY CLOSE — CONFIRMED
+
+| | Target | Close | Verdict |
+|---|---|---|---|
+| Protein | **190 to 215 g** | **~216 g** | ✅ At ceiling, 1 g over is noise |
+| Carbs | **250 g cap** | **~179 g** | ✅ 71 g of room |
+| Fat | **85 to 95 g** | **~98 g** | Ceiling +3 g — inside estimate error |
+| Calories | 2565 to 2735 | **~2455 kcal** | ~110 under band, immaterial |
+| Fibre | ~25 g | **~16 g + 2 g psyllium** | ~7 g short; figs were displaced by the banana |
+| Psyllium | 2 + 2 | **Both doses taken** | ✅ Day 2 complete |
+
+**The diet break ends here: protein at ceiling, both psyllium doses in, and the last five days averaging ~199 g of protein.** Tomorrow the frame becomes ~2200 kcal, fat ~70–80 g, protein and carb cap unchanged.
+
 ### Targets today — full band, final day before the cut
 
 | | Target | Still to find |
@@ -134,9 +162,9 @@
 ## 5. Open Items Today
 
 - [ ] **Report the morning movement's consistency — formed or loose?** One word completes the read
-- [ ] **Evening psyllium: 2 capsules with dinner**, water both sides
-- [ ] **Plan lunch now** — no training anchor, 07:30 start, ~185 g of protein to place
-- [ ] **Figs today** — part of the treatment, not garnish
+- [x] **Evening psyllium taken** — day 2 complete at 2 g
+- [x] **Lunch delivered ~129 g protein** — sandwich label-anchored
+- [x] ~~Figs~~ — displaced by the banana in the shake; fibre closed ~7 g short. Figs return tomorrow
 - [ ] **Water 2.5 L** in this heat
 - [ ] **Red meat rule — still awaiting the formal decision**
 - [ ] **Blood pressure reading — still outstanding**
