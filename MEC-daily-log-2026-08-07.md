@@ -58,6 +58,50 @@
 
 **Fifth consecutive light opening, and today has no training anchor.** The noon meal carries the day again: **~181–206 g of protein still to find.** With the 07:30 errand, lunch needs to be planned, not improvised — the Pasta Beast Salad order or a chicken-based plate are the proven moves.
 
+### Meal 2 — protein balls and the Kaimun bar
+
+| Item | P | C | F | kcal |
+|---|---|---|---|---|
+| Protein balls × 2 | ~10 | ~14 | ~8 | ~170 |
+| Kaimun double chocolate bar, 55 g | 20 | 17 | 7.7 | 201 |
+| **Total** | **~30** | **~31** | **~15.7** | **~371** |
+
+#### ⚠️ THE KAIMUN BAR IS EXCLUDED GOING FORWARD — 14 g POLYOLS PER BAR
+
+**Label read in full: per 55 g bar — 20 g protein, 17 g carbs OF WHICH 14 g POLYOLS, 1.5 g sugars, 7.7 g fat (4.2 saturated), 3.2 g fibre, 201 kcal.**
+
+**Fourteen grams of polyols in one bar — nearly double the ~8 g of the crisp bars whose removal fixed the loose stools.** The bar joins the exclusion list. Today's single bar (14 g) sits under the ~20 g symptom threshold but is a meaningful dose on this gut; no second bar.
+
+**Interpretation flag for tomorrow, logged in advance: if Saturday morning's stool is softer or loose, that is this bar — not psyllium failing, not the problem returning.** The trustworthy read comes Sunday.
+
+**Pattern now three-for-three: every "low sugar" protein bar in this market hits its claim with polyols.** The safe buys remain cookies and brookies (real flour, modest real sugar, zero polyols) or any label reading "of which polyols: 0."
+
+### Meal 3 — lunch (shared pizza with a friend)
+
+| Item | P | C | F | kcal |
+|---|---|---|---|---|
+| ½ pizza, biga dough + 150 g chicken | ~61 | ~28 | ~15 | ~505 |
+| Protein Chicken Sandwich (label) | 67.7 | 21 | ~23 | ~560 |
+| Pepsi Zero | 0 | 0 | 0 | 0 |
+| **Total** | **~129** | **~49** | **~38** | **~1065** |
+
+**The biggest single-meal protein of the week, anchored by the sandwich's label.** Caffeine ~69 mg at lunch — compliant with the 14:00 cutoff.
+
+**Dough note: the pizzeria uses a biga preferment — zero added sugar, minimal yeast, long fermentation.** That does not change the macros (starch is starch) but long fermentation partially breaks down fructans, making the dough genuinely easier on a sensitive gut. The refined-dough caveat is softened accordingly.
+
+### Running total after lunch
+
+**~168 P / ~95 C / ~58 F / ~1590 kcal.**
+
+| | Target | Still to find |
+|---|---|---|
+| Protein | 190 to 215 g | **~22 to 47 g** |
+| Carbs | 250 g cap | ~155 g of room |
+| Fat | 85 to 95 g | ~27 to 37 g of room |
+| Calories | 2565 to 2735 | ~975 to 1145 |
+
+**Evening plan: cookie + brookie or a small shake (protein), figs AND walnuts (fibre + fat, both fit), psyllium 2 caps with dinner, water toward 2.5 L.**
+
 ### Targets today — full band, final day before the cut
 
 | | Target | Still to find |
