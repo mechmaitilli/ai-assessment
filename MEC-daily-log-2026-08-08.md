@@ -184,11 +184,48 @@ What the 0.9 kg actually is:
 
 ---
 
-## 6. Open Items Today
+## 6. Nutrition Log
+
+| Meal | Item | P | C | F | kcal |
+|---|---|---|---|---|---|
+| Pre-training | Coffee ×2 (1 normal, 1 decaf) | 0 | 0 | 0 | ~0 |
+| Post-workout | NitroTech vanilla, 1 scoop + banana, water | ~31 | ~30 | ~3 | ~265 |
+| Starbucks | Half diet lemon cake + half skinny muffin, short Pike | ~3.5 | ~45.5 | ~3.25 | ~235 |
+| Lunch | Protein Sandwich, small (120 g) | 45.4 | 13 | ~16.2 | 379 |
+| Lunch | Protein Sandwich, large (175 g) | 67.7 | 21 | ~23 | 559.9 |
+| **Running total** | | **~147.6** | **~109.5** | **~45.45** | **~1439** |
+
+**Vitamin D dose 4 and psyllium dose 1 (3 capsules) both taken with the sandwiches** — good pairing, ~39 g of fat between the two meals for absorption.
+
+### Projected close
+
+| | Target | Still to find | Plan |
+|---|---|---|---|
+| Protein | 190–215 g | ~42–67 g | 1.5 scoop NitroTech + banana + ~30 g walnuts |
+| Carbs | 250 g cap | ~140 g of room | Covered by the above |
+| Fat | 70–80 g | ~25–35 g | Walnuts carry most of this |
+| Calories | ~2200 | ~760 kcal | |
+
+**Projected day close: ~198 P / ~145 C / ~70 F / ~1980 kcal** — protein in band, fat at the floor, calories moderately under on day one. Not yet confirmed as eaten.
+
+---
+
+## 7. Verified Food Database — additions today
+
+| Item | Serving | P | C | F | kcal | Source |
+|---|---|---|---|---|---|---|
+| Protein Sandwich, small | 120 g | 45.4 | 13 | ~16.2 (back-solved) | 379 | Label — same vendor, different size than the 175 g version already on file |
+| Protein Sandwich, large | 175 g | 67.7 | 21 | ~23 | 559.9 | Label — confirmed prior entry |
+| Diet lemon cake, half slice | ~ | ~1.5 | ~15 | ~2.5 | ~90 | Estimate — unlabeled, **possible polyol sweetener, unconfirmed** |
+| Skinny muffin, half | ~ | ~2 | ~30.5 | ~0.75 | ~145 | Estimate, Starbucks |
+
+---
+
+## 8. Open Items Today
 
 - [x] **WEIGH-IN DONE: 89.8 kg baseline**, condition logged
-- [ ] **Vitamin D dose 4** — with the day's fattiest meal
-- [ ] **Psyllium 3 + 3**, water both sides
+- [x] **Vitamin D dose 4 — TAKEN**, with the sandwiches
+- [ ] **Psyllium 3 + 3** — first dose (3 caps) taken with lunch, **second dose (3 caps) still due with dinner**
 - [ ] **Figs today, finally**
 - [ ] **Legs: report loads live**
 - [ ] **First cut day: land ~2200 with protein ≥190**
