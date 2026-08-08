@@ -59,7 +59,28 @@ What the 0.9 kg actually is:
 
 **Reported mid/late afternoon: "finally bowl movement, a lot of gas at the beginning & after good bowel movement."** Last movement was Friday morning — call it a 48-hour gap, the longest of the whole three-week episode.
 
-**Consistency not yet reported — the same one word this file has asked for all week: formed, or loose?**
+**CONSISTENCY REPORTED: half formed, half loose.** And critically: **this happened before today's psyllium dose was taken** — the first 3-capsule dose went in only afterward.
+
+### This movement is not a psyllium result
+
+**Nothing in today's psyllium ramp had reached the system yet when this happened.** The trigger set is mechanical and physiological, not fibre-driven: the fasted leg session (a strong motility stimulant), the Pike coffee (a genuine colonic stimulant), and 48 hours of accumulated pressure. **The next movement — likely influenced by today's full 3+3 dose — is the first real test of what psyllium itself is doing.**
+
+### The honest trend: oscillating, not settling
+
+| Date | Consistency |
+|---|---|
+| 3 Aug | Swooshy throughout |
+| 4 Aug | Swooshy AM, two formed pieces PM |
+| 5 Aug | Half formed, loose at the end |
+| 6 Aug | **Hard, small pieces, straining** |
+| 7 Aug | "Good" — consistency unspecified |
+| **8 Aug** | **Half formed, half loose — back to roughly the 5 August read** |
+
+**This is not a clean improving line — it swings.** Loose → half-half → hard → half-half again, against a backdrop of real confounds this week: the Kaimun bar's 14 g of polyols on Friday, the diet break ending, a fasted heavy session, and the cut's first day. **The gut is reactive to all of it, and psyllium has only had two partial, low-dose days (1 g Thursday, 2 g Friday) to work with before this movement — not yet a fair trial.**
+
+### Tomorrow's checkpoint, revised
+
+**The strict "no movement" trigger for the magnesium citrate conversation is stood down** — a real movement did occur today, even if not fully formed. **But consistency is not resolved, and that goal keeps running on the existing plan:** psyllium continues its ramp (4+4 tomorrow), figs stay in, water stays up. **Watch the next movement specifically as the first read with a meaningful psyllium dose already on board.**
 
 ### Reading the gas-then-relief pattern
 
