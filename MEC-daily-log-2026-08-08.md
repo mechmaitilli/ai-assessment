@@ -55,13 +55,32 @@ What the 0.9 kg actually is:
 
 ---
 
-## 4. GI — no movement since Friday morning
+## 4. GI — MOVEMENT, after ~48 hours
 
-**~24 h and counting at wake. The Kaimun bar's 14 g of polyols predicted a softer stool this morning; instead there was none — the confound is dead, and the picture tilts further toward slow transit as the baseline.**
+**Reported mid/late afternoon: "finally bowl movement, a lot of gas at the beginning & after good bowel movement."** Last movement was Friday morning — call it a 48-hour gap, the longest of the whole three-week episode.
 
-- **Psyllium ramps to 3 + 3 today** with the usual water
-- **Figs return today** — displaced twice by bananas
-- **THE SUNDAY CHECKPOINT IS TOMORROW:** no meaningful movement by then → the magnesium citrate conversation with Dr Chalhoub. Pre-agreed, not improvised
+**Consistency not yet reported — the same one word this file has asked for all week: formed, or loose?**
+
+### Reading the gas-then-relief pattern
+
+**This fits the mechanism flagged earlier today exactly.** Foul, heavy gas ahead of a movement after an extended gap is the signature of material that has been fermenting in the colon longer than usual — bacteria had more time to work on it, producing more gas, and then it cleared. The gas was the warning sign of what was coming, not a separate problem.
+
+### What plausibly triggered it today, honestly ranked
+
+1. **The leg session itself.** Physical activity is one of the most reliable motility stimulants there is, and today's was a long, heavy, fasted session
+2. **Caffeine, specifically the Pike.** Coffee is a well-established direct colonic stimulant — this is not folklore, it activates gut motility within roughly 30–60 minutes for many people, faster than food itself
+3. **Psyllium** — if today's first dose had already been taken by this point
+4. **The extended gap itself.** Forty-eight hours is long enough that pressure alone increases the odds of a movement regardless of any single lever
+
+**This is why the plan never depended on any one lever working alone — training, caffeine timing, water, fibre and psyllium were always going to act together, and today several of them landed close together.**
+
+### Where this leaves the Sunday checkpoint
+
+**This effectively pre-empts tomorrow's checkpoint before it arrives — a real movement today, not zero, changes the question tomorrow morning is asking.** If tomorrow shows another movement (any consistency), the magnesium citrate conversation stands down for now. If tomorrow is silent again, the checkpoint still holds as planned. **Consistency today is still the number that matters most for reading the trend correctly — one word closes it.**
+
+- **Psyllium 3 + 3 today** — confirm whether the first dose has been taken yet
+- **Figs today** — still the plan, still helps the base rate regardless of today's result
+- Water, unchanged
 
 ---
 
