@@ -86,14 +86,49 @@ What the 0.9 kg actually is:
 
 **Next leg press session: open around 260–270 kg × 8, 2 RIR, with a new warmup ramp built off today's numbers.** Two working sets plus the calibration set is a complete, informative block for a fasted first day — no third set needed.
 
-### Remainder of session
+### RDL — as performed
 
-| Exercise | Target | Basis |
-|---|---|---|
-| **RDL** | **100 kg × 8–10, controlled** | Held moderate — GI still unsettled, no BM since Friday |
-| Leg extension | 65 kg, true 2 RIR | Ran at 1 RIR twice last time — pull back |
-| Seated leg curl | 57.5 kg × 12 | Top set already there |
-| Seated calf raise | 27.5 kg × 15 | Progressed from 25×15 |
+| Set | Load | Reps | RIR | Note |
+|---|---|---|---|---|
+| 1 | 100 kg | 10 | 2 | Clean, controlled |
+| 2 | 100 kg | 9 | 2 | **Grip failed, not the RDL itself** — controlled throughout |
+| 3 | 100 kg | 10 | 2 | **Straps used — grip removed as the limiter, confirmed clean** |
+
+**100 kg × 3 sets confirmed as the working weight.** Grip, not the hip hinge or lower back, was the limiter on set 2 — straps for RDL going forward.
+
+### Leg extension — as performed
+
+| Set | Load | Reps | RIR |
+|---|---|---|---|
+| 1 | 65 kg | 12 | **2 — genuine, corrected from last week's 1 RIR** |
+| 2 | 65 kg | 12 | 2 |
+| 3 | 65 kg | 11 | 2 |
+
+**Clean drop-off (12, 12, 11) confirms 65 kg as correctly calibrated.** Small bump to 67.5–70 kg is reasonable next time.
+
+### Seated leg curl — as performed
+
+| Set | Load | Reps | RIR |
+|---|---|---|---|
+| 1 | 57.5 kg | 12 | 2 |
+| 2 | 57.5 kg | 12 | 2 |
+| 3 | **62.5 kg** | 10 | 2 | Self-directed jump, more room found |
+
+**Next session: open ~60 kg**, same pattern as leg press — 57.5 had room left.
+
+### Seated calf raise — as performed, SESSION ENDED HERE
+
+| Set | Load | Reps | RIR | Note |
+|---|---|---|---|---|
+| 1 | **30 kg** (self-directed, above the 27.5 plan) | 15 | 2 | **Small cramp, right calf, at rep 13. Finished clean but session stopped as a precaution** |
+
+**Session ended on the cramp cue rather than pushing a second calf set.** Plausible cause: fully fasted training (2 coffees only), last exercise of an unusually heavy session, no water logged yet today. Not treated as a red flag — hydrate immediately and monitor.
+
+### Session summary
+
+**A full recalibration day, not just a training log.** Leg press alone found 260×8 at 2 RIR against a 190 kg plan — a different machine than the 30 July hack squat entry, so no exercise in this session was actually mis-loaded before today; the anchor was simply borrowed from the wrong lift. RDL, leg extension and leg curl all confirmed or slightly exceeded their targets. Calves stopped clean on a sensible caution, not a failure.
+
+**Priority now: water and the post-workout shake**, doing double duty for refuel and rehydration after a fasted session that ran long.
 
 **Next: Sun rest, Mon Chest.**
 
