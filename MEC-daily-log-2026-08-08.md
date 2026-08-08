@@ -195,7 +195,8 @@ What the 0.9 kg actually is:
 | Lunch | Protein Sandwich, large (175 g) | 67.7 | 21 | ~23 | 559.9 |
 | Lunch | Pepsi Zero ×2 | 0 | 0 | 0 | 0 |
 | Bites | 2 bites, daughter's sandwich (markouk, garlic sauce) | ~7 | ~2 | ~3–4 | ~60–65 |
-| **Running total** | | **~154.6** | **~111.5** | **~49** | **~1502** |
+| Dinner | NitroTech vanilla, 1 scoop + banana, water | ~31 | ~30 | ~3 | ~265 |
+| **Running total** | | **~185.6** | **~141.5** | **~52** | **~1767** |
 
 ### Caffeine check — CONFIRMED BREACH
 
@@ -210,16 +211,18 @@ What the 0.9 kg actually is:
 
 **Vitamin D dose 4 and psyllium dose 1 (3 capsules) both taken with the sandwiches** — good pairing, ~39 g of fat between the two meals for absorption.
 
+**Psyllium dose 2 (3 capsules) taken with dinner — day 3 ramp (3 + 3) COMPLETE.** First full 3 g psyllium day. This evening dose is the one that matters most for tomorrow's checkpoint: the afternoon movement predated any psyllium today, so the next movement is the first read with a meaningful dose actually on board.
+
 ### Projected close
 
 | | Target | Still to find | Plan |
 |---|---|---|---|
-| Protein | 190–215 g | ~42–67 g | 1.5 scoop NitroTech + banana + ~30 g walnuts |
-| Carbs | 250 g cap | ~140 g of room | Covered by the above |
-| Fat | 70–80 g | ~25–35 g | Walnuts carry most of this |
-| Calories | ~2200 | ~760 kcal | |
+| Protein | 190–215 g | ~4 to ~29 g | Walnuts (~30 g) close most of the gap |
+| Carbs | 250 g cap | ~108 g of room | Not a concern |
+| Fat | 70–80 g | ~18 to ~28 g | Walnuts carry nearly all of this |
+| Calories | ~2200 | ~433 kcal | |
 
-**Projected day close: ~198 P / ~145 C / ~70 F / ~1980 kcal** — protein in band, fat at the floor, calories moderately under on day one. Not yet confirmed as eaten.
+**Walnuts (~30 g: ~4.5 P / 4 C / 20 F / ~196 kcal) plus figs are still the plan to close the fat floor and fibre.** Projected final close if both land: **~190 P / ~145.5 C / ~72 F / ~1963 kcal** — protein right at the floor, fat in band, calories moderately under on day one. Not yet confirmed as eaten.
 
 ---
 
@@ -238,8 +241,9 @@ What the 0.9 kg actually is:
 
 - [x] **WEIGH-IN DONE: 89.8 kg baseline**, condition logged
 - [x] **Vitamin D dose 4 — TAKEN**, with the sandwiches
-- [ ] **Psyllium 3 + 3** — first dose (3 caps) taken with lunch, **second dose (3 caps) still due with dinner**
+- [x] **Psyllium 3 + 3 — BOTH doses taken.** Day 3 ramp complete
 - [ ] **Figs today, finally**
+- [ ] **Walnuts (~30 g) to close the fat floor**
 - [ ] **Legs: report loads live**
 - [ ] **First cut day: land ~2200 with protein ≥190**
 - [ ] **Red meat rule — decision owed**
