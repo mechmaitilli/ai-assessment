@@ -65,16 +65,35 @@ What the 0.9 kg actually is:
 
 ---
 
-## 5. Training today: LEGS
+## 5. Training today: LEGS — session in progress
+
+### ⚠️ CORRECTION: the 30 July anchor was the wrong exercise
+
+**The plan opened targeting 190 kg × 8 based on the 30 July "leg press/hack squat" entry. That entry was the hack squat, not the leg press — two different machines with different strength curves.** Today is a fresh calibration on true leg press, not a continuation of the hack squat numbers. The 190/200 kg hack squat figures stand unchanged for whenever that machine returns to rotation.
+
+### Leg press — today's session, as performed
+
+| Set | Load | Reps | RIR | Note |
+|---|---|---|---|---|
+| Warmup | 40 kg | 20 | — | |
+| Warmup | 90 kg | 15 | — | |
+| Warmup | 175 kg | 8 | — | |
+| Work | 195 kg | 8 | **4** | Far too light — huge reserve left |
+| Work | 215 kg | 8 | **2** | First honest working set |
+| Calibration | **260 kg** | **8** | **2** | Athlete-directed test, exceeded the 250 kg plan. **This is the real number** |
+
+**Fasted (2 coffees only), day 1 of the cut.** No symptoms reported; the load ceiling is clearly far above what the file assumed.
+
+**Next leg press session: open around 260–270 kg × 8, 2 RIR, with a new warmup ramp built off today's numbers.** Two working sets plus the calibration set is a complete, informative block for a fasted first day — no third set needed.
+
+### Remainder of session
 
 | Exercise | Target | Basis |
 |---|---|---|
-| **Leg press** | **190 kg × 8, 2 RIR × 3 sets** | 200 kg went to 0 RIR on 30 July; 190 is the honest anchor |
-| Leg extension / curl | Carry 30 July loads, log live | |
-| Calves | As available | |
-| ~~Barbell squat~~ | Substituted by press | Standing bloat/compression consideration |
-
-**First session in a deficit: expect nothing missing today — glycogen is still full from the break. The test comes in week 2–3.**
+| **RDL** | **100 kg × 8–10, controlled** | Held moderate — GI still unsettled, no BM since Friday |
+| Leg extension | 65 kg, true 2 RIR | Ran at 1 RIR twice last time — pull back |
+| Seated leg curl | 57.5 kg × 12 | Top set already there |
+| Seated calf raise | 27.5 kg × 15 | Progressed from 25×15 |
 
 **Next: Sun rest, Mon Chest.**
 
