@@ -116,19 +116,29 @@ What the 0.9 kg actually is:
 
 **Next session: open ~60 kg**, same pattern as leg press — 57.5 had room left.
 
-### Seated calf raise — as performed, SESSION ENDED HERE
+### Seated calf raise — as performed, full session completed
 
 | Set | Load | Reps | RIR | Note |
 |---|---|---|---|---|
-| 1 | **30 kg** (self-directed, above the 27.5 plan) | 15 | 2 | **Small cramp, right calf, at rep 13. Finished clean but session stopped as a precaution** |
+| 1 | **30 kg** (self-directed, above the 27.5 plan) | 15 | 2 | Small cramp, right calf, at rep 13. Finished clean, **session paused as a precaution** |
+| 2 | 30 kg | 15 | 2 | Resumed after the pause and water. No repeat symptoms |
+| 3 | 30 kg | 15 | 2 | No repeat symptoms |
 
-**Session ended on the cramp cue rather than pushing a second calf set.** Plausible cause: fully fasted training (2 coffees only), last exercise of an unusually heavy session, no water logged yet today. Not treated as a red flag — hydrate immediately and monitor.
+**All three sets landed identically at 30×15, 2 RIR — the cramp was a genuine pause-and-recover, not a real limiter.** Full volume completed at a load 2.5 kg above the plan, with no further symptoms once rehydrated. **30 kg × 15 is confirmed as the calf raise working weight**, ready to progress next session.
+
+### Post-workout nutrition
+
+| Item | P | C | F | kcal |
+|---|---|---|---|---|
+| NitroTech vanilla, 1 scoop + banana, water | ~31 | ~30 | ~3 | ~265 |
+
+**Taken immediately post-session** — refuel and rehydration together after a fully fasted training session.
 
 ### Session summary
 
-**A full recalibration day, not just a training log.** Leg press alone found 260×8 at 2 RIR against a 190 kg plan — a different machine than the 30 July hack squat entry, so no exercise in this session was actually mis-loaded before today; the anchor was simply borrowed from the wrong lift. RDL, leg extension and leg curl all confirmed or slightly exceeded their targets. Calves stopped clean on a sensible caution, not a failure.
+**A full recalibration day, not just a training log.** Leg press alone found 260×8 at 2 RIR against a 190 kg plan — a different machine than the 30 July hack squat entry, so no exercise in this session was actually mis-loaded before today; the anchor was simply borrowed from the wrong lift. RDL, leg extension and leg curl all confirmed or slightly exceeded their targets. Calves paused on a sensible caution mid-set, then completed all three sets cleanly at the higher load once rehydrated.
 
-**Priority now: water and the post-workout shake**, doing double duty for refuel and rehydration after a fasted session that ran long.
+**Every single exercise in the session met or exceeded its target — the strongest session in the file by a clear margin, and it happened fully fasted on day 1 of a calorie deficit.**
 
 **Next: Sun rest, Mon Chest.**
 
