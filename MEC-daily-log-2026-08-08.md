@@ -3,7 +3,7 @@
 **Date:** Saturday, 8 August 2026
 **Athlete:** Mohamad Eid Chmaitilli (MEC)
 **Prepared for:** Cal (personal trainer) / coaching team
-**Status:** OPEN. **DAY 1 OF THE CUT.**
+**Status:** CLOSED AND CONFIRMED. **DAY 1 OF THE CUT.**
 
 ---
 
@@ -196,7 +196,8 @@ What the 0.9 kg actually is:
 | Lunch | Pepsi Zero ×2 | 0 | 0 | 0 | 0 |
 | Bites | 2 bites, daughter's sandwich (markouk, garlic sauce) | ~7 | ~2 | ~3–4 | ~60–65 |
 | Dinner | NitroTech vanilla, 1 scoop + banana, water | ~31 | ~30 | ~3 | ~265 |
-| **Running total** | | **~185.6** | **~141.5** | **~52** | **~1767** |
+| Close | Walnuts, ~30 g | ~4.5 | ~4 | ~20 | ~196 |
+| **Day total** | | **~190.1** | **~145.5** | **~72** | **~1963** |
 
 ### Caffeine check — CONFIRMED BREACH
 
@@ -222,7 +223,20 @@ What the 0.9 kg actually is:
 | Fat | 70–80 g | ~18 to ~28 g | Walnuts carry nearly all of this |
 | Calories | ~2200 | ~433 kcal | |
 
-**Walnuts (~30 g: ~4.5 P / 4 C / 20 F / ~196 kcal) plus figs are still the plan to close the fat floor and fibre.** Projected final close if both land: **~190 P / ~145.5 C / ~72 F / ~1963 kcal** — protein right at the floor, fat in band, calories moderately under on day one. Not yet confirmed as eaten.
+**Walnuts (~30 g: ~4.5 P / 4 C / 20 F / ~196 kcal) closed the day. No figs — none at home, none found at the supermarket.**
+
+### DAY CLOSE — CONFIRMED
+
+| | Target | Close | Verdict |
+|---|---|---|---|
+| Protein | **190 to 215 g** | **~190.1 g** | ✅ Right at the floor |
+| Carbs | **250 g cap** | **~145.5 g** | ✅ Over 100 g of room |
+| Fat | **70 to 80 g** | **~72 g** | ✅ In band |
+| Calories | ~2200 | **~1963 kcal** | ~237 under, immaterial for day one |
+| Fibre | ~25 g | **Likely short** | Figs skipped (unavailable); walnuts add only ~2 g. Psyllium (6 caps, ~3 g) plus food fibre from sandwiches/banana/walnuts probably lands somewhere in the mid-teens, not 25 g |
+| Psyllium | 3 + 3 | **Both doses taken** | ✅ Day 3 ramp complete |
+
+**Day 1 of the cut lands clean: protein at the floor of the new band, fat in the new lower range, calories moderately under ~2200 — a reasonable first-day undershoot, not a concern.** The one soft spot is fibre — figs were the fibre item and weren't available, so tomorrow's movement is watched a little more carefully than it otherwise would be, on top of already being the first read with a full psyllium dose on board.
 
 ---
 
@@ -242,13 +256,14 @@ What the 0.9 kg actually is:
 - [x] **WEIGH-IN DONE: 89.8 kg baseline**, condition logged
 - [x] **Vitamin D dose 4 — TAKEN**, with the sandwiches
 - [x] **Psyllium 3 + 3 — BOTH doses taken.** Day 3 ramp complete
-- [ ] **Figs today, finally**
-- [ ] **Walnuts (~30 g) to close the fat floor**
-- [ ] **Legs: report loads live**
-- [ ] **First cut day: land ~2200 with protein ≥190**
+- [x] ~~Figs today, finally~~ — unavailable at home or supermarket; skipped
+- [x] **Walnuts (~30 g) closed the fat floor**
+- [x] **Legs: reported live** — 260 kg × 8 leg press calibration, every exercise progressed
+- [x] **First cut day: landed ~1963 kcal, protein ~190.1 g** — floor cleared, band cleared, calories under
 - [ ] **Red meat rule — decision owed**
 - [ ] **Blood pressure — still outstanding, on cycle**
-- [ ] **Tomorrow: GI checkpoint — movement or the citrate conversation**
+- [ ] **Fibre shortfall — watch, figs displaced with no substitute today**
+- [ ] **Tomorrow: GI checkpoint — first movement with a full psyllium dose on board**
 
 ---
 
