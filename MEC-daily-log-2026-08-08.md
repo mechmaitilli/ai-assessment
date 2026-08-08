@@ -194,18 +194,19 @@ What the 0.9 kg actually is:
 | Lunch | Protein Sandwich, small (120 g) | 45.4 | 13 | ~16.2 | 379 |
 | Lunch | Protein Sandwich, large (175 g) | 67.7 | 21 | ~23 | 559.9 |
 | Lunch | Pepsi Zero ×2 | 0 | 0 | 0 | 0 |
-| **Running total** | | **~147.6** | **~109.5** | **~45.45** | **~1439** |
+| Bites | 2 bites, daughter's sandwich (markouk, garlic sauce) | ~7 | ~2 | ~3–4 | ~60–65 |
+| **Running total** | | **~154.6** | **~111.5** | **~49** | **~1502** |
 
-### Caffeine check
+### Caffeine check — CONFIRMED BREACH
 
-| Source | Estimate |
+| Source | Amount |
 |---|---|
 | Coffee ×2, pre-training | ~70–80 mg |
-| Pike at Starbucks | ~180–310 mg, size not confirmed |
+| **Pike, medium — confirmed** | **~310 mg** |
 | Pepsi Zero ×2 | ~134 mg |
-| **Total** | **~384–524 mg** |
+| **Total** | **~514–524 mg** |
 
-**Straddles or exceeds the 400 mg cap depending on the Pike's size, which is unconfirmed.** No more caffeine today regardless — mid-afternoon stacking risks tonight's sleep on top of the macro question.
+**~115–125 mg over the 400 mg cap.** Not acutely concerning at this level, but it's a real breach, not a borderline one. No more caffeine today, and watch tonight's sleep for any effect given how late this landed.
 
 **Vitamin D dose 4 and psyllium dose 1 (3 capsules) both taken with the sandwiches** — good pairing, ~39 g of fat between the two meals for absorption.
 
